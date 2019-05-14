@@ -1,7 +1,4 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
 # CHAPTER XVII 
 
 ## THE RECOGNITIONS OF CLEMENT AND SIMON MAGUS 
