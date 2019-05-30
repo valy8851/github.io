@@ -1,0 +1,412 @@
+
+# Chapter XXX 
+
+## Gerbert and the introduction of arabic astrology.
+
+### Arabic influence in early manuscripts. 
+
+The usual view has been that western Latin learning was not affected by Arabic science until the twelfth or even the thirteenth century. We shall see in other chapters that the translations of the Aristotelian books of natural philosophy were current rather earlier than has been recognized, that in medicine a period of Neo-Latin Salernitan tradition can scarcely be distinguished from one of Arabic influence, and that in chemistry owing to the misinterpretation of the date of Robert of Chester's translation of the book of Morienus Romanus - in which Robert says that the Latin world does not yet know what alchemy is - Berthelot in his history of medieval alchemy placed the introduction of Arabic influence half a century too late. In the present chapter we shall see that the voluminous work of translation of Arabic astrologers which went on in the twelfth century - and to which another chapter will later be devoted - was preceded in the eleventh and even tenth centuries by numerous signs of Arabic influence in works of astronomy and astrology and also by translations of Arabic authors.  
+I was somewhat startled when I first found works by Arabic authors and use of astronomical terminology drawn from the Arabic in a manuscript of the eleventh century in the British Museum [^1:1] 
+
+ [^1:1]: Additional 17,808, a narrow folio in vellum with all the treatises written in the same large, plain hand with few abbreviations. A considerable part of the MS is occupied by the work on music of Guido of Arezzo (c. 995-1050). This MS is not noted by Wickersheimer or by Bubnov, although it includes treatises on the abacus and the astrolabe which are perhaps by Gerbert.
+
+and Wickersheimer was similarly surprised at the traces of Arabic influence in a similar but still earlier manuscript of the tenth century at Paris. [^1:2] 
+
+ [^1:2]: BN 17,868, from the chapter of Notre Dame of Paris, 21 leaves. Wickersheimer (1913). 321-3, states that it has all the marks of the writing of the tenth century: Delisle so dated it. Bubnov (1899), LXVII, regards fols. 14r et seq. as by a slightly older hand than the first portion.  
+
+Bubnov, however, had already noted this Paris manuscript as a proof that Arabic books were being translated into Latin in Gerbert's time, [^1:3] and one of Gerbert's letters, written in 984 to a Lupitus of Barcelona (_Lupito Barchinonensi_), asking him to send Gerbert a book on "astrology" which he had translated, points in the same direction. In the present chapter we shall discuss the contents of the early manuscripts just mentioned and of some others which seem to have some connection either with Gerbert or the introduction of Arabic astrology into Latin learning.  
+
+ [^1:3]: Bubnov (1899), 124-6, note. 
+
+## Astrolab
+
+### A preface and twenty-one chapters on the astrolabe.
+
+In an eleventh century manuscript at Munich [^1:4] the astrological work of Firmicus is preceded by writings in a different hand upon the astrolabe. 
+
+ [^1:4]: CLM 560, described in Bubnov, Gerberti opera mathematica, 1899, p. xli. 
+
+One of these, in its present state an anonymous fragment, is a stilted and florid introduction to a translation from the Arabic of a work on the astrolabe. [^1:5] 
+
+ [^1:5]: CLM 560, fols. 16r-19, Fragmentum libelli de astrolabio a quodam ex Arabico versi. Incipit, "Ad intimas summe phylosophie disciplinas et sublimia ipsius perfectionis archisteria." Printed by Bubnov (1899), pp. 370-75.  
+
+Another is a treatise on the astrolabe in twenty-one chapters and containing many Arabic names. [^1:6] 
+
+ [^1:6]: Incipit "Quicumque astronomiam peritiam disciplinae"; the printed editions insert a discere after astronomiam, but it has not been there in the MSS which I have seen and is not needed. Printed by Pez, _Thesaurus Anecdotorum Noviss_. Ill, ii, 109-30, (1721) and incorrectly ascribed by him to Hermannus Contractus, because it often occurs in the MSS together with another treatise on the astrolabe by a "Herimannus Christi pauperum peripsima et philosophiae tyronum asello imo limace tardior assecla." Of this last we shall have more to say presently. The edition of Pez reappears in Migne, PL vol. 143. Bubnov (1899), 114-47, gives a new edition, and at pp. 109-13 a list of the MSS of the work, in which, however, he fails to note the following: and they are also absent from his general index of 153 codices at pp. xvii-xc. BM Additional MS 17808, 11th century, fols. 73v-79r, under the title as in other MSS of “Regulae ex libris Ptolomei regis de compositione astrolapsus.”’ Yet Bub- nov says, p. cxvi, “Catalogues of Additional MSS (omnia volumina inspexi, quae ante a. 1895 edita sunt)." BM Egerton 823, 12th century, fol. 4r. BN 7412, 12th and 13th centuries, fols. 1-9, "Waztalkora sive tract. de utilitatibus astrolabii" Professor D.B.Macdonald suggests that _Waztalkora_ is for _rasmu-I-kura_, "the describing of the sphere in lines."
+
+Bubnov lists three other copies of the introductory fragment, and they are all in manuscripts where the second treatise is also included; [^2:1] it, however, is often found in other manuscripts where the anonymous fragment does not appear, and it must be admitted that its omission is no great loss. 
+
+ [^2:1]: (1899), p. 370.
+
+### Are they parts of one work?
+
+Although the fragment precedes the other treatise in only one manuscript mentioned by Bubnov, there is reason to think that they belong together, since both are concerned with the Wazzalcora or planisphere or astrolapsus of Ptolemy, and since the plan outlined by the writer of the introduction is followed in the treatise of twenty-one chapters except that it ends incompletely. Bubnov recognized this, yet did not unite them as a single work. [^2:2] 
+
+ [^2:2]: (1899), p. 374.
+
+In 984 Gerbert wrote to a _Lupito Barchinonensi_ asking Lupitus to send him a work on "astrology" which Lupitus had translated. [^2:3] 
+
+ [^2:3]: Ep. 24
+
+If Lupitus was of Barcelona, his translation was probably from the Arabic, and as such translations were presumably not common in the tenth century, it is natural to wonder if he may not be the above-mentioned anonymous translator. This Bubnov suggested in the case of the introductory fragment, [^2:4] 
+
+ [^2:4]: (1899), p. 370.
+
+but the treatise in twenty-one chapters he placed among the doubtful works of Gerbert, [^2:5] because a monastic catalogue composed before 1084 speaks of a work of Gerbert on the astrolabe, while six manuscripts of the twelfth and thirteenth centuries, although none earlier to his knowledge, ascribe this very treatise of twenty-one chapters to Gerbert. 
+
+ [^2:5]: P. 109.
+
+Bubnov believed that whoever the author of the treatise in twenty-one chapters was, he had utilized the full work of the anonymous translator. But this seems a rather unnecessary refinement. For what has become of that translation? Why is only its wordy and rhetorical preface extant? If the writer of the twenty-one chapters destroyed its text after plagiarizing it, why did he not also make away with the preface? It seems more plausible that the twenty-one chapters are the original translation from the Arabic, and that many makers of manuscripts have copied it alone and omitted the wordy and rather worthless preface of the translator. If, as Bubnov suggested, the treatise in twenty-one chapters is Gerbert's revision and polishing up of Lupitus' translation, [^3:1] why did he not prefix a new introduction of his own? And why should anyone try to polish up the style of so rhetorical a writer as he who penned the extant anonymous introduction? 
+
+ [^3:1]: Bubnov (1899), 370 . . . "Hoc opusculum ex Arahico versum ad manum habuit, retractavit dicendique genere expolivit." 
+
+## Gerbert 
+
+### Their relation to Gerbert and the Arabic.
+
+If we accept this anonymous introduction as the preface to the twenty-one chapters, Gerbert would be the most likely person to ascribe both to, unless we argue that he could not make a translation from the Arabic and that his letter asking to see a translation from the Arabic by Lupitus is a proof of this. If Gerbert is not the author, Lupitus would perhaps be the next most likely person, but the hint contained in Gerbert's letter is all that points to Lupitus, and indeed the only mention that we have of him. If the translator is some third unknown person, at least he is not later than the eleventh century.   
+If, on the other hand, we regard the introduction of the translator and the twenty- one chapters as by different persons, who perhaps had no connection with each other, and Gerbert's letter of 984 as having nothing to do with either, we have the more evidence of an early and widespread interest in astronomy and knowledge of Arabic in the western Latin learned world. 
+
+### Hermann's  _De mensura astrolabii_.
+
+One reason why the treatise on the astrolabe in twenty one chapters is so seldom found in the manuscripts preceded by the introduction of the translator may be that it is more often found with and preceded by another treatise on the astrolabe, sometimes entitled  _De mensura astrolabii_, and attributed to a Hermann who modestly calls himself 
+
+"the off scouring of Christ's poor and the butt of mere tyros in philosophy." [^4:1] 
+
+ [^4:1]: Printed by Pez. _Thesaur. Anecdot. Noviss_. III, ii, 95-106. “Herimannus Christi pauperum peripsima et philosophiae tyronum asello imo limace tardior assecla.” The MSS are numerous.
+
+This treatise tells how to construct an astrolabe, thus filling in the deficiency left by the incomplete ending of the treatise in twenty-one chapters, which fails to carry out fully this last item in the plan of the introductory fragment. A note in one manuscript, reproduced in part by Macray in his catalogue of the Digby Manuscripts in the Bodleian Library, states that the treatise in twenty-one chapters is by Gerbert and that when a certain Berengarius read it, he found it told how to exercise the art but not to make the instrument and asked Hermann to tell him how to make one. Hermann therefore composed the work in question, dedicated it to Berengarius, and prefixed it to Gerbert's treatise. [^4:2] 
+
+ [^4:2]: Digby 174, fol. 210v; also noted by Bubnov (1899), p. 113. Hermann’s dedicatory prologue, however, does not give his friend’s name in full, but reads in this MS, “B. amico suo.”
+
+Of late there has been a tendency to identify 
+this Hermann with Hermann of Dalmatia, the twelfth century translator from the Arabic, [^4:3] 
+
+ [^4:3]: See Clerval, _Hermann le Dalmate_, Paris, 1891, in _Compte rendu du Congrès scientifique international des catholiques_, Sciences Historiques, 163-9. Also, I believe, published separately as _Hermann le Dalmate et les premières traductions latines des traités arabes d'astronomie au moyen age_, Paris, Picard, 1801, Il pp. Clerval adduced only one MS in support of his contention and took up the untenable position that Arabic astronomy was unknown in Latin until the twelfth century. He also did not distinguish between the different works on the astrolabe.
+
+rather than with Hermann the Lame, the chronicler, who died in 1054, but if Bubnov is correct in dating two manuscripts  [^4:4] 
+
+ [^4:4]: Munich CLM 14836. fols. 16v- 24r. BM Royal 15-B-IX, fol. 51r.: in both cases followed by the treatise of twenty-one chapters.
+
+containing Hermann's treatise on the astrolabe in the eleventh century, they could not be the work of Hermann the translator of the next century. [^5:1] 
+
+ [^5:1]: Professor Haskins has announced as in preparation an article on Hermann the translator which will perhaps solve the difficulties. 
+
+Moreover, in the thirteenth century the treatise seems to have been regarded as the work of Hermann the Lame. [^5:2] 
+
+ [^5:2]: In a Berlin manuscript of the twelfth century (Berlin 956,_ fol. ii) there is added a note in a thirteenth century hand recounting the legend that this Hermann was the son of a king and queen and that, his mother having been asked before his birth whether she would prefer a handsome and foolish son or a learned and shamefully ugly one and she having chosen the latter alternative, he was born hunchbacked and lame. It was from this MS of the treatise on the astrolabe that Pertz edited the legend in the _Monumenta Germaniae_ (_Scriptores_, V, 267). Rose (1905), P- 1179, calls the writer of this note Berengar, too, asking anent the opening words of the note, "De isto hermanno legitur in historia," "Aus welcher historia hat der Schreiber (Berengarius) seine Fabeln?" The note at the close of the treatise in Digby 174, fol. 210V, gives a different version of the legend, stating that Hermann was a good man and dear to God and that one day an angel offered him his choice between bodily health without great wisdom and the greatest science with corporal infirmity. Hermann chose the latter and afterwards became a paralytic and gouty. 
+
+The author's self-depreciatory description of himself is also a mark of Hermann the Lame, who in another treatise addressed to his friend Herrandus and discussing the length of a moon calls himself "of Christ's poor a vile abortion." [^5:3] 
+
+ [^5:3]: This treatise, in which Hermann expresses amazement that Bede has so underestimated the duration of the moon, immediately precedes the one on the astrolabe in BN nouv. acq. 229, a German MS of the twelfth century, fols. 17r-19r (formerly pp. 265-269). After the treatise on the astrolabe follows a third work by Hermann, "de quodam horologio," fols. 25V- 28r. Then follows the treatise in twenty-one chapters on the astrolabe.  
+These citations alone are sufficient to demonstrate the error of Clerval's assertion: (1891), 165. "On ne pent invoquer aucune preuve serieuse en faveur d'Hermann Contract. Jacques de Bergame et Tritheme . . . sont les premiers qui aient attribue au moirue de Constance les traites en question." 
+
+### Attitude towards astrology in the preface.
+
+In the treatise of twenty-one chapters, which simply tells how to use the astrolabe, there is naturally no reference to judicial astrology. But in the introduction of the anonymous writer to his translation from the Arabic of a work on the astrolabe there is mention of the influence of the stars. Their "concord with all mundane creatures in all things" is regarded as established by "secret institution of divinity and by natural law" and testified to by scientists. [^6:1] 
+
+ [^6:1]: Bubnov (1899) 372. "Habet etiam ex divinitatis archana institutione et physica lata ratione cum omnibus mundanis creaturis concordiam in rebus omnibus, secundum phisiologos non parvam congruentiam. . . ." Bubnov unfortunately used only one of his four MSS in printing this text, and there often seems to be something wrong with it or with his punctuation. This criticism applies more especially to the passage quoted in the following footnote.
+
+Not only is the effect of the moon on tides adduced as usual as an example, but God is believed to have set the seal of His approval upon "this discipline," when He made miraculous use of the stars and heavens to mark the birth and passion of His Son. The writer, however, stigmatizes as a "frivolous superstition" the doctrine of the Chaldean _genethlialogi_, "who account for the entire life of man by astrological reasons" and "try to explain conceptions and nativities, character, prosperity and adversity from the courses of the stars." Something nevertheless is to be conceded to them, provided all things are recognized as under divine disposition. But their doctrine is an egg which is not to be sucked unless rid of the bad odors of error. [^6:2] 
+
+ [^6:2]: Bubnov (1899) 372. “Et ut Chaldaicas reticeam gentilogias (sic) qui omnem humanam vitam astrologicis attribuunt rationationibus et quosdam constellationum effectus Der xii signa disponunt, quique etiam conceptiones et nativitates, hominumque mores, prospera seu adversa ex cursu siderum explicare conantur. Quod illorum tamen  íÍírivolae  superstitiositati concedendum est, dum omnia divinae — dispositioni commendanda sint. Illud est ovum a nullo forbillandum (Bubnov suggests the reading _furcillandum_ in parentheses, but  _sorbillandum_ seems to me the obvious reading), nisi prius foetidos inscitiae exhalaverit ructus et feces mundialium — evomerit studiorum.” The passage is rather incoherent as it stands, but I hope that I have correctly interpreted its meaning.
+
+The translator urges the importance of a knowledge of astronomy in determining the date of church festivals and canonical hours. He cites Josephus concerning Abraham's instruction of the Egyptians in arithmetic and astronomy, but regards Ptolemy as the most illustrious of all astronomers and the astrolabe as the invention of his "divine mind." The translator wishes his readers to understand that he is offering them nothing new but only reviving the discoveries of the past, and that he is simply presenting what he finds in the Arabic. 
+
+### Question of Gerbert's attitude towards astrology.
+
+If Gerbert could be shown to be the translator who wrote this introduction, it would be a more valuable bit of evidence as to his attitude toward astrology than anything that we have at present. His surely genuine mathematical works, as edited by Bubnov, consist solely of a short geometry and a few of his letters in which mathematical topics, mainly the abacus, are touched upon. His contemporary and disciple, the historian Richer, tells in the well-known passage [^7:1] how Borellus, "the duke of Hither Spain," took Gerbert as a youth from the monastery at Aurillac in Auvergne back with him across the Pyrenees and entrusted his education to Hatto, bishop of Vich, in the north-eastern part of the peninsula. 
+
+ [^7:1]: III, 43-45. 
+
+Whether Gerbert studied Arabic or not Richer does not state. Since he is still described as adolescents when the duke and bishop take him with them to Italy and leave him there with the pope, one would infer that he probably had not engaged in the work of translation from the Arabic.  Another almost contemporary writer, alluding very briefly to Gerbert, makes him visit Cordova, but is perhaps mistaken. [^7:2] 
+
+ [^7:2]: Ademarus Cabannensis, who died about 1035 (Bubnov, 1899, 382-3). For Gerbert's sources in Barcelona see J.M.Burnam, "A Group of Spanish Manuscripts," in _Bulletin Hispanique, Annates de la Faculte des Lettres de Bordeaux_, XXII, 4, p. 329.
+
+Richer does, however, state that Berbert especially studied mathesis, a word which, as various medieval writers inform us, may mean either mathematics or divination. Apparently Richer uses it in the former sense, for later he mentions only Gerbert's achievements in arithmetic, geometry, music, and astronomy. [^7:3] 
+
+ [^7:3]: III, 48-53.
+
+But Robert, king of France, 987-1031, whose teacher Gerbert had been, seems to refer to him as "that master Neptanebus" in some verses, [^7:4] a name which certainly suggests an astrologer, as well as an instructor of royalty, if not also a magician. 
+
+ [^7:4]: "Plurima me docuit Neptanebus ille magister" (Bubnov, 381)
+
+### His posthumous reputation as a magician.
+
+But Gerbert's reputation for magic seems to start with William of Malmesbury in the first half of the twelfth century, who makes him flee by night from his monastery to Spain to study "astrology" and other arts with the Saracens, until he came to surpass Julius Firmicus in his knowledge of fate. There too, according to William of Malmesbury, "he learned what the song and flight of birds portend, to summon ghostly figures from the lower world, and whatever human curiosity has encompassed whether harmful or salutary." William then adds some more sober facts concerning Gerbert's mathematical achievements and associates. [^8:1] 
+
+ [^8:1]: De rebus gestis regum Anglorum, II, 167-8.
+
+Michael Scot in his _Introduction to Astrology_ in the early thirteenth century speaks of a master Gilhertiis who was the best nigromancer in France and whom the demons obeyed in all that he required of them day and night because of the great sacrifices which he offered and his prayers and fasting and magic books and great diversity of rings and candles. Having succeeded in borrowing an astrolabe for a short time he made the demons explain its purpose, how to operate it, and how to make another one. Later he reformed and became bishop of Ravenna and pope. [^8:2] 
+
+ [^8:2]: Bodleian 266, fol. 25r.
+
+In a manuscript early in the thirteenth century is a statement that Gerbert became archbishop and pope by demon aid and had a spirit enclosed in a golden head whom he consulted as to knotty problems in composing his commentary on arithmetic. When the demon expounded a certain very difficult place badly, Gerbert skipped it, and hence that unexplained passage is called the _Saltus Gilberti_. [^8:3] 
+
+ [^8:3]: Bubnov (1899), 391. On Gerbert as a magician see further J.J.I.Döllinger, _Die Papst-Fabeln des Mittelalters_, Munich, 1863, pp.155-59,
+
+## Anonim
+
+### An anonymous astronomical treatise; its possible relation to Gerbert
+
+In a manuscript in the Bodleian library which seems to have been written early in the twelfth century [^8:4] is an astronomical treatise in four books which Macray suggested  might be the _Liber de planetib et mundi climatibus_ 
+
+ [^8:4]: Digby 83, quarto in skin, well written in large letters with few abbreviations and illustrated with-many figures in red, 76 leaves. For the _Incipits_ of the four books and their prologues see Macray's Catalogue of the Digby MSS.
+
+which Ethelwold, bishop of Winchester from 963 to 984, is said to have composed. [^8:5] 
+
+ [^8:5]: Another indication of mathematical activity in tenth century England is provided by some old verses in English in Royal 17-A- I, fols. 2v-3, which state that Euclid's geometry was introduced into England "Yn tyme of good kyng Adelstones day." Usually the first Latin translation of Euclid is supposed to have been that by Adelard of Bath in the early twelfth century. Halliwell (1839), 56. 
+
+The present treatise indeed embodies a _Letter of Ethelwold to Pope Gerbert_ on squaring the circle. [^9:1] 
+
+ [^9:1]: Digby 83, fol. 24, "Epistola Ethelwodi ad Girbertum papam. Domino summo pontifici et philosopho Girberto pape athelwoldus vite felicitatem. . . ." Gerbert of course did not become pope until long after Ethelwold's death, but this Titulus and Incipit are open to suspicion anyway, since if Gerbert had become pope he should have been addressed as Pope Silvester. The article on Ethelwold (DNB) states that "a treatise on the circle, said to have been written by him and addressed to Gerbert, afterwards Pope Silvester II, is in the Bodleian Library (1684, Bodl. MS. Digby 83, f. 24)." William of Malmesbury mentioned "Adelboldum episcopum, ut dicunt, Winterbrugen- sem" as the author of the letter to Gerbert, quoted by Bubnov (1899), 388. 
+
+It seems, however, that this letter on squaring the circle was really written by Adelbold, bishop of Utrecht from 1010 to 1027. [^9:2] 
+
+ [^9:2]: It has always been so printed: by Pez, Olleris, Curtze, and Bubnov, and seems to be ascribed to him in most MSS, for which and other evidence pointing to the bishop of Utrecht as author see Bubnov (1899), 300-309, 41-45, 384, etc. Bubnov, however, failed to note Digby 83 either in connection with this letter or at all in his long list of mathematical MSS (XVII-CXIX). It may therefore be well to note that the letter as given in Digby 83 differs considerably from the version printed by Bubnov. It in general omits epistolary amenities which do not bear directly on the mathematical question in hand, notably the entire first paragraph of Bubnov's text and the close of the second and third paragraphs. It also abbreviates portions of the fifth paragraph and the last sentence of the eighth and last paragraph. On the other hand after the first sentence of the fifth para- graph of Bubnov's text it inserts the following passage which seems to be missing in Bubnov's text of the letter: "Si quis ergo vult invenire quadraturam circuli dividat lineam in VII partes spatiumque unius septime partis semotim ponat. Deinde lineam in VII divisam in duo distribuat et spatium alterius duorum separatim ponat. Post hoc lineam in VII partitam triplicet cui triplicate spatium unius septime quod semoverat adiciat. Ipsa denique totam in IIII partiatur quarum quarta angulis directis per lineam quadrangulam metiatur. Ad ultimum sumpto spatio alterius duo- rum quod prius reposuerat deposito puncto in medio quadranguli eodem spatio circumducat circinum (circulum) et sic inveniet circuli quadraturam." 
+
+Adelbold speaks of himself in the letter as a young man [^9:3] and of course wrote it before Gerbert's death in 1003, and very probably before Gerbert became Pope Silvester II in 999. 
+
+ [^9:3]: Bubnov (1899), 41-42, "quod tantum virum quasi conscolasticum iuvenis convenio." 
+
+But he could scarcely have written the letter early enough to have it included in a work written by Ethelwold who died in 984.   
+Our astronomical treatise in four books is therefore not by Ethelwold, unless the letter be a later interpolation, but it is possibly by Adelbold or by Gerbert. [^10:1] 
+
+ [^10:1]: Bubnov does not include it in his edition of the mathematical works of Gerbert, but as we have seen he was unaware of the exist- ence of this MS, 1.e., Digby 83.
+
+> Its opening words, "Quicumque mundane spere rationem et astrorum legem . . . ," 
+
+are similar to those of the treatise on the uses of the astrolabe which has often been ascribed to Gerbert, 
+
+> "Quicumque astronomice peritiam discipline . . ." [^10:2] 
+
+ [^10:2]: And also to the Incipit of a treatise in a tenth century MS at Paris, BN 17,868, fol. 14r, “Quicumque nosse desiderat legem astrorum. . . ." The treatise or fragment in this Paris MS seems to end at fol. 17r, or at least at fol. 17v, after which most of the few remaining leaves of the MS, which has only 21 leaves in all, are blank. There is some similarity of contents, but the Paris MS is more astrological. Possibly, however, it is a different part of, or rather extracts from the same work, since we shall see reasons for thinking that the text in Digby 83 is incomplete.
+
+## Contents of its first two books.
+
+Our treatise then may be by Gerbert or It may be a specimen of the astronomy of the eleventh or early twelfth century. As it appears to be little known and never to have been published, it may be well to give a brief summary of its contents. An introductory paragraph outlines some of the chief points with which the treatise will be concerned, such as the twelve signs of the zodiac, their positions, "most varied qualities," the reasons for their names, and the diverse opinions of gentile philosophers and Catholics as to their significations; the four elements; and the seven planets. In the text which follows, these topics are considered in rather the reverse order to that in which they were named in the preface. After some discussion of "the founders of astronomy and the doctors of astrology," the first book is occupied with a description of the sphere or heavens. The second book is largely geographical, beginning with the question of the size of the earth, the zones, the ocean, and how to draw a T map. This geographical digression the author justifies in the prologue to his third book by the statement that often the position of the stars can be determined from the location of countries, and that if the habitat of peoples is known one can more easily arrive at the effect of the stars. [^11:1] 
+
+ [^11:1]: At least such seems to me to be the meaning of the passage, fol. 21r, "Quippe cum aliquando per situm gentium ipsarum positionem stellarum demonstrati simus precognita populorum habitatione rei effectus ad faciliorem curret eventus."
+
+### Attitude towards astrology.
+
+This suggests that the author believes in astrological influence, and in the two following books he states a number of astrological doctrines, not, however, as his own convictions but as the opinions of the genethliaci or astrologers, or "those who will have it that prosperity and adversity in human life are due to these stars." [^11:2] 
+
+ [^11:2]: Fol. 22r. 
+
+On the other hand, he seldom subjects the astrologers to any adverse criticism. Indeed, early in the third book, he states that the belief of the genethliaci that human wealth and honors, poverty and obscurity, depend upon the stars, pertains to another subject than that which he is at present discussing; namely, prognostication, concerning which he will treat fully in later chapters. But I cannot see that he fulfills this promise in the present manuscript, which seems to end rather abruptly, [^11:3] so that possibly there is something missing. 
+
+ [^11:3]: Fol. 76r, the closing words are, "Quod autem de dementis diximus idem de temporibus deque humoribus intellige sicut hec figura evidentissime designat." But the figure is not given. 
+
+In the previous passage, however, he immediately proceeded to admit that the sun and moon greatly affect our life and to tell further how it is connected with the other five planets. In the star of Saturn the soul is said to busy itself especially with reasoning and intelligence, logic and theory. Jupiter is practical and represents the power of action. Mars signifies animosity; Venus, desire; Mercury, interpretation. Men have proved the moon's moist influence by sleeping out-of-doors and finding that more humor collected in their heads when they slept in the moon-light than when they did not. [^11:4] 
+
+ [^11:4]: Fol. 27v.
+
+After mentioning the twelve signs, "through which the aforesaid planets revolving exert varied influences, and even, according to the genethliaci, make a good man in some nativities and a bad man in others," [^11:5] 
+
+ [^11:5]: Fol. 31V, "per que predicti planete revoluti diversa in diversis possunt et etiam secundum genethliacos bonum quidam in quibusdam malum vero in quibusdam quidam nativitatibus hominem astruunt," 
+
+the author goes on to tell which signs are masculine and which are feminine, to relate them to the four cardinal points and to the four elements, to define the twenty-eight mansions and their distribution among the twelve signs and seven planets, [^12:1] 
+
+ [^12:1]: Fol. 32r.
+
+and to tell how the planets differ in quality. [^12:2] All this is providing at least the basis for astrological prediction. 
+
+ [^12:2]: Fol. 36r.
+
+### The fourth book.
+
+The fourth book of the treatise is mainly taken up withdescriptions and figures of the constellations, concerning which the author often repeats the fables of antiquity. After discussing the six ages of the world, the author intended to insert a figure on what is the next to last page of the present text to show "the harmony of the elements, climates of the sky, times of the year, and humors of the human body," for, as he goes on to say, man is called a microcosm by the philosophers. This missing figure or figures would have been analogous to those which Wickersheimer investigated in the early medieval manuscripts in the libraries of France. 
+
+### Citations: Arabic names.
+
+Our author does not make many citations, but among them are Eratosthenes, [^12:3] Aratus, Ptolemy, Macrobius, and Martianus Capella. Some of these authors are perhaps known to him only indirectly, and he seems to make use of Isidore and Pliny without mentioning them. 
+
+ [^12:3]: Fol. 59r, "Herastotenes." 
+
+He shows, however, an acquaintance with foreign languages, listing the seven heavens as "oleth, lothen, ethat, edim, eliyd, ha- chim, atarpha," and giving Greek, Hebrew, and "Saracen" names for the seven planets, as well as a "Similitudo," or corresponding metal, and "Interpretatio," or quality such as "Obscurus, Clarus, Igneus." [^12:4] 
+
+ [^12:4]: Fol. 21r-v. 
+
+He also gives the Arabic names for the twenty-eight mansions into which the circle of the zodiac subdivides. [^12:5] 
+
+ [^12:5]: Fol. 32r.
+
+We now turn to another treatise, found in tenth and eleventh century manuscripts, in which Arabian influence is apparent. 
+
+## Mathematica
+
+### Mathematica of Alchandrus or Alhandreus
+
+William of Malmesbury, writing in the first half of the twelfth century concerning Gerbert's studies in Spain, says, probably with a great deal of exaggeration, that Gerbert surpassed Ptolemy in his knowledge of the astrolabe, Alandraeus in his knowledge of the distances between the stars, and Julius Firmicus in his knowledge of fate. [^13:1] 
+
+ [^13:1]: De rebus gestis regum Anglorum, II, 167. 
+
+It is rather remarkable that a work ascribed to Alhandreus or Alcandrus, "supreme astrologer," should be found in two manuscripts of the eleventh century [^13:2] in both of which occurs also the work on the astrolabe which is perhaps by Gerbert, while in one is found also the _Mathesis_ of Julius Firmicus Maternus. 
+
+ [^13:2]: Addit. 17808, fols. 85V-99V, "Mathematica Alhandrei summi astrologi. Luna est frigide nature et argentei coloris / oculis descriptio talis subiciatur": and CLM 560, fols. 61-87, which I have not seen but which from the description in the catalogue is evidently the same treatise and has the same Incipit, although no author or title seems to be given. 
+
+Alchadrinus or Archandrinus is cited in Michael Scot's long _Introduction to Astrology_ as the author of a "book of fortune making mention of the three fades of the signs and the planets ruling in them," and Michael adds that a similar method of divination is employed in general among the Arabs and Indians as can be seen in the streets and alleys of Messina where "learned women" answer the questions of merchants. [^13:3] 
+
+ [^13:3]: Bodleian 266, fol. 179V, "libellum fortune faciens mentionem de tribus faciebus signorum et planetis regnantibus in eisdem . . . mulieres docte." 
+
+Peter of Abano in his _Lucidator astronomiae_, [^13:4] written in 1310, mentions Alchandrus as a successor of Hermes Trismegistus in the science of astronomy but as flourishing before the time of Nebuchadnezzar. 
+
+ [^13:4]: BN 2598, 15th century, fol. 108r.
+
+Alchandrus was probably scarcely as ancient as that, but the treatise ascribed to him also exists in Latin in a manuscript of the tenth century, [^13:5] and seems to be a translation from the Arabic.
+
+ [^13:5]: BN 17868, fols. 2r-i2v. "Incipit liber Alchandrei" (Wickersheimer) or Alchandri (Bubnov) "philosophi. Luna est frigide nature et argentei coloris." In a passage of Addit. 17808, fol. 86v, where the years from the beginning of the world are being reckoned, the year of writing is apparently given as 1040 A.D., but the existence of the treatise in BN 17868 shows that it was written before 1000. Also there is something wrong with the passage mentioned in Addit. 17808 - as is very apt to be the case with such figures in medieval MSS - for the number of years from the beginning of the world to the birth of Christ is given as 4970 and then the sum of the two as 6018 instead of 6010 years, while at fol. 85V other estimates are given of the number of years between the Creation and the Incarnation. 
+
+In any case it is full of Arabic and Hebrew words, and professes to cite the opinions of Egyptians, Ishmaelites, and Chaldeans in general as well as those of Ascalu the Ishmaelite and Arfarfan or Argafalan or Argafalaus [^14:1] the Chaldean in particular. 
+
+ [^14:1]: The spellings of such proper names vary in the different MSS or even in the same one.
+
+Since the name Alchandrus or Alhandreus is found so far as I know in no historian or bibliographer of Arabian literature or learning, [^14:2] we shall treat somewhat fully of the work and its author here. 
+
+ [^14:2]: Steinschneider (1905) 30, briefly notes "Alcandrinus," however. See below, "Alkandrinus or Alchandrinus on nativities according to the mansions of the moon"  of the present chapter. 
+
+### An account of its contents.
+
+The "Mathematic of Alhandreus, supreme astrologer," as it is entitled in one manuscript, opens somewhat abruptly with a terse statement of the qualities of the planets. Two estimates of the number of years between creation and the birth of Christ are then given, one "according to the Hebrews," the other "according to others." [^14:3] 
+
+ [^14:3]: Addit. 17808, fol. 85v; BN 17868, fol. 2r. 
+
+There follow letters of the Greek alphabet with Roman numerals expressing their respective numerical values, perhaps for future reference in connection with some sphere of life or death. Next is considered the division of the zodiac into twelve signs for which Hebrew as well as Latin names are given. The movements of the planets through the signs are then discussed, and it is explained in the usual astrological style that Leo is the house of the sun. Cancer of the moon, while two signs are assigned to each of the other five planets. Every planet is erect in some one sign and falls in its opposite, and any planet is friendly to another in whose house it is erect and hostile to another in whose house it declines. Presently the author treats of "the order of the planets according to nature and their names according to the Hebrews," [^14:4]  
+
+ [^14:4]: Addit. 17808, fols. 86r-87r ; BN 17868, fol. 3v. 
+
+and then of their sex and courses, which last leads to considerable digressions anent the solar and lunar calendars. [^15:1] Then the twelve signs are related to the four "climates" and elements. 
+
+ [^15:1]: Addit. 17808, fols. 87v-88r. 
+
+### Astrological doctrine.
+ 
+All this implies a favorable attitude to astrology, and the author has already expressed his conviction more than once that human affairs are disposed by the seven planets according to the will of God. [^15:2] 
+
+ [^15:2]: BN 17868, fol. 2r; Addit. 17808, fol. 8sv; "luxta que quia omnia humana secundum nutum dei disponuntur per septem planetas que subter (subtus) feruntur eorum nobis potestas innuitur": BN 17868, fol. 3r; Addit. 17808, fol. 86v, "Per has autem vii planetas quia ut diximus et adhuc probabimus humana fata disponuntur regulam certam demus qua in quo signo queque sit pronoscatur." Only in a third passage does he attribute such views to the mathematici; Addit. 17808,  fol. 88v, "Cum sint signa xii in zodiaco cumque iuxta mathematicos et secundum horum diversissimos potestates fata omnium ita volente sapientissimo domino disponantur ...." 
+
+Since man like the world is composed of the four elements it is no false opinion which persuades us that under God's government human affairs are principally regulated by the celestial bodies. [^15:3] 
+
+ [^15:3]: Addit. 17808, fol. 89r, "Que quum ita discernuntur non falsa opinio persuasit istis humana principaliter gubernante domino moderari cum itaque ut mundus homo unusquisque ex his iiii compaginetur elementis." 
+
+To make this plainer the author proposes to insert an astrological figure "which Alexander of Macedon composed most diligently," and which presumably would have been of the microcosmus or Melothesia type, but the space for it remains blank in the manuscript. Next comes a paragraph on the sex of the signs and their rising and setting, and then lists of the hours of the day and night governed by the signs and by each planet for all the days of the week. [^15:4] 
+
+ [^15:4]: Addit. 17808, fol. 89v. But the lists are left incomplete and a blank leaf, which is also left unnumbered, follows in the MS. 
+
+### Nativities and name-calculations.
+
+Then we read, 
+
+> "These are the twenty-eight principal parts or stars (i.e. constellations) through which the fates of all are disposed and pronounced indubitably, future as well as present. Anyone may with diligence forecast goings and returnings, origins and endings, by the most agreeable aid of these horoscopes " [^15:5]
+
+ [^15:5]: BN 17868, fol. 5r: Addit. 17808, fol. 90r, "Hec sunt xxviii principales partes vel astra per que omnium fata disponuntur et indubitanter tam futura quam presentia prenuntiantur a quocumque itus reditus ortus occasus horum horoscoporum iocundissimo auxilio diligenter providentur." 
+
+These twenty-eight parts are of course the sub-divisions of the zodiac into mansions of the sun or moon which we have already encountered, and Arabic names are given for them beginning with Alnait, the first part of the sign Aries. First, however, we are instructed how to determine under which one of them anyone was bom by a numerical calculation of the value of his name and that of his natural mother similar to that of the spheres of life and death except that it is based upon Hebrew instead of Greek letters. [^16:1] 
+
+ [^16:1]: BN 17868, fol. 5v.
+
+Then follow statements of the sort of men who are born under each of the twenty-eight mansions, their physical, mental, and moral characteristics, and any especial marks upon the body, - either birth-marks or inflicted subsequently by such means as hot irons and dog-bite, - their health or sickness, term of life, and manner of death, - which in the case of Alnait, the first mansion, will be "by the machinations or imaginations of the magic arts." [^16:2] Also the number of their children is roughly predicted. 
+
+ [^16:2]: BN 17868, fol. 6r. 
+
+### Interrogations and more name-calculations.
+
+Next is discussed the course of the planets through the signs, the houses of the planets, and their positions in the signs at creation. [^16:3] 
+
+ [^16:3]: BN 17868, fol. 9r; Addit. 17808, fols. 94v-95v.
+
+The author then turns to the influence of the planets upon men and gives another method of numerical calculation of a man's name in order to determine which planet he is under. [^16:4] 
+
+ [^16:4]: BN 17868, fol. 10r; Addit, 17808, fol. 96r. 
+
+Under the heading "Excerpts from the books of Alexander, the astrologer king," [^16:5] directions are given for the recovery of lost or stolen articles and descriptions of the thief are provided for the hour of each planet. 
+
+ [^16:5]: Addit. 17808, fol. 97r. 
+
+The letter of Argafalaus to Alexander instructs how to read men's secret thoughts as Plato the Philosopher used to do, and how to tell what is hidden in a person's hand by means of the hours of the planets. [^16:6] 
+
+ [^16:6]: Addit. 17808, fol. 97v. In BN 17868, fol. 11r, we read, "Explicit liber primus. Incipit liber secundus." And then begins the letter of Argafalaus with the words, "Regi macedonum Alexandre astrologo et universa philosophia perfectissimo Argafalaus servuus suus condicione et nacione ingenuus caldeus, professione vero secundus ab illo astrologus." 
+
+After some further discussion of astrological interrogations the manuscript at the British Museum closes with the Breviary of Alhandreus, supreme astrologer [^17:1] for learning anything unknown by a method of computation from Hebrew and Arabic letters. 
+
+ [^17:1]: Addit. 17808, fol. 99r-v. This does not appear in BN 17868 which goes on to discuss various astrological influences of the 12 hours of the day and of the night. After this there is a space left blank in the middle of fol. I2v: then more is said concerning hours of the planets and interrogations until at the bottom of fol. I3r comes the letter of Phethosiris to Nechepso. But no definite ending is indicated either of the letter of Argafalaus or the Liber Secundus of Alchandrus.  
+In a MS now missing but listed in the late 15th century catalogue of the MSS in the library of St. Augustine's Abbey, Canterbury (No. 1172, James 332) was a "Breviarium alhandredi su'm as- trologi et peritissimi de soia (scienda?) qualibet ignota nullo decrete." This was one of the MSS donated to the monastery by John of London.  
+BN 4161, 16th century, #5, Breviarium Alhandriae, summi Astrologi, de scientia qualiter ignota nullo indicante investigari possit. 
+
+### Alchandrus or Alhandreus not the same as Alexander.
+
+Someone may wonder if the names Alhandreus and Alchandrus may not be mere corruptions of Alexander who is cited and quoted even more than has yet been indicated, [^17:2] and if some careless head-line writer has not inserted the name _Alchandri_ or _Allmndrei_ instead of _Alexandri_ in the _Titulus_. But this would leave the statements of William of Malmesbury and of Peter of Abano to be explained away.
+
+ [^17:2]: Addit. 17808, fol. 89r, "figuram quam super hac re Alexander Macedo composuit diligentissime posterius describemus"; fol. 95r, "Hinc Alexander macedo dicit eclipsin solis et lune certissima ratione colligi"; fol. 96r. "Aut iuxta alexandrum macedonem draco quasi octava planeta." 
+
+ Or, if it is argued that the name of Alhandreus should be attached only to the Breviary, it must be remembered that in the earliest manuscript, which does not contain the Breviary, the treatise is none the less called the Book of Alchandreus. As a matter of fact there is found also in the manuscripts a "Mathematica Alexandri summi astrologi," [^17:3] but while the title is the same, the contents are different from the "Mathematica Alhandrei summi astrologi." 
+
+ [^17:3]: Ashmole 369, late 13th century, fols. 77-84V. "Mathematica Alexandri summi astrologi. In exordio omnis creature herus huranicus inter cuncta sidera XII maluit signa fore .../... nam quod lineam designat eandem stellam occupat. Explicit." A further discussion of the contents of this work will be found below in Chapter 48, vol. II, p. 259. 
+
+However, the treatise itself is found together with the _Mathematica Alhandrei_ in a tenth century manuscript. [^18:1] 
+
+ [^18:1]: BN 17868, fol. 17r The Incipit is the same as in Ashmole 369. The work here seems to be incomplete, since after fol. 17v most of the remaining leaves of the MS (which has 21 fols. in all) are blank.
+
+But no author is mentioned, and instead of Mathematica the title reads "Incipiunt proportiones cppfcfntfs knkstrprx indxstrkb," which may be deciphered as "Incipiunt proportiones competentes in astrorum industria." [^18:2] Possibly therefore this treatise is a part of the work of Alchander, and the title _Mathematica Alexandri_ is an error for _Mathematica Alhandrei_. 
+
+ [^18:2]: The vowels being represented by the consonants following, a common medieval cipher.
+
+### Alkandrinus or Alchandrinus on nativities according to the mansions of the moon.
+
+Moreover, in later manuscripts we encounter authors with names very similar to Alchandrus and works by them of the same sort as that we have just considered. In a fifteenth century manuscript at Oxford we find ascribed to Alkandrinus an account of the types of men born in each of the twenty-eight mansions of the moon [^18:3] such as we have seen formed a part of the Mathematica Alhandrei. 
+
+ [^18:3]: All Souls 81, 15th century, fols. 145v-164r. "Cum sint 28 mansiones lune...." Coxe was mistaken in thinking that the work of Alkandrinus continued to fol. 188 and was in two parts, for at fol. 163r we read, "Expliciunt iudicia libri Alkandrini que sunt in divisione triplici 12 signorum que sunt apparencie per certa tempora super terram."  Moreover, the seven chapters on the planets which follow end at fol. 183v “... finem fecimus. Completa fuit hec compilatio in conversione sancti pauli apostoli anno domini 1350 (1305?) vacante sede per mortem Benedicti undecimi cuius anima requiescat in pace. Amen." It would there- fore seem that some compiler has made an extract from Alchandrus on the twenty-eight mansions.
+
+And in a fifteenth century manuscript at Paris occurs under the name of Alchandrinus what seems to be a Christian revision of that same part of the _Mathematica Alhandrei_. [^18:4] 
+
+ [^18:4]: BN 10271, fols. 9r-52v, “Incipit liber alchandrini philosophi de nativitatibus hominum secun- dum compositionem - duodecim signorum celi, quem reformavit quidem . philosophus  cristianus prout patet, quia in quibusdam differt iste hber ab antiquo primordial. Primo fíacies arietis in homine sive in masculo. Alnaliet est prima facies arietis. . . ."
+
+What appears to be another revision and working over of this same discussion of nativities according to the twenty- eight mansions of the moon [^18:5] appeared in print a number of times in the sixteenth and seventeenth centuries and in French and English translations as well as Latin. 
+
+ [^18:5]: Steinschneider (1905), 30.
+
+ The author's name in these printed editions is usually given as Arcandam, but the English edition of 1626 adds "or Alchandrin." [^19:1] 
+ 
+ [^19:1]: The _editio princeps_ seems to be "Arcandam doctor peritissimus ac non vulgaris astrologus, de veritatibus et praedictionibus astrologiae et praecipue nativitatum seu fatalis dispositionis vel diei cuiuscunque nati, nuper per Magistrum Richardum Roussat, canonicum Lingoniensem, artium et medicinae professorem, de confuse ac indistincto stilo non minus quam e tenebris in lucem aeditus, re cognitus, ac innumeris (ut pote passim) erratis expurgatus, ita ut per multa maxime necessaria et utilissima adiecerit atque adnotaverit modo eiusdem dexteritate praelo primo donatus." Paris, 1542.  
+ The British Museum also contains another Latin edition of Paris, 1553 ; French editions of Rouen, 1584 and 1587, Lyons 1625; and English versions printed at London, 1626 (translated from the French), 1630, 1637, and 1670.
+ 
+## Albandinus.
+
+Two other manuscripts at Paris [^19:2] contain under the name of Albandinus a "book of similitudes of the sons of Adam, fortunate and unfortunate, of life or death, according to nations, that is, their nativities according to the twelve signs." The treatise opens with a method of calculating a person's nativity from the letters in his own and his mother's name similar to that which occurs in the course of the Mathematica Alliandrei, but then applies it directly to the twelve signs rather than to the twenty-eight mansions of the moon. It also does not bother with the Hebrew alphabet but gives numerical equivalents directly for the Latin letters. 
+
+ [^19:2]: BN 7349, 15th century, fol. 56r, seems only a fragment of the work; BN 7351, 14th century, takes up the various signs. 
+
+Some treatise by Albandinus on sickness and the signs in a manuscript at Munich [^19:3] is perhaps identical with the foregoing. 
+
+ [^19:3]: CLM 527, 13-14th century, fols. 36-42, de physica signorum et supernascentium et aegrotantium. 
+
+### Geomancy of Alkardianus or Alchandianus.
+
+To an Alkardianus or Alchandiandus is ascribed a geomancy, [^19:4] and since it also is arranged according to the twentyeight divisions of the zodiac with 28 judges and 28 chapters each consisting of 28 lines in answer to as many questions, it would seem almost certain that it is by the same author who treated of the influences of the 28 houses or _facies_ of the twelve signs upon those born under them. 
+
+ [^19:4]: Addit. 15236, English hand of 13-14th century, fols. 13o-52r, "libellus Alchandiandi." BN 7486, 14th century, "Incipit liber alkardiani phylosophi. Cum omne quod experitur sit experiendum propter se vel propter aliud. . . ." 
+
+Moreover, this Alkardianus or Alchandiandus states in his preface that he has composed certain books on the dispositions of the signs and the courses of the planets and on prediction of the future from them. "But since modems always rejoice in brevity," he has added this handy and rapid geomantic means of answering questions and ascertaining the decrees of the stars. The 28 tables of 28 lines each of this Alkardianus or Alchandiandus are identical with one of the two such sets [^20:1] 
+
+ [^20:1]: The set in which the first line reads. “Tuum indumentum durabit tempore longo.”
+
+commonly included in the _Experimentarius_ [^20:2] of Bernard Silvester, 
+
+ [^20:2]: Very probably this title was derived from the _Incipit_ just given in note Chap. 30 "Geomancy of Alkardianus or Alchandianus".
+
+a work of geomancy which he is said to have translated from the Arabic. [^20:3] He lived in the twelfth century and will be the subject of one of our later chapters. 
+
+ [^20:3]: See Sloane 2472, 3554, 3857.
+
+### An anonymous treatise or fragment of the tenth century.
+ 
+It still remains to speak of a portion of our tenth cen- tury manuscript at Paris which begins, after the book of Alchandrus seems to have concluded, with the words, "Quicunque nosse desiderat legem astrorum ..." [^20:4] 
+
+ [^20:4]: BN 17868, fol. r4r-16v. The letter of Petosiris on the sphere of life and death at fol. 13r-v "Incipit epistola Phetosiri de sphaera" separates this treatise or fragment from the preceding liber _Alchandri philosophi_. Also this treatise is in a different and slightly older hand than fols. 2- I3 arc, or at least such was Bunnov's opinion (1899), 125, note.
+
+This _Incipit_ is so similar to that of the twenty-one chapters on century, the astrolabe, "Quicumque astronomiam peritiam disciplinae . . ." and to that of the four books of astronomy, "Quicumque mundane spere rationem et astrorum," that one is tempted to imply some relation between them, and, in view of the tenth century date of the one at present in question, to connect it like the others with the name of Gerbert. Our present treatise or fragment of a treatise is largely astrological in character, "following for the present the wisdom of the mathematici who think that mundane affairs are carried on under the rule of the constellations." This refusal to accept personal responsibility for astrological doctrine is similar to the attitude of the author of the four books of astronomy, so that perhaps the present text is the missing fragment required to fulfil his promise to treat of the sub- ject of prognostication in later chapters. If so it indulges in some repetition, as it goes into the relations existing between signs, planets, and elements, and gives the "Saracen" names [^21:1] for the twenty-eight mansions of the moon. It includes a way to detect theft for each planet and a method of determining if a patient will recover by computation of the numerical value of the letters in his name. These features are suggestive of the Mathematica of Alchandrus. 
+
+ [^21:1]: BN 17686, f ol. 14V, "que sarraceni nuncupant ita."
+
+
