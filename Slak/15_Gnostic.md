@@ -1,7 +1,4 @@
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
  # CHAPTER XV The Gnostics 
 
 ## Definition
