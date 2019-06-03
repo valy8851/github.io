@@ -1,4 +1,5 @@
-# CHAPTER V 
+
+# Chapter V 
 
 ## Ancient applied science and magic: Vitruvius, Hero, and the Greek Alchemists 
 
