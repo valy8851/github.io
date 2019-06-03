@@ -1,7 +1,7 @@
 
-# CHAPTER XX 
+# Chapter XX 
 
-## OTHER CHRISTIAN DISCUSSION OF MAGIC BEFORE AUGUSTINE 
+## Other christian discussion of magic before Augustine. 
 
 ### Plan of this chapter.
 
