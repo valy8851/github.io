@@ -1,4 +1,5 @@
-# CHAPTER IX Attacs upon superstition.
+
+# Chapter IX Attacs upon superstition.
 
 ## Literary and philosophical attacks upon superstition: Cicero, Favorinus, Sextus Empiricus, and Lucian 
 
