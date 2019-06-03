@@ -1,0 +1,144 @@
+
+# Chapter XXXIV 
+
+## Marbod, bishop of Rennes, 1035-1123 
+
+> "Nec duhium cuiquam debet falsumque videri 
+> Quin sua sit gemmis divinitus insita virtus; 
+> Ingens est herbis virtus data, maxima gemmis." 
+
+>> - Marbod, _Liber lapidum_. 
+
+### Career of Marbod.
+
+Of medieval Latin Lapidaries the earliest and what also seems to have been the classic on the subject of the marvelous properties of stones is the _Liber lapidum seu de gemmis_ by Marbod, bishop of Rennes [^775:1] who lived from 1035 to 1123 and so had very likely completed this work before the close of the eleventh century. 
+
+ [^775:1]: I have used the edition of Marbod’s poems in Migne, PL vol. 171, which also contains a life of Marbod. Two secondary accounts of Marbod are C.Ferry, _De Marbodi Rhedonensis Episcopi vita et. carminibus_, Nemansi, 1877; L.V.E.Ernault, _Marbode, évèque de Rennes, sa vie et ses œuvres _, in. _Bull. et Mém. de la Société Archéologique du dept. d'Ille-et-Vilaine_, XX, 1-260, Rennes, 1889. See also V.Rose, _Aristoteles De Lapidibus und Arnoldus Saxo_, in _Zeitsch. f. deutsches Alterthum_, XVII (1875), p. 321, ef seg.; L.Pannier, _Les lapidaires français du moyen âge_, Paris, 1882. C.W.King, The Natural History, Ancient and . Modern, of Precious Stones and Gems, London, 1865.
+
+Indeed one manuscript of it seems to date from that century [^775:2] and there are numerous twelfth century manuscripts. These early manuscripts bear his name and the style is the same as in his other writings. 
+
+ [^775:2]: CLM 23479, 11th century, fols. 4-10, Carmina de lapidibus eadem quae Marbodo tribuuntur sed alio ordine. Of CUL 768, 15th cen- tury, fols. 67-80, "Marbodi liber lapidum," the Catalogue says, “This Latin poem has been often printed but it does not appear that the editors have collated this MS. The order of the sections is different from all those of which Beckmann speaks in his edition (Góttingen, 1799), answering, however, most nearly to his own."
+
+Born in the county of Anjou, Marbod attended the church school there, became the schoolmaster himself from 1067 to 1 08 1, during which time he probably composed the _Liber lapidum_, then served as archdeacon under three successive bishops, and finally himself became a bishop in 1096. He attended church councils in 1103 and 1104 and died in September, 1123, in an Angevin monastery, whose monks issued a eulogistic encyclical letter on that occasion, while two archdeacons celebrated his integrity, learning, and eloquence in admiring verse. Marbod's own productions are also in poetical form. It is interesting to note that despite his early date he was eulogized not as a lone man of letters in an uncultured age but as "the king of orators, although at that time all Gaul resounded with varied studies." 
+
+### Relation of his _Liber lapidum_ to the prose Evax.
+
+The _Liber lapidum_ is a Latin poem of 734 hexameters describing sixty stones. In the opening lines Marbod writes: 
+
+> "Evax, king of the Arabs, is said to have written to Nero, 
+
+> Who after Augustus ruled next in the city. [^776:1] 
+
+> How many the species of stones, what names, and what colors, 
+
+> From what regions they came, and how great the power of each one." 
+
+ [^776:1]: The full name of Tiberius was, of course, Tiberius Claudius Nero Caesar. 
+
+Making use of this worthy book, Marbod has decided to compose a briefer account for himself and a few friends only, believing that he who popularizes mysteries lessens their majesty. As a result of this opening line and the fact that in some manuscripts Marbod's own name is not given, his poem is sometimes listed in the catalogues as the work of Evax. [^776:2] 
+
+ [^776:2]: Library of Dukes of Burgundy 8890, 12th century, Evacis regis. BN 2621, 12th and 15th centuries, #6, Poemation de gemmis cuius author dicitur Evax, Rex Arabiae. 
+Montpellior 277, _Liber lapidum_ preciosorum Evax rex Arabum.   
+Riccard. 1228, 12th century, fols. 41-54; Incipit prologus Evacis regis Arabic ad Neronem Tyberium de lapidibus. Incipit lapidarius Evacis habens nomina gemmarum Ix.  
+BL Hatton 76 contains two letters of Evax, king of the Arabs, to Tiberius Caesar, on the virtues of stones, according to Cockayne (1864), I. xc and Ixxxiv. 
+
+There is also, however, extant a work in Latin prose which opens, 
+
+> "Evax, king of Arabia, to the emperor Tiberius greeting." [^777:1] 
+
+ [^777:1]: Printed by J.B.Pitra, III (1855), 324-35.
+
+But as this prose work is not much longer than Marbod's poem, and seems to be known only from a single manuscript of the fourteenth century, it is doubtful if it is the work which he professed to abbreviate. This prose work is also ascribed to Amigeron or Damigeron, [^777:2] to whom we have already seen that the author of _Lithica_ was supposed to be indebted and whose name was regarded as that of a famous magician. 
+
+ [^777:2]: BN 7418, 14th century, fol. 116-, (D)amigeronis peritissimi de lapidibus. Since this is the sole MS known of the prose version (Rose, 1875, p. 326) and is of the 14th century, whereas we have numerous early MSS of Marbod’s poem, it would seem that this may be derived from Marbod rather than even from the earlier and fuller work which he is supposed to have used.
+
+After alluding to the magnificent gifts which the emperor had sent to Evax by the centurion Lucinius Fronto and offering this book in return, the author of the prose version lists seven stones appropriate, not, strangely enough, to the seven planets, but to seven of the signs of the zodiac. [^777:3] 
+
+ [^777:3]: Namely, Leo, Cancer, Aries, Sagittarius, Taurus, Virgo, and Capricorn.
+
+Fifty chapters are then devoted to as many stones, beginning with Aetites, which is twenty-fifth in Marbod's list, and ending with Sardo, while Sardiiis comes tenth in Marbod's poem. Marbod's own order, however, sometimes varies in the manuscripts. [^777:4]
+
+ [^777:4]: See page 775, note 2.
+ 
+### Problem of Marbod's sources.
+
+King, and Rose after him, asserted  [^777:5] that despite Marbod's professed abridgement of a work which Evax was supposed to have presented to Tiberius, he drew largely from Isidore of Seville's _Etymologies_. 
+
+ [^777:5]: King (1865), p.7; Rose (1875), p.335.
+
+Rose thought that some of the descriptions of stones were from Solinus, the rest from Isidore, but that the account of their virtues was from Evax. King also noted occasional extracts from the Orphic work, _Lithica_, which is not surprising in view of the fact that both Evax and the _Lithica_ seem based on Damigeron. This question of sources and ultimate origins is, however, as usual of relatively little moment to our investigation.   
+My own impression would be that in antiquity and the middle age there exists a sort of common fund of information and stock of beliefs concerning gems which naturally is drawn upon and appears in every individual treatise upon them. But the number of gems discussed and the order in which they are considered or classified varies with each new author, and there is apt to be a similar variation in the number of statements made concerning any particular stone and the way in which these are arranged. In fine, all ancient and medieval accounts of the natures and virtues of stones bear a general resemblance to one another which is more impressive than is the similarity between any two given accounts, and testify to a consensus of opinion and to a common learned tradition concerning gems which is more significant than the possible borrowings of individual authors from one another. 
+
+### Influence of the _Liber lapidum_.
+
+However, there seems to be little doubt that the poem of Marbod is itself an outstanding work among medieval accounts of precious stones, first because of the early date of its authorship, and second because of its late persistence and popularity, which is indicated by the fourteen editions that appeared after the invention of printing. [^778:1] Its convenient form perhaps accounts to a considerable extent for its popularity. At any rate the manuscripts of it are numerous, and it was much used by subsequent writers of the twelfth and thirteenth centuries, although citations of Lapidaritis cannot always be assumed to refer to Marbod. But at least the notions concerning gems which we find in his poem are a fair sample of what we should find in any Latin treatment of the same subject for several centuries to come. It is found also in a medieval French version. 
+
+ [^778:1]: Ferry (1887), p.69. 
+
+### Occult virtue of gems.
+
+It does not make much difference where we begin or what stones we select from Marbod's list as examples, since the same sort of marvelous powers are ascribed to all of them. In his prologue Marbod describes the occult virtues of gems as those "whose hidden cause gives manifest effects." No one should doubt them or think them false, 
+
+> "since the virtue in gems is divinely implanted. Enormous virtue is given to herbs, but the greatest to gems." 
+
+Adamant, hard as it is, cracks when heated with goat's blood. It counteracts the action of the magnet. It is used in the magic arts and makes its bearer indomitable. It drives off nocturnal specters and idle dreams. It routs black venom, heals quarrels and contentions, cures the insane, and repels fierce foes. 
+
+Allectory, found inside cocks, slakes thirst. Milo overcame other athletes, and kings have won battles by its aid. It restores promptly those who have been banished, enables orators to speak with a flow of language, makes one welcome on every occasion, and endears a wife to her husband. It is advised to carry it concealed in the mouth. 
+
+The sapphire nourishes the body and preserves the limbs whole. Its bearer, who should be most chaste, cannot be harmed by fraud or envy and is unmoved by any terror. It leads those in bonds from prison. It placates God and makes Him favorable to prayers. It is good for peace-making and reconciliation. It is preferred to other gems in hydromancy, since prophetic responses can be obtained by it. As for medicinal qualities, it cools internal heat, checks perspiration, powdered and applied with milk it heals ulcers, cleanses the eyes, stops headache, and cures diseases of the tongue. 
+
+Gagates, worn as an amulet, benefits dropsy; diluted with water, it prevents loose teeth from falling out; fumigation with it is good for epileptics and it is thought to be hostile to demons; it remedies indigestion and constipation and overcomes magical illusions (praestigia) and evil incantations. Also 
+
+> Per suffumigium mulieri menstrua reddit 
+
+> Et solet, ut perhibent, deprehendere virginitatem. 
+
+> Praegnans potest aquam triduo qua mersus habetur 
+
+> Quo vexabatur partum cito libera fundit. 
+
+Gagates burns when washed with water; is extinguished by anointing it with olive oil.
+
+The magnet is especially used in the illusions of magic. The great Deendor is said to have first used it, realizing that there was no more potent force in magic, and after him the famous witch Circe employed it. Among the Medes experience revealed still further virtues of the stone. It is used to test a wife's chastity while she is sleeping; if she is unchaste, she will fall out of bed when the gem is applied to her head. A burglar can commit theft unmolested by sprinkling it over hot coals and so driving away all the occupants of the house. 
+
+In the case of _Chelonitis_ Marbod's account is very similar to that in Pliny's _Natural History_, [^780:1] citing the Magi for the power of divination it bestows when carried under the tongue at certain times of the moon, according to whose phases its power varies. Of the gems hitherto described only in the case of adamant and gagates was there any resemblance between Marbod and Pliny and there only partial. 
+
+ [^780:1]: NH XXXVI, 56. Pliny, however, makes these statements about chelonia and not chelonitis which follows it. 
+
+Pliny also briefly states that the stone _diadochos_ resembles beryl, but does not have Marbod's statements that it is employed in water divination to show varied images of demons, "nor is there other stone stronger to evoke shades." But if by chance it comes in contact with a corpse, it loses its wonted force, since the stone is sacred and abhors dead bodies. [^780:2] 
+
+ [^780:2]: The stones which I have taken as examples are numbers 1, 3, 5, 18, 19, 39, and 57 respectively. 
+
+### _Liber lapidum_ meant seriously.
+
+The vast powers, not only medicinal and physical, but of divination and magic, over the mind and affections, miraculous and supernatural, even over God, as in the statement that the sapphire can be employed to secure a more favorable answer to prayer, which Marbod assigns to gems without a sign of scruple or scepticism or disapproval on his part, have so shocked some moderns that suggestions have been made, in order to explain away the acceptance of talismanic powers of gems to such a degree by a Christian clergy man who became a bishop, that Marbod must have composed his poem when quite young and lived to repent it, or that he regarded it merely as a poetical flight and exercise, not as an exposition of scientific fact. But wherefore then was it not only widely read in the literary twelfth century but also widely cited as an authority in the scientific and equally Christian thirteenth century?  
+No; everyone else took it precisely as Marbod meant it, as a serious statement of the marvelous powers which had been divinely implanted in gems. And why should not God be more easily reached through the instrumentality of gems, since He had endowed them with their marvelous virtues?  
+Marbod affirms his own faith in the great virtues of gems not only at the beginning but the close of his poem, stating that while some have doubted the marvelous properties attributed to them, this has been due to the fact that so many imitation gems are made of glass, which deceive the unwary but of course lack the occult virtues of the genuine stones. If the stones are genuine and duly consecrated, the marvelous effects will without a doubt follow. 
+
+###  _De fato et genesi_. 
+
+Marbod's belief in the almost boundless talismanic virtues of gems is thrown into the higher relief by the fact that in another of his poems he makes an attack upon ge- nethlialogy or the prediction of the entire life of the individual from the constellations at his birth. In _De fato et genesi_ he writes against "the common notion" (_opinio vulgi_) that all things are ruled by fate, that the hour of nativity controls man's entire life, and the contention of the mathematici that the seven planets control not only the external forces with which man comes in contact but also human character. He objects to such a doctrine as that, when Venus and Mars appear in certain relations to the sun, the babe born under that constellation will be destined to commit incest and adultery in later life. He objects that such beliefs destroy all the foundations of morality, law, and future reward or punishment; contends that there are certain races which never commit adultery or crime, yet have the same seven planets; and argues that since Jews are all circumcised on the eighth day, they should all have the same horoscope. These are familiar contentions, at least as old as Bardesanes. Marbod declares further that the astrological writer, Firmicus, employs "infirm arguments," and that his own horoscope, taken according to Firmicus' methods and interpreted likewise, turned out to be false, "as I proved when once I dabbled in that art." This is interesting as showing that Gerard of York [^782:1] was not the only bishop of the eleventh century who was acquainted with the work of Julius Firmicus Maternus, and that even opponents of astrology are apt to have once been dabblers in it. Marbod concludes his poem with this neat turn: 
+
+ [^782:1]: See above, chapter 29, page 689
+
+> "I thought I ought to write these lines briefly against genethlialogy. 
+
+> Nevertheless, that I may not seem to repel fate and horoscope utterly, 
+
+> I assert that my fate is the Word of the supreme Father, 
+
+> By Whom should all things be ruled and all men confess; 
+
+>And I say that the computation of my constellation is innate in me 
+
+> And the liberty by which I can tend whither I will. 
+
+> Therefore, if my will shall be in conjunction with reason 
+
+> In the sign of the Balances with Christ regarding me, 
+
+> All things will turn out prosperously for me here and everywhere: - 
+
+> This is the favorable horoscope of all Christ's followers." 
+
+
