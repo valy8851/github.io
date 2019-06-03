@@ -1,7 +1,7 @@
 
 # Chapter XIX 
 
-## Origen AND Celsus 
+## Origen and Celsus 
 
 ### Celsus charges of magic against Christianity.
 
