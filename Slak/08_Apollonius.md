@@ -1,4 +1,5 @@
-# CHAPTER VIII 
+
+# Chapter VIII 
 
 ## Philostratus's _Life of Apollonius_ of Tyana 
 
