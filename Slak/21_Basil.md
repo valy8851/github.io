@@ -1,4 +1,5 @@
-# CHAPTER XXI 
+
+# Chapter XXI 
 
 ## Christianity and natural science: Basil, Epiphanius, and the Physiologus 
 
