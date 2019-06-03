@@ -1,0 +1,613 @@
+  
+
+# Chapter XI Neo-platonism
+
+## Astrology and theurgy
+
+### Neo-Platonism and the occult.
+
+That the Neo-Platonists were much given to the occult has been a common impression among- those who have written upon the period of the decline of the Roman Empire, of the end of paganism, and the passing of classical philosophy. This is perhaps in some measure the result of Christian viewpoint and hostility; probably the Christians of the period would seem equally superstitious to a modern Neo-Platonist. If the lives of the philosophers by Eunapius sound like fairy tales, [^1:1] what do the lives of the saints of the same period sound like?
+
+If the Neo-Platonists were like our mediums, what were the Christian exorcists like? But let us turn to the writings of the leading Neo-Platonists themselves, the only accurate mirror of their views.
+
+[^1:1]: Paul Allard, _La transformation du Paganismc romain an II'e siecle_, pp. 113-33, in Compte Rendu du Congres Scicntifique International dcs Catholiques. Deuxieme Section, Sciences re ligieuses. Paris, 1891.
+
+## Plotinus
+
+###  On magic.
+
+Plotinus [^2:1] who lived from about 204 to 270 A. D. and is generally regarded as the founder of Neo-Platonism,
+
+[^2:1]: _Plotini opera omnia_, Porphyrii liber de vita. Plotini, cum Marsilit Ficini comentariis . . . ed D.Wyttenbach, G.H.Moser, and F.Creuzer, Oxford, 1835, 3 vols. Page references in my citations are to this edition, but I have also employed: _Plotini Enneades_, ed. R. Volkmann, Leipzig, 1883; _Select Works of Plotinus_ translated from the Greek with an Introduction containing the substance of _Life of Plotinus_, by Thomas Taylor, new edition with preface and bibliography by G.R.S. Mead, London, 1909; K.S.Guthrie, _The Philosophy of Plotinus_, Philadelphia, 1806, and _Plotinos, Complete Works_, 4 vols., 1918, English Translation, Where my citations give the number of the chapter in addition to the Ennead and Book, these agree with Volkmann’s text and Guthries translation, which, however, are not quite identical in this respect. A noteworthy recent publication is W. R. Inge, _The Philosophy of Plotinus_, 1918, 2 vols. ...(editor note) there is an academic convention of citing the _Enneads_ by first mentioning the number of Ennead (usually in Romans from I to VI), the number of treatise within each Ennead (in arabics from 1 to 9), the number of chapter (in arabics also), and the line(s) in one of the mentioned editions. These numbers are divided by periods, commas, or blank spaces. I'm using: [ 5 by Plotinus](http://www.gutenberg.org/ebooks/42930) and [Six _Enneads_](http://www.ccel.org/ccel/plotinus/_Enneads_.html) or [The Six _Enneads_](http://sacred-texts.com/cla/plotenn/index.htm) for English translations
+
+was apparently less given to occult sciences than some of his successors. [^2:2]
+
+[^2:2]: H.F.M&uuml;ller, _Plotinische Studien II_, in Hermes, XLIX, 70-89, argues that the philosophy of Plotinus was genuinely Hellenic and free from oriental influence, that all theurgy was hateful to him, and that he opposed Gnosticism and astrology. Muller seems to me to overstate his case and to be too ready to exculpate Plotinus, or perhaps rather Hellenism, from concurrence in the superstition of the time.
+
+One of his charges against the Gnostics [^2:3] is that they believe that they can move the higher and incorporeal powers by writing incantations and by spoken words and various other vocal utterances, all which he censures as mere magic and sorcery.
+
+[^2:3]: For Gnosticism see Chapter 15.
+
+He also attacks their belief that diseases are demons and can be expelled by words. This wins them a following among the crowd who are wont to marvel at the powers of magicians, but Plotinus insists that diseases are due to natural causes. [^2:4]
+
+[^2:4]: Ennead, II, 9, 14. Πλωτίνου πρὸς τοὺς Τνωστικούς, ο4, G.A.Heigl, 1632; and _Plotini De Virtutibus et Adversus Gnosticos libellos_, ed. A. Kirchhoff, 1847; are simply extracts from the _Enneads_. See also C.Schmidt, Plotin’s‚ Stellung‚ zum Gnosticismus u. kırchl. Christentum, 1900; in TU, X, 90 pp.
+
+Even he, however, accepted incantations and the charms of sorcerers and magicians as valid, and accounted for their potency by the sympathy or love and hatred which he said existed between different objects in nature, which operates even at a distance, and which is an expression of one world-soul animating the universe, [^3:1]
+
+[^3:1]: Ennead, IV, 4, 40 CII, 805 or 434). Τὰς δὲ γοητείας πῶς; ἢἣ τῇ σνυμπαθείᾳ, καὶ τῷ πεφυκέναι συμφωνίαν εἶναι ὁμοίων καὶἐναντίωσιν ἀνομοίων, καί τῇ τῶν δυνάμεων τῶν πολλῶν ποικιλίᾳ εἰς ἂν ἕῳον συντελούντων. 114. 42 (ΤΙ, 808 or 436). . . καὶ τέχναις καὶ ἰατρὼν καὶ ἐπαοιδῶν ἄλλο ἄλλῳ ἠναγκάσθη παρασχεῖν τι τῆς δυνάμεως τῆς αὑτοῦ. Ennead, IV, 9 CII, 891 or 479). εἰ δὲ καὶ ἐπωδαὶ καὶ ὅλως μαγεῖαι συνάγουσι καὶ συμπαθεῖς πόῤῥωθεν ποιοῦσι, πάντως τοι διὰ Κζνχῆς μιᾶς.
+
+### The _Life_ of reason is alone free from magic.
+
+Plotinus held further, however, that only the physical and irrational side of man's nature was affected by drugs and sorcery, just as
+
+> "even demons are not impassive in their irrational part," [^3:2]
+
+[^3:2]: Ennead, IV, 4 (II, 810 or 437).
+
+and so are to some extent subject to magic. But the rational soul may free itself from all influence of magic. [^3:3]
+
+[^3:3]: Ennead, IV, 4, 43-44.
+
+Moreover, remorselessly adds the clearheaded Plotinus with a burst of insight that may well be attributed to Hellenic genius, he who yields to the charms of love and family affection or seeks political power or aught else than Truth and true beauty, or even he who searches for beauty in inferior things; he who is deceived by appearances, he who follows irrational inclinations, is as truly bewitched as if he were the victim of magic and _goetia_ socalled. The _Life_ of reason is alone free from magic. [^3:4]
+
+[^3:4]: Ennead, IV, 4, 44.
+
+Whereat one is tempted to paraphrase a remark of Aelian [^3:5] and exclaim,
+
+> "What do you think of that definition of magic, my dear anthropologists and sociologists and modern students of folklore?"
+
+[^3:5]: See Chapter XII, pp. 323-4.
+
+### Plotinus unharmed by magic.
+
+This immunity of the true philosopher and sincere follower of truth from magic received illustration, according to Porphyry, [^3:6] in the case of Plotinus himself, who suffered no harm from the magic arts which his enemy, Alexandrinus Olympius, directed against him.
+
+[^3:6]: Vita Plotini, cap. 10.
+
+Instead the baleful defluxions from the stars which Olympius had tried to draw down upon Plotinus were turned upon himself. Porphyry also states [^3:7] that Plotinus was aware at the time of the "sidereal enchantments" of Olympius against him.
+
+Incidentally the episode provides one more proof of the essential unity of astrology and magic.
+
+[^3:7]: Vita, cap. 10.
+
+### Invoking the demon of Plotinus .
+
+Plotinus, indeed, was regarded by his admirers as divinely inspired, as another incident from the _Life_ by Porphyry will illustrate. [^4:1]
+
+An Egyptian priest had little difficulty in persuading Plotinus, who although of Roman parentage had been born in Egypt, to allow him to try to invoke his familiar demon. Plotinus was then teaching in Rome where he resided for twenty-six years, and the temple of Isis was the only pure place in the city which the priest could find for the ceremony.
+
+When the invocation had been duly performed, there appeared not a mere demon but a god. The apparition was not long enduring, however, nor would the priest permit them to question it, on the ground that one of the friends of Plotinus present had marred the success of the operation. This man had feared he might suffer some injury when the demon appeared and as a counter-charm had brought some birds which he held in his hands, apparently by the necks, for at the critical moment when the apparition appeared he suffocated them, whether from fright or from envy of Plotinus Porphyry declares himself unable to state.
+
+[^4:1]: Cap. 10.
+
+### Rite of strangling birds.
+
+This practice of grasping birds by the necks in both The rite of hands is shown by a number of works of art to have been a birds. custom of great antiquity. We may see a winged Gorgon strangling a goose in either hand upon a plate of the seventh century B.C. from Rhodes now in the British Museum. [^4:2]
+
+[^4:2]: A748.
+
+A gold pendant of the ninth century B.C. from Aegina, now also in the British Museum, consists of a figure holding a water-bird by the neck in either hand, while from its thighs pairs of serpents issue on whose folds the birds stand with their bills touching the fangs of the snakes. [^4:3]
+
+[^4:3]: Shown in the article on “Jewelry” in the eleventh edition of the _Encyclopedia Britannica_, Plate I, Figure 50. The article says of the pendant, “Here we find the themes of archaic Greek art, such as a figure holding up two water-birds, in immediate connection with Mycenaean gold patterns.” See further A.J.Evans in Journal of Hellenic Studies, 1893, Pp. 197.
+
+There also is a figure of a winged goddess grasping two water-birds by the necks upon an ivory fibula excavated at Sparta. [^4:4]
+
+[^4:4]: J.E.Harrison, _Themis_, Cambridge, 1912. p. 114, Fig. 20.
+
+### Plotinus and astrology.
+
+Porphyry also tells us in the _Life_ that Plotinus devoted considerable attention to the stars and refuted in his writings the unwarrantable claims of the casters of horoscopes. [^5:1]
+
+[^5:1]: _Vita_, cap. 15. It will be noted that like some of the church fathers Plotinus attacked genethlialogy rather than astrology. lialogy rather than astrology. Προσεἴχε δὲ τοῖς μὲν περὶ τῶν ἀστέρων καvoow ov πάνυ τι μαθηματικῶς, τοῖς δὲ τῶν γενεθλιαλόγων ἀποτελεστικοῖς ἀκριβέστερον. καὶ φωράσας τῆς ἐπαγγελίας τὸ ἀνεχέγγυον ἐλέγχειν πολλαχοῦ καὶ (τῶν) ἐν τοῖς συγγράμμασιν οὐκ ὥκνησε.
+
+Such passages are found in the treatises on fate and on the soul, while one of his treatises is devoted entirely to the question,
+
+> "Whether the stars effect anything?" [^5:2]
+
+[^5:2]: _Ennead_ II, 3, Περὶ τοῦ εἰ ποιεῖ τὰ ἄστρα. Porphyry arranged his master’s treatises in the form of six _Enneads_ of nine each and perhaps somewhat revised them at the same time.
+
+This was one of four treatises which Plotinus a little before his death sent to Porphyry, and which are regarded as rather inferior to those composed by him when in the prime of _Life_. In the next century the astrologer, Julius Firmicus Maternus, re- gards Plotinus as an enemy of astrology and represents him as dying a horrible and loathsome death from gangrene. [^5:3]
+
+[^5:3]: _Mathescos_ libri VIII, ed. Kroll et Skutsch, Lipsiae, 1897. I, 7, 14-22.
+
+### The stars as signs.
+
+As a matter of fact the criticisms made by Plotinus were not necessarily destructive to the art of astrology, but rather suggested a series of amendments by which it might be made more compatible with a Platonic view of the universe, deity, and human soul. These amendments also tended to meet Christian objections to the art. His criticisms were not new; Philo Judaeus had made similar ones over two centuries before. [^5:4]
+
+[^5:4]: See below, pp. 353-4-
+
+But the great influence of Plotinus gave added emphasis to these criticisms. For instance, the point made by him several times that the motion of the stars "does not cause everything but signifies the future concerning each" [^5:5] man and thing,
+
+[^5:5]: _Ennead_ II, 3 (p. 242), " “Οτι η τῶν ἄστρων φορὰ σημαίνει περὶ ἕκαστον τὰ ἐσόμενα ἀλλ᾽ οὐκ αὐτὴ πάντα ποιεῖ, ὡς τοῖς πολλοῖς δοξάζεται, εἴρηται μὲν πρότερον ἐν ἄλλοις. See also Ennead III, 1, and IV, 3-4.
+
+is noted by Macrobius both in the Saturnalia [^5:6]
+
+[^5:6]: I, 18.
+
+and the _Dream of Scipio_; [^5:7]
+
+[^5:7]: Cap. 19.
+
+while in the twelfth century John of Salisbury, arguing against astrology, fears that its devotees will take refuge in the authority of Plotinus and say that they detract nothing from the Creator's power, since He established once for all an unalterable natural law and disposed all future events as He foresaw them. Thus the stars are merely His instruments. [^6:1]
+
+[^6:1]: _Polycraticus_, II, 19, (ed. C.C.I.Webb, 1909, I, 112). Mr. Webb (I, xxviii) holds that John of Salisbury “certainly did not have Plotinus", and derived some passages from his works through Macrobius and Augustine; but he is unable to state in what intermediate source John could have found the passage now in question. It does not seem to reflect Plotinus’ doctrine very accurately.
+
+### The divine star-souls.
+
+But let us see what Plotinus says himself rather than what others took to be his meaning. Like Plato, who regarded the stars as happy, divine, and eternal animals, Plotinus not only believes that the stars have souls but that their intellectual processes are far above the frailties of the human mind and nearer the omniscience of the world-soul. Memory, for example, is of no use to them, [^6:2]
+
+[^6:2]: _Enead_ IV. iv, 6 and 8.
+
+nor do they hear the prayers which men address to them. [^6:3]
+
+[^6:3]: Ibid., 30. Guthrie’s translation, “We have shown that memory is useless to the stars: we have agreed that they have senses, namely, sight and hearing,” is quite misleading, as caps. 40-42 make evident.
+
+Plotinus often calls them gods. They are, however, parts of the universe, subordinate to the world-soul, and they cannot alter the fundamental principles of the universe, nor deprive other beings of their individuality, although they are able to make other beings better or worse. [^6:4]
+
+[^6:4]: Enead II, iii, 6 and 13 (249-50)
+
+### How do the stars cause and signify?
+
+In his discussion of problems concerning the soul Plotinus says that
+
+> "it is abundantly evident . . . that the motion of the heavens affects things on earth and not only in bodies but also the dispositions of the soul," [^6:5]
+
+[^6:5]: Ennead IV, iv, 31. ὅτι μέν οὖν ἢ φορὰ ποιεῖ. .. ἀναμφισβητήτως μὲν τὰ ἐπίγεια οὐ μόνον τοῖς σώμασιν ἀλλὰ καὶ ταῖς τῆς ψυχῆς διαθέσεσι, καὶ τῶν μερῶν ἕκαστον εἰς τὰ ἐπίγεια καὶ ὅλως τὰ κάτω ποιεῖ, πολλαχῇ δῆλον.
+
+and that each part of the heavens affects terrestrial and inferior objects. He does not, however, think that all this influence can be accounted for "exclusively by heat or cold," - perhaps a dig at Ptolemy's Tetrahihlos. [^6:6]
+
+[^6:6]: Idem. Guthrie heads the passage, “Absurdity of Ptolemean Astrology.” See also Ennead, II, iii 1-5.
+
+He also objects to ascribing the crimes of men to the will of the stars or every human act to a sidereal decision, [^7:1]
+
+[^7:1]: Ennead II, iii, 6.
+
+and to speaking of friendships and enmities as existing between the planets according as they are in this or that aspect towards one another. [^7:2]
+
+[^7:2]: Ennead II, iii, 4.
+
+If then the admittedly vast influence of the stars cannot be satisfactorily accounted for either as material effects caused by them as bodies or as voluntary action taken by them, how is it to be explained? Plotinus accounts for it by the relation of sympathy which exists between all parts of the universe, that single living animal, and by the fact that the universe expresses itself in the figures formed by the movements of the celestial bodies, which
+
+>"exert what influence they do exert on things here below through contemplation of the intelligible world." [^7:3]
+
+[^7:3]: Guthrie’s translation, Ennead IV, iv, 35. εἰ δὴ δρᾷ τι ὁ ἥλιος καὶ τὰ ἄλλα ἄστρα εἰς τὰ τῇδε, χρὴ νομίζειν αὐτὸν μὲν ἄνω βλέποντα εἶναι.
+
+These figures, or constellations in the astrological sense, have other powers than those of the bodies which participate in them, just as many plants and stones "among us" have marvelous occult powers for which heat and cold will not account. [^7:4]
+
+[^7:4]: Idem. καὶ ἐν τοῖς παρ᾽ ἡμῖν εἰσι πολλαί, ἃς οὐ θερμὰ ἢ ψυχρὰ παρέχεται, ἀλλὰ γενόμενα ποιότησι διαφόροις καὶ λόγοις εἰδοποιηθέντα καὶ φύσεως δυνάμεως μεταλαβόντα, οἷον καὶ λίθων φύσεις καὶ βοτανῶν ἐνέργειαι θανμαστὰ πολλὰ παρέχονται.
+
+They both exert influence effectively and are signs of the future through their relation to the universal whole. In many things they are both causes and signs, in others they are signs only. [^7:5]
+
+[^7:5]: Ennead IV, iv, 34. καὶ ποιήσεις καὶ σημασίας ἐν πολλοῖς ἀλλαχοῦ δὲ σημασίας μόνον.
+
+### Other causes and signs than the stars.
+
+For Plotinus, however, the universe is not a mechanical one where but one force prevails, namely, that produced by or represented by the constellations. The universe is full of variety with countless different powers, and the whole would not be a living animal unless each living thing in it lived its own life, and unless life were latent even in inanimate objects. It is true that some powers are more effective than others, and that those of the sky are more so than those of earth, and that many things lie under their power. Nevertheless Plotinus sees in the reproduction of life and species in the universe a force independent of the stars. In the generation of any animal, for example, the stars contribute something, but the species must follow that of its forebears. [^8:1]
+
+[^8:1]: Ennead II, iii (p. 256).
+
+And after they have been produced or begotten, terrestrial beings add something of their own. Nor are the stars the sole signs of the future. Plotinus holds that "all things are full of signs," and that the sage can not merely predict from stars or birds, but infer one thing from another by virtue of the harmony and sympathy existing between all parts of the universe. [^8:2]
+
+[^8:2]: Ibid. (pp. 250-1).
+
+### Stars not the cause of evil.
+
+Nor can the gods or stars be said to cause evil on earth. Stars not since their influence is affected by other forces which mingle of evil, with it. Like the earlier Jewish Platonist, Philo, Plotinus denies that the planets are the cause of evil or change their own natures from good to evil as they enter new signs of the zodiac or take up different positions in relation to one another. He argues that they are not changeable beings, that they would not willingly injure men, or, if it is contended that they are mere bodies and have no wills, he replies that then they can produce only corporeal effects. He then solves the problem of evil in the usual manner by ascribing it to matter, in which reason and the celestial force are received unevenly, as light is broken and refracted in passing through water. [^8:3]
+
+[^8:3]: Ibid., II, iii (pp. 243-6, 254-5, 263-5).
+
+### Against the astrology of the Gnostics.
+
+Plotinus repeats much the same line of argument in his book against the Gnostics, where he protests against
+
+> "the tragedy of terrors which they think exists in the spheres of the universe," [^8:4]
+
+[^8:4]: Ennead, II, ix, 13. τῆς τραγῳδίας τῶν φοβερῶν, ὡς οἴονται, ἐν ταῖς τοῦ κόσμου σφαίραις.
+
+and the tyranny they ascribe to the heavenly bodies. His belief is that the celestial spheres are in perfect harmony both with the universe as a whole and with our globe, completing the whole and constituting a great part of it, supplying beauty and order. And often they are to be regarded as signs rather than causes of the future. Their natures are constant, but the sequence of events may be varied by chance circumstances, such as different hours of nativities, place of residence, and the dispositions of individual souls. Amid all this diversity one must also expect both good and evil, but not on that account call nature or the stars either evil themselves or the cause of evil.
+
+### Fate and freewill.
+
+As the allusion just made in the preceding paragraph to "the dispositions of individual souls" shows, Plotinus made a distinction between the extent of the control exercised by the stars over inanimate, animate, and rational beings. The stars signify all things in the sensible world but the soul is free unless it slips and is stained by the body and so comes under their control. Fate or the force of the stars is like a wind which shakes and tosses the ship of the body in which the soul makes its passage. Man as a part of the world does some things and suffers many things in accordance with destiny. Some men become slaves to this world and to external influences, as if they were bewitched.
+
+Others look to their inner souls and strive to free themselves
+
+from the sensible world and to rise above demonic nature and all fate of nativities and all necessity of this world, and to live in the intelligible world above. [^9:1]
+
+[^9:1]: The references for the state-ments in this paragraph are in the order of their occurrence: Ennead, II, iii (pp. 257, 251-2); III, iv (p. 521); IV, iv (p. 813); II, iii (p. 260) ; III, iv (p. 520); IV, 3 (p. 71 : in these cases the higher page-numbering is used.
+
+### Summary of the attitude of Plotinus to astrology.
+
+Thus Plotinus arrives at practically what was to be the usual Christian position in the middle ages regarding the influence of the stars, maintaining the freedom of the human will and yet allowing a large field to astrological prediction. He is evidently more concerned to combat the notion that the stars cause evil or are to be feared as evil powers than he is to combat the belief in their influence and significations. His speaking of the stars both as signs and causes in a way doubles the possibility of prediction from them. If he attacked the language used by astrologers of the planets, and perhaps to a certain extent the technique of their art, he supported astrology by reconciling the existence of evil and of human freedom with a great influence of the stars and by his emphasis upon the importance of the figures made by the movements of the heavenly bodies above any purely physical effects of their bodies as such.
+
+Thus he reinforced the conception of occult virtue, always one of the chief pillars, if not the chief support, of occult science and magic. On the other hand, men were not likely to reform a language and technique sanctioned by as great an astronomer as Ptolemy merely because a Neo-Platonist questioned its propriety.
+
+## Porphyry 
+
+### _Letter to Anebo_.  
+
+Although Plotinus denied that diseases were due to demons, we once heard him speak of "demonic nature," and one of the _Enneads_ discusses _Each man's own demon_. Here, however, the discussion is limited to the power presiding in each human soul, and nothing is said of magic. For the connection of demons with magic and for the art of theurgy we must turn to the writings of Porphyry and lamblichus, and especially to _The Letter to Aneho_ of Porphyry, who lived from about 233 to 305, and the reply thereto of the master Abammon, a work which is otherwise known as _Liber De mysteriis_ [^10:1]
+
+[^10:1]: Edited Venice, Aldine Press, 1497 and 15 16; Oxford, 1678; by G.Partliey, Berlin, 1857. In the following quotations from it Ihave usually adhered to T. Taylor's English translation, London, 1821.
+
+The attribution of the latter work to lamblichus, who died about 330, is based upon an anonymous assertion prefixed to an ancient manuscript of Proclus and upon the fact that Proclus himself quotes a passage from the _De mysteriis_ as the words of lamblichus. This attribution has been questioned, but if not by lamblichus, the work seems to be at least by some disciple of his with similar views. [^10:2] Other works of lamblichus are largely philosophical and mathematical; among the chief works of Porphyry, apart from his literary work in connection with Plotinus, were his commentaries on Aristotle and fifteen books against the Christians.
+
+[^10:2]: Carl Rasche, De lamblicho libri qui inscribitur _De mysteriis_ auctore, Aschendorff, 1911, 82 pp.
+
+### Its main argument.
+
+The _Letter to Anebo_ inquires concerning the nature of the gods, the demons, and the stars; asks for an explanation of divination and astrology, of the power of names and incantations; and questions the employment of invocations and sacrifice. Other topics brought up are the rule of spirits over the world of nature, partitioned out among them for this purpose ; the divine inspiration or demoniacal possession of human beings ; and the occult sympathy between different things in the material universe. In especial the art of theurgy, a word said to be used now for the first time by Porphyry, [^11:1] is discussed. It may be roughly defined for the moment as a sort of pious necromancy or magical cult of the gods. Porphyry raises various objections to the procedure and logic of the theurgists, diviners, enchanters, and astrologers, which lamblichus, as we shall henceforth call the author of the _De mysteriis_ as a matter of convenience if not of certainty, endeavors to answer, and to justify the art of theurgy.
+
+[^11:1]: Bouche-Leclercq, L'Astrologie grecque (1898), p. 599, citing Kroll,
+
+_De oraculis Chaldaicis_.
+
+### Questions concerning divine natures.
+
+We may first note the theory of demons which is elicited from lamblichus in response to Porphyry's trenchant and searching questions. The latter, declaring that ignorance and disingenuousness concerning divine natures are no less reprehensible than impiety and impurity, demands a scientific discussion of the gods as a holy and beneficial act. He asks why, if the divine power is infinite, indivisible, and incomprehensible, different places and different parts of the body are allotted to different gods. Why, if the gods are pure intellects, they are represented as having passions, are wor- shiped with phallic ritual, and are tempted with invocations and sacred offerings? Why boastful speech and fantastic action are taken as indications of the divine presence; and why, if the gods dwell in the heavens, theurgists invoke only terrestrial and subterranean deities? How superior beings can be invoked with commands by their inferiors, why the Sun and Moon are threatened, why the man must be just and chaste who invokes spirits in order to secure unjust ends or gratify lust, and why the worshiper must abstain from animal food and not touch a corpse when sacrifices to the gods consist of the bodies of dead victims? Porphyry wishes further an explanation of the various genera of gods, visible and invisible, corporeal and incorporeal, beneficent and malicious, aquatic and aerial. He wants to know whether the stars are not gods, how gods differ from demons, and what the distinction is between souls and heroes.
+
+### Orders of spiritual beings.
+
+lamblichus in reply states that as heroes are elevated above souls, so demons are inferior and subservient to the gods and translate the infinite, ineffable, and invisible divine transcendent goodness into terms of visible forms, energy, and reason. [^12:1]
+
+[^12:1]: _De mysteriis_, I, 5.
+
+He further distinguishes "the etherial, empyrean, and celestial gods," and angels, archangels, and archons. [^12:2]
+
+[^12:2]: VIII, 2.
+
+As for corporeal, visible, aerial, and aquatic gods, he affirms that the gods have no bodies and no particular allotments of space, but that natural objects participate in or are related to the gods etherially or aerially or aquatically, each according to its nature. [^12:3]
+
+[^12:3]: I, 9.
+
+> "The celestial divinities," for example, "are not comprehended by bodies but contain bodies in their divine lives and energies. They are not themselves converted to body, but they have a body which is converted to its divine cause, and that body does not impede their intellectual and incorporeal perfection." [^12:4]
+
+[^12:4]: I, 17 (Taylor's translation).
+
+lamblichus denies that there are any maleficent gods, saying that "it is much better to acknowledge our inability to explain the occurrence of evil than to admit anything impossible and false concernings the gods." [^12:5] But he admits the existence of both good and evil demons and makes of the latter a convenient scapegoat upon whom to saddle any inconsistencies or impurities in religious rites and magical ceremony.
+
+[^12:5]: IV, 6.
+
+### Nature of demons.
+
+lamblichus does not, however, hold the view of Apuleius that demons are subject to passions. They are impassive and incapable of suffering. [^12:6]
+
+[^12:6]: I, 10.
+
+He scorns the notion that even the worst demons can be allured by the vapors of animal sacrifice or that petty mortals can supply such beings with anything; [^12:7] it is rather in the consumption of foul matter by pure fire in the act of sacrifice that they take delight.
+
+[^12:7]: V, 10-12.
+
+Demons are not, however, like the gods entirely separated from bodies. The world is divided up into prefectures among them and they are more or less inseparable from and identified with the natural objects which they govern. [^13:1]
+
+[^13:1]: I, 20.
+
+Thus they may serve to enmesh the soul in the bonds of matter and of fate, and to afflict the body with disease. [^13:2]
+
+[^13:2]: II, 6.
+
+Also the evil demons "are surrounded by certain noxious, blooddevouring, and fierce wild beasts," probably of the type of vampires and _empousas_. [^13:3]
+
+[^13:3]: II, 7.
+
+lamblichus further holds that there is a class of demons who are without judgment and reason, each of whom has some one function to perform and is not adapted to do anything else, [^13:4]
+
+[^13:4]: IV, 1.
+
+Such demons or forces in nature men may well address as superiors in invoking them, since they are superior to men in their one special function ; but when they have once been invoked, man as a rational being may also well issue commands to them as his irrational inferiors. [^13:5]
+
+[^13:5]: IV, 2.
+
+### The art of theurgy.
+
+lamblichus also undertakes the defense of theurgy and carefully distinguishes it from magic, as we shall soon see. It is also different from science, since it does not merely employ the physical forces of the natural universe, [^13:6]
+
+[^13:6]: IV, 10.
+
+and from philosophy, since its ineffable works are beyond the reach of mere intelligence, and those who merely philosophize theoretically cannot hope for a theurgic union or communion with the gods. [^13:7]
+
+[^13:7]: II, 11.
+
+Even theurgists cannot as a rule endure the light of spiritual beings higher than heroes, demons, and angels, [^13:8]
+
+[^13:8]: II, 3.
+
+and it is an exceedingly rare occurrence for one of them to be united with the supramundane gods. [^13:9]
+
+[^13:9]: V, 20.
+
+This theurgy, or "the art of divine works," operates by means of "arcane signatures" and "the power of inexplicable symbols." [^13:10] It is thus that lamblichus explains away most of the details in sacred rites and sacrifices to which Porphyry had objected as obscene or material and as implying that the gods themselves were passive and passionate.
+
+[^13:10]: I, 9; VI, 6; II, 11.
+
+They are mystic symbols, "consecrated from eternity'' for some hidden reason "which is more excellent than reason." [^14:1]
+
+[^14:1]: I, 11.
+
+Occult virtues indeed! We have already heard lamblichus state that natural objects participate in or are related to the gods etherially or aerially or aquatically; theurgists therefore quite properly employ in their art certain stones, herbs, aromatics, and sacred animals. [^14:2]
+
+[^14:2]: V, 23.
+
+By employing such potent symbols mere man takes on such a sacred character himself that he is able to command many spiritual powers. [^14:3]
+
+[^14:3]: IV. 2.
+
+### Invocations and the power of words.
+
+Invocations and prayers are also much used in theurgical operations. But such invocations do not draw down the impassive and pure gods to this world; rather they purify those who employ them from their passions and impurity and exalt them to union with the pure and the divine. [^14:4]
+
+[^14:4]: I, 12.
+
+These prayers are symbolic, too. They do not appeal to human passions or reason, "for they are perfectly unknown and arcane and are alone known to the God whom they invoke." [^14:5]
+
+[^14:5]: I, 15; III, 24 (Taylor's translation)
+
+In another passage [^14:6] lamblichus replies to Porphyry's objection that such prayers are often composed of meaningless words and names without signification by declaring - somewhat inconsistently with his previous assertion that these invocations are "perfectly unknown" - that some of the names "which we can scientifically analyze" comprehend "the whole divine essence, power and order." Moreover, if translated into another language, they do not have exactly the same meaning, and even if they do, they no longer retain the same power as in the original tongue.
+
+[^14:6]: VII, 4.
+
+We shall meet a similar passage concerning the power of words and divine names in the church father Origen who lived earlier in the third century than Porphyry and lamblichus. lamblichus concludes that "it is necessary that ancient prayers . . . should be preserved invariably the same." [^15:1]
+
+[^15:1]: VII, 5.
+
+### Magic a human art: theurgy divine.
+
+Neither Porphyry nor lamblichus, I believe, employs the word, "magic," but they both often allude to its practitioners and methods by such expressions as "jugglers" and "enchanters" or by contrasting what is done "artificially" or by means of art with theurgical operations. In the last case the distinction is between what on the one hand is regarded as a divine mystery or revelation and what on the other hand is looked upon as a mere human art and contrivance. And "nothing . . . which is fashioned by human art is genuine and pure." [^15:2]
+
+[^15:2]: III, 29.
+
+Christian writers drew a like distinction between prophecy or miracle and divination or magic. Sometimes, however, lamblichus speaks of theurgy itself as an art, an involuntary admission of the close resemblance between its methods and those of magic. We are also told that if the theurgist makes a slip in his procedure, he there- by reduces it to the level of magic. [^15:3]
+
+[^15:3]: II, 10.
+
+### Magic's abuse of nature's forces.
+
+Another distinction is that theurgy aims at communion with the gods while magic has to do rather with "the physical or corporeal powers of the universe." [^15:4]
+
+[^15:4]: IV, 10.
+
+Both Porphyry and lamblichus believed that harmony, sympathy, and mutual attraction existed between the various objects in the universe, which lamblichus asserted was one animal. [^15:5]
+
+[^15:5]: IV, 12.
+
+Thus it is possible for man to draw distant things to himself or to unite them to, or separate them from, one another. [^15:6] But art may also use this force of sympathy between objects in an extreme and unseemly manner, and this disorderly forcing of nature, we are left to infer, constitutes an essential feature of magic, whose procedure is not truly natural or scientific.
+
+[^15:6]: IV, 3.
+
+### Its evil character.
+
+Magic not only disorders the law and harmony, and makes a perverse and contrary use of natural forces. Its practitioners are also represented as aiming at evil ends and as themselves of evil character. [^16:1]
+
+[^16:1]: IV, 10; III, 31.
+
+They may try by their illicit and impure procedure to have intercourse with the gods or with pure spirits, but they are unable to accomplish this. All that they succeed in doing is to secure the alliance of evil demons by associating with whom they become more depraved than ever. Such wicked demons may pose as angels of light by requiring that those who invoke them should be just or chaste, but afterwards they show their true colors by assisting in crimes and the gratification of lusts. [^16:2]
+
+[^16:2]: IV, 7.
+
+It is they, too, who assuming the guise of superior spirits are responsible for the boastful and arrogant utterances of which Porphyry complained in persons supposed to be divinely inspired. [^16:3]
+
+[^16:3]: II, 10.
+
+### Its deceit and unreality.
+
+Finally magic is unstable and fantastic. "The imaginations artificially produced by enchantment" are not real objects. Those who foretell the future by "standing on characters" are no theurgists, but employ a superficial, false, and deceptive procedure which can attract only evil demons. [^16:4]
+
+[^16:4]: VI, 5; III, 25; III, 13.
+
+These demons are themselves deceitful and produce "fictitious images." [^16:5]
+
+[^16:5]: II, 10.
+
+Porphyry in _The Letter to Aneho_ also alluded to the frauds of "jugglers." Although the attitude both of Porphyry and lamblichus is thus professedly unfavorable to the magic arts, we find that one of lamblichus's disciples, named Sopater, was executed under Constantine on a charge of having charmed the winds. [^16:6]
+
+[^16:6]: E.S.Bouchier, _Syria as a Roman Province_, Oxford, 1916, p. 231.
+
+### Porphyry on modes of divination.
+
+How is divination to be placed in reference to magic and theurgy? Porphyry had inquired concerning various methods of divination: in sleep, in trances, and when fully conscious; in ecstasy, in disease, and in states of mental aberration or enchantment. He mentioned divination on hearing drums and cymbals, by drinking water and other potions, by inhaling vapor; divination in darkness, in a wall, in the open air or in the sunlight; by observing entrails or the flight of birds or the motion of the stars, or even by means of meal. Yet other modes of determining the future which he hsts are by characters, images, incantations, and invocations, with which the use of stones and herbs is often combined. These details make it evident how impossible it is to draw any dividing line between the methods of magic and divination, and Porphyry himself states that those who invoke the gods concerning the future not only "have about them stones and herbs," but are able to bind and to free from bonds, to open closed doors, and to change men's intentions. Among the virtues of parts of animals mentioned in his treatise upon abstinence from animal food are the powers of divination which may be obtained by eating the heart of a hawk or crow. [^17:1]
+
+[^17:1]: De abstinentia, II, 48.
+
+## lamblichus 
+
+### On divination.  
+
+Porphyry states that all diviners attribute their predictions to gods or demons, but that he wonders if foreknowledge may not be a power of the human soul or perhaps accountable for by the sympathy which exists between different parts of the universe. lamblichus holds, however, that divination is neither a human art nor the work of nature but of divine origin. [^17:2]
+
+[^17:2]: III, 1, 10.
+
+He perhaps regards it as little more than a branch of theurgy. He distinguishes between human dreams which are sometimes true, sometimes false, and dreams and visions divinely sent. [^17:3]
+
+[^17:3]: Ill, 2-3.
+
+If one is able to predict the future by drinking water, it is because the water has been divinely illuminated. [^17:4]
+
+[^17:4]: III, 11.
+
+That we can predict when the mind is diseased and disordered, and that stupid or simple-minded men are often better able to prophesy than the wise and learned, are for him but further proofs that foreknowledge is a divine gift and not a human science, while divination by such means as rods, pebbles, grains of corn and wheat simply excites the more his pious admiration at the greatness of divine power. [^17:5]
+
+[^17:5]: Ill, 24; III, 17.
+
+He disapproves of divination by standing on characters, [^17:6] but sees no reason why divination in darkness, in a wall, or in sunlight, or by potions and incantations, may not be divinely directed.
+
+[^17:6]: Ill, 14.
+
+He will not, however, connect the disordered imaginations excited by disease with divine presentiments. [^18:1]
+
+[^18:1]: III, 25. Although, as stated Mil, 26. above, one may be divinely inspired while diseased. But there "is no causal connection between" the two.
+
+From true divination he also separates the "natural prescience" of certain animals whose acuteness of sense or occult sympathy with other parts and forces of nature enables them to perceive some coming events before men do. Their power resembles prophecy,
+
+>"yet falls short of it in stability and truth." [^18:2]
+
+[^18:2]: III, 26.
+
+Augury is an art whose conjectures have great probability, but they are based upon divine signs or portents effected in nature by the agency of demons. [^18:3]
+
+[^18:3]: III, 15.
+
+### Are the stars gods?.
+
+The stars are on a totally different plane from the other substances employed in divination. To Porphyry's question whether they are not gods lamblichus is not content to reply that the celestial divinities comprehend these heavenly bodies and that the bodies in no way impede "their intellectual and incorporeal perfection." [^18:4]
+
+He must needs go on to argue that the stars themselves, as simple indivisible bodies, unchanging in quality and uniform in movement, closely approach to "the incorporeal essence of the gods." He then triumphantly if illogically concludes, "Thus therefore the visible celestials are all of them gods and after a certain manner incorporeal." We may add the opinion of Chaeremon and others, noted by Porphyry, that the only gods were the physical ones of the Egyptians and the planets, signs of the zodiac, decans, and horoscope; all religious myths were explained by Chaeremon as astrological allegories.
+
+[^18:4]: I, 17.
+
+### Is there an art of astrology?
+
+Porphyry objected that those who thus reduce religion to astrology submit everything to fate and leave the human soul no freedom, and furthermore that in any case astrology is an unattainable science. lamblichus defends it against these objections, insisting that the universe is divided under the rule of planets, signs, and decans; [^18:5]
+
+[^18:5]: VIII, 4.
+
+that the Egyptians do not make everything physical but ascribe two souls to man, one of which obeys the revolutions of the stars, while the other is intellectual and free; [^19:1]
+
+[^19:1]: VIII, 6.
+
+and that there is a systematic art of astrology based on divine revelation and the long observations of the Chaldeans, although like any other science it may at times degenerate and become contaminated by error. [^19:2]
+
+[^19:2]: IX, 3-4.
+
+lamblichus further regards as ridiculous the contention of those "who ascribe depravity to the celestial bodies because their participants sometimes produce evil." [^19:3]
+
+[^19:3]: I, 18.
+
+In the brief separate treatise, _De fato_, [^19:4] he again holds that all things are bound by the indissoluble chain of necessity which men call fate, but that the gods can loose the bonds of fate, and that the human mind, too, has power to rise above nature, unite with the gods, and enjoy eternal life.
+
+[^19:4]: lamblichus. _In Nicomachi Geraseni arithmeticam introductionem et De fato_, published by Tennulius, Deventer and Arnheim, 1668.
+
+### Porphyry and astrology.
+
+Whether Porphyry in his other extant works evidences a belief in astrology or not, and whether he wrote an _Introduction to the Tetrabiblos_ or astrological handbook of Ptolemy, has been disputed. [^19:5]
+
+[^19:5]: Zeller, _Philos. d. Gr._, Ill, 2, 2, p. 608. cites passages to show Porphyry's leanings towards astrology; but F.Boll, _Studien &uuml;ber Claudius Ptolemaeus_, 115-17, and Bouche-Leclercq, _L'Astrologie grecque_, 601-602, are inclined to the opposite view.
+
+This Introduction ascribed to Porphyry was much cited by subsequent astrologers [^19:6]
+
+[^19:6]: CCAG, _passim_.
+
+and was printed in 1559 together with a much longer anonymous commentary on the Tetrabiblos which some ascribe to Proclus." [^19:7]
+
+[^19:7]: Ed. Hieronymus Wolf, Basel, 1559, Greek and Latin.
+
+### Astrological images.
+
+Towards astrological images at least. Porphyry shows himself in the _Letter to Anebo_ more favorable than lamblichus, saying,
+
+> "Nor are the artificers of efficacious images to be despised, for they observe the motion of celestial bodies."
+
+lamblichus, on the other hand, rather grudgingly admits that "the image-making art attracts a certain very obscure genesiurgic portion from the celestial effluxions." [^19:8]
+
+[^19:8]: III. 28.
+
+He seems to have the same feeling against images as against characters, perhaps regarding both as bordering upon idolatry. [^20:1]
+
+[^20:1]: III, 29.
+
+### Number mysticism.
+
+Plotinus, Porphyry, and lamblichus were all given to number mysticism. The sixth book of the sixth Ennead is entirely devoted to this subject, while Porphyry and lamblichus both wrote _Lives of Pythagoras_ and treatises upon his doctrine of number.
+
+### Porphyry as reported by Eusebius.
+
+Other works by Porphyry than the _Letter to Anebo_ axe cited or quoted a good deal by Eusebius in Praeparatio evangeiica, especially his Philosophy from Oracles (Περὶ τῆς ἐκ λογίων φιλοσοφίας; De Philosophia ex Oraculis Haurienda), which was originally three books in length., but the extracts are made for Eusebius's own purposes, which are to discredit pagan religion, and neither express Porphyry's complete thought nor probably even tend to prove his original point.
+
+Besides showing that Porphyry was inconsistent in distinguishing the different victims to be sacrificed to terrestrial and subterranean, aerial, celestial, and sea gods in the above-mentioned work, when in his _De abstinentia a rebus animatis_ he held that beings who delighted in animal sacrifice were no gods but mere demons, Eusebius quotes him a good deal to show that the pagan gods were nothing but demons, that they themselves might be called magicians and astrologers, that they loved characters, and that they made their predictions of the future not from their own foreknowledge but from the stars by the art of astrology, and that like men they could not even always read the decrees of the stars aright. The belief is also mentioned that the fate foretold from the stars may be avoided by resort to magic. [^20:2]
+
+[^20:2]: Eusebius, Praep. evang., IV, 6-15, 23; V, 6, II, 14-15; VI, I, 4-5; etc., in Migne, PG, XXI.
+
+### The emperor Julian on theurgy and astrology.
+
+The Emperor Julian was an enthusiastic follower of lamblichus whom he praises [^20:3] in his Hymn to the Sovereign Sun delivered at the Saturnalia of 361 A. D.
+
+[^20:3]: Loeb Library edition Julian's works, I, 398, 412, 433.
+
+He also describes "the blessed theurgists" as able to comprehend unspeakable mysteries which are hidden from the crowd, such as Julian the Chaldean prophesied concerning the god of the seven rays. [^21:1]
+
+[^21:1]: I. 482, 498.
+
+The emperor tells us that from his youth he was regarded as over-curious (περιεργότερον - periergóteron, a word which almost implies the practice of magic) and as a diviner by the stars (ἀστρόμαντιν - astrómantin). His _Hymn to the Sun_ contains a good deal of astrological detail, speaks of the universe as eternal and divine, and regards planets, signs, and decans as "the visible gods." In short,
+
+> "there is in the heavens a great multitude of gods." [^22:2]
+
+[^22:2]: I, 405.
+
+The Sun, however, is superior to the other planets, and as Aristotle has pointed out
+
+> "makes the simplest movement of all the heavenly bodies that travel in a direction opposite to the whole." [^22:3]
+
+[^22:3]: I, 374-75.
+
+The Sun is also the link between the visible universe and the intelligible world, and Julian infers from his middle station among the planets that he is also king among the intellectual gods. [^22:4]
+
+[^22:4]: I. 366-37.
+
+For behind his visible self is the great Invisible. He frees our souls entirely from the power of "Genesis," or the force of the stars exercised at nativity, and lifts them to the world of the pure intellect. [^22:5]
+
+[^22:5]: I, 368.
+
+### Julian and divination.
+
+Julian believed in almost every form of pagan divination as well as in astrology. To the oracles of Apollo he ascribed the civilizing of the greater part of the world through the foundation of Greek colonies and the revelation of religious and political law. [^22:6]
+
+[^22:6]: I, 419.
+
+The historian Ammianus Marcellinus [^22:7] tells us that Julian was continually inspecting entrails of victims and interpreting dreams and omens, and that he even proposed to re-open a prophetic fountain whose predictions were supposed to have enabled Hadrian to become emperor, after which that emperor blocked it up from fear that someone else might supplant him through its instrumentality.
+
+[^22:7]: XXII, xii, 8.
+
+In another passage [^22:8] he defends Julian from the charge of magic, saying,
+
+[^22:8]: XXI, i, 7.
+
+> "Inasmuch as malicious persons have attributed the use of evil arts to learn the future to this ruler who was a learned inquirer into all branches of knowledge, we shall briefly indicate how a wise man is able to acquire this by no means trivial variety of learning. The spirit behind all the elements, seeing that it is incessantly and everywhere active in the prophetic movement of perennial bodies, bestows upon us the gift of divination by the different arts which we employ; and the forces of nature, propitiated by varied rites, as from exhaustless springs provide mankind with prophetic utterances."
+
+### Scientific divination.
+
+Ammianus thus regards the arts of divination as serious sciences based upon natural forces, although of course in the characteristic Neo-Platonic way of thinking he confuses the spiritual and physical and substitutes propitiatory rites for scientific experiments. His phrase,
+
+> "the prophetic movement of perennial bodies"
+
+almost certainly means the stars and shows his belief in astrology.
+
+In another passage [^23:1] he indicates the widespread trust in astrology among the Roman nobles of his time, the later fourth century, by saying that even those
+
+[^23:1]: XXVIII, iv, 24.
+
+> "who deny that there are superior powers in the sky,"
+
+nevertheless think it imprudent to appear in public or dine or bathe without having first consulted an almanac as to the whereabouts of Mercury or the exact position of the moon in Cancer, The passage is satirical, no doubt, but Ammianus probably objects quite as much to their disbelief in superior powers in the sky as he does to the excess of their superstition. That astrology and divination may be studied scientifically he again indicates in a description of learning at Alexandria. Besides praising the medical training to be had there, and mentioning the study of geometry, music, astronomy, and arithmetic, he says,
+
+> "In addition to these subjects they cultivate the science which reveals the ways of the fates." [^23:2]
+
+[^23:2]: XXII, xvi, 17-18.
+
+## Proclus 
+
+### On theurgy  
+
+lamblichus's account of theurgy is repeated in more condensed form by Proclus (412-485) in a brief treatise or fragment which is extant only in its Latin translation by the Florentine humanist Ficinus, entitled _De sacrificio et magia_. [^23:3]
+
+[^23:3]: Published at Venice (Aldine), 1497, along with the _De mysteriis_, and other works edited or composed by Marsilius Ficinus. See also Prodi Opera, ed. Cousin, Paris, 1820-1827, III, 278; and Kroll, _Analecta Graeca_, Greisswald, 1901, where a Greek translation accompanies the Latin text.
+
+Neither magic nor theurgy, however, is mentioned by name in the Latin text. Proclus states that the priests of old built up their sacred science by observing the sympathy existing between natural objects and by arguing from manifest to occult powers. They saw how things on earth were associated with things in the heavens and further discovered how to bring down divine virtue to this lower world by the force of likeness which binds things together. Proclus gives several examples of plants, stones, and animals which evidence such association. The cock, for instance, is reverenced by the lion because both are under the same planet, the sun, but the cock even more so than the lion. Therefore demons who appear with the heads of lions (_leonina fronte_) vanish suddenly at the sight of a cock unless they chance to be demons of the solar order. After thus indicating the importance of astrology as well as occult virtue in theurgy or magic, Proclus tells how demons are invoked. Sometimes a single herb or stone "suffices for the divine work"; sometimes several substances and rites must be combined "to summon that divinity." When they had secured the presence of the demons, the priests proceeded, partly under the instruction of the demons and partly by their own industrious interpretation of symbols, to a study of the gods.
+
+> "Finally, leaving behind natural objects and forces and even to a great extent the demons, they won communion with the gods."
+
+### Neo-Platonic account of magic borrowed by Christians.
+
+Despite the writings of Porphyry and other Neo-Platonists against Christianity, much use was made by Christian theologians of the fourth and fifth centuries of the Neo-Platonic accounts of magic, astrology, and divination, especially of Porphyry's _Letter to Anebo_. Eusebius in his _Praeparatio Evangelica_ [^24:1] made large extracts from it on these themes and also from Porphyry's work on the Chaldean oracles.
+
+[^24:1]: Eusebii Caesariemis Opera, Pars II, Apologetica, Praep. Evang., IV, 22; V, 6, 8, 10, 12, 14; VI, I, 4; XIV, 10 (Migne, _Patrologia Graeca_, vol. 21).
+
+Augustine in The City of God [^24:2] accepted Pophyry as an authority on the subjects of theurgy (a system of white magic practised by the early Neoplatonists.) and magic. On the other hand, we do not find the Christian writers repeating the attitude of Plotinus that the life of reason is alone free from magic, except as they substitute the word "Christianity" for "the life of reason."
+
+[^24:2]: X, 9-10.
+
+### Neo-Platonists and alchemy.
+
+The Neo-Platonists showed some interest in alchemy as well as in theurgy and astrology. Berthelot published in his Collection des Alchimistes Grecs "a little tract of positive chemistry" which is extant under the name of lamblichus; and Proclus treated of the relations between the metals and planets and the generation of the metals under the influence of the stars. [^25:1]
+
+Of Synesius, who was both a Neo-Platonist and a Christian bishop, and who seems to have written works of alchemy, we shall treat in a later chapter.
+
+[^25:1]: Berthelot (1889), p. ix.
