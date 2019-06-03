@@ -1,4 +1,5 @@
-# CHAPTER X 
+
+# Chapter X 
 
 ### The spurious mystic writings of Hermes, Orpheus, and _Zoroaster_ 
 
