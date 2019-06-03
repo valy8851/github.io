@@ -1,8 +1,9 @@
-# CHAPTER XIX 
 
-## ORIGEN AND CELSUS 
+# Chapter XIX 
 
-### Celsus' charges of magic against Christianity.
+## Origen AND Celsus 
+
+### Celsus charges of magic against Christianity.
 
 In the celebrated work of Origen _Against Celsus_, [^1:1] written in the first half of the third century, the subject of magic is often touched upon, largely because Celsus in his _True Discourse_ had so frequently brought charges of magic against Jesus, His Christian followers, and the Jewish people from whom they had sprung. Celsus had called Jesus 
 
