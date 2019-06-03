@@ -1,8 +1,8 @@
-# CHAPTER VI 
+
+# Chapter VI 
 
 ## Plutarch's essays 
   
-
 ### Themes of ensuing chapters
 
 Having noted the presence of magic in works so especially devoted to natural science as those of Pliny, Galen, and Ptolemy, we have now to illustrate the prominence both of natural science and of magic in the life and thought of the Roman Empire by a consideration of some writers of a more miscellaneous character, who should reflect for us something of the interests of the average cultured reader of that time. Of this type are Plutarch, Apuleius and Philostratus, whom we shall consider in the coming chapters in the order named, which also roughly corresponds to their chronological sequence. 
