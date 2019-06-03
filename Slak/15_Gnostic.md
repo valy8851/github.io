@@ -1,9 +1,9 @@
 
- # CHAPTER XV The Gnostics 
+ # Chapter XV The Gnostics 
 
 ## Definition
 
-### Difficulty in defining Gnosticism 
+### Difficulty in defining Gnosticism. 
 
 Gnosticism [^1:1] is not easy to define and the term Gnostic appears to have been applied to a great variety of sects with a confusing diversity of beHefs, Many of the constituents and roots at least of Gnosticism were older than Christianity, and it is now the custom to associate the Gnosis or superior knowledge and revelation, which gives the movement its name, not with Greek philosophy or mysteries but with oriental speculation and religions. 
 
