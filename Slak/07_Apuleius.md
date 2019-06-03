@@ -1,4 +1,5 @@
-# CHAPTER VII APULEIUS OF MADAURA 
+
+# Chapter VII APULEIUS OF MADAURA 
 
 ## I. Life and Works 
 
