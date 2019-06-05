@@ -1,0 +1,769 @@
+ 
+# Chapter I  
+
+## INTRODUCTION   
+
+### Aim of this book.
+
+"_Magic has existed among all peoples and at every period._" - Hegel [^1:1]  
+  
+  [^1:1]: Lectures on the Philosophy of Religion; quoted by Sir James Frazer, _The Magic Art_ (1911), I, 426. 
+  
+This book aims to treat the history of magic and experimental science and their relations to Christian thought during the first thirteen centuries of our era, with especial emphasis upon the twelfth and thirteenth centuries. No adequate survey of the history of either magic or experimental science exists for this period, and considerable use of manuscript material has been necessary for the medieval period. Magic is here understood in the broadest sense of the word, as including all occult arts and sciences, superstitions, and folk-lore. I shall endeavor to justify this use of the word from the sources as I proceed. My idea is that magic and experimental science have been connected in their development; that magicians were perhaps the first to experiment; and that the history of both magic and experimental science can be better understood by studying them together, I also desire to make clearer than it has been to most scholars the Latin learning of the medieval period, whose leading personalities even are generally inaccurately known, and on perhaps no one point is illumination more needed than on that covered by our investigation. The subject of laws against magic, popular practice of magic, the witchcraft delusion and persecution lie outside of the scope of this book. [^2:1]  
+ 
+ [^2:1]: That field has already been treated by Joseph Hansen, _Zauberwahn. Inquisition und Hexenprozess im Mittelalter_, 1900, and will be further illuminated by _A History of Witchcraft in Europe_, soon to be edited by Professor George L.Burr from H.C.Lea's materials. See also a work just published by Miss M.A.Murray, _The Witch-Cult in Western Europe_, Oxford, 1921. 
+ 
+ ### Period covered.
+ 
+At first my plan was to limit this investigation to the twelfth and thirteenth centuries, the time of greatest medieval productivity, but I became convinced that this period could be best understood by viewing it in the setting of the Greek, Latin, and early Christian writers to whom it owed so much. If the student of the Byzantine Empire needs to know old Rome, the student of the medieval church to comprehend early Christianity, the student of Romance languages to understand Latin, still more must the reader of Constantinus Africanus, Vincent of Beauvais, Guide Bonatti, and Thomas Aquinas be familiar with the Pliny, Galen, and Ptolemy, the Origen and Augustine, the Alkindi and Albumasar from whom they drew. It would indeed be difficult to draw a line anywhere between them. The ancient authors are generally extant only in their medieval form; in some cases there is reason to suspect that they have undergone alteration or addition; sometimes new works were fathered upon them. In any case they have been preserved to us because the middle ages studied and cherished them, and to a great extent made them their own. I begin with the first century of our era, because Christian thought begins then, and then appeared Pliny's Natural History which seems to me the best starting point of a survey of ancient science and magic. [^3:1] I close with the thirteenth century, or, more strictly speaking, in the course of the fourteenth, because by then the medieval revival of learning had spent its force. Attention is centered on magic and experimental science in western Latin literature and learning, Greek and Arabic works being considered as they contributed thereto, and vernacular literature being omitted as either derived from Latin works or unlearned and unscientific.
+
+ [^3:1]: Some of my scientific friends have urged me to begin with Aristotle, as being a much abler scientist than Pliny, but this would take us rather too far back in time and I have not felt equal to  a treatment of the science of the genuine Aristotle _per se_, although Aristotle, as being a much abler in the course of this book I shall say something of his medieval influence and more especially of the Pseudo-Aristotle.  
+ 
+### How to study the history of thought.  
+ 
+Very probably I have tried to cover too much ground How to and have made serious omissions. It is probably true that  for the history of thought as for the history of art the evidence and source material is more abundant than for political or economic history. But fortunately it is more reliable, since the pursuit of truth or beauty does not encourage deception and prejudice as does the pursuit of wealth or power. Also the history of thought is more unified and consistent, steadier and more regular, than the fluctuations and diversities of political history; and for this reason its general outlines can be discerned with reasonable sureness by the examination of even a limited number of examples, provided they are properly selected from a period of sufficient duration. Moreover, it seems to me that in the present stage of research into and knowledge of our subject sounder conclusions and even more novel ones can be drawn by a wide comparative survey than by a minutely intensive and exhaustive study of one man or of a few years. The danger is of writing from too narrow a view-point, magnifying unduly the importance of some one man or theory, and failing to evaluate the facts in their full historical setting. No medieval writer whether on science or magic can be understood by himself, but must be measured in respect to his surroundings and antecedents.   
+
+### Definition of magic.
+  
+Some may think it strange that I associate magic so closely with the history of thought, but the word comes from the Magi or wise men of Persia or Babylon, to whose lore and practices the name was applied by the Greeks and Romans, or possibly we may trace its etymology a little farther back to the Sumerian or Turanian word _imga_ or _unga_, meaning deep or profound. The exact meaning of the word, "magic," was a matter of much uncertainty even in classical and medieval times, as we shall see. There can be no doubt, however, that it was then applied not merely to an operative art, but also to a mass of ideas or doctrine, and that it represented a way of looking at the world. This side of magic has sometimes been lost sight of in hasty or assumed modern definitions which seem to regard magic as merely a collection of rites and feats. In the case of primitive men and savages it is possible that little thought accompanies their actions. But until these acts are based upon or related to some imaginative, purposive, and rational thinking, the doings of early man cannot be distinguished as either religious or scientific or magical. Beavers build dams, birds build nests, ants excavate, but they have no magic just as they have no science or religion. Magic implies a mental state and so may be viewed from the standpoint of the history of thought. In process of time, as the learned and educated lost faith in magic, it was degraded to the low practices and beliefs of the ignorant and vulgar. It was this use of the term that was taken up by anthropologists and by them applied to analogous doings and notions of primitive men and savages. But we may go too far in regarding magic as a purely social product of tribal society: magicians may be, in Sir James Frazer's words, [^5:1] 
+
+ [^5:1]: Frazer has, of course, repeatedly made the point that modern science is an outgrowth from primitive magic. Carveth Read, The Origin of Man, 1920, in his chapter on "Magic and Science "contends that "in no case ... is Science derived from Magic" (p. 337), but this is mainly a logical and ideal distinction, since he admits that "for ages" science "is in the hands of wizards."  
+
+> "the only professional class" among the lowest savages, but note that they rank as a learned profession from the start. 
+
+It will be chiefly through the writings of learned men that something of their later history and of the growth of interest in experimental science will be traced in this work. Let me add that in this investigation all arts of divination, including astrology, will be reckoned as magic; I have been quite unable to separate the two either in fact or logic, as I shall illustrate repeatedly by particular cases." [^5:2]
+
+ [^5:2]:  I am glad to see that other writers on magic are taking this view; for instance, E. Doutte, _Magie et religion dans I'Afrique du Nord_, Alger, 1909, p. 351.  
+ 
+### Magic of primitive man: does civilization originate in magic ?
+
+Magic is very old, and it will perhaps be well in this introductory chapter to present it to the reader, if not in its infancy - for its origins are much disputed and perhaps antecede all record and escape all observation - at least some centuries before its Roman and medieval days. Sir J.G.Frazer, in a passage of _The Golden Bough_ to which we have already referred, remarks that "sorcerers are found in every savage tribe known to us; and among the lowest savages . . . they are the only professional class that exists." [^5:3] 
+
+ [^5:3]: Golden Bough, 1894, I. 420. W.I.Thomas, "The Relation of the Medicine-Man to the Origin of the Professional Occupations"(reprinted in his _Source Book for Social Origins_, 4th edition, pp. 281-303), in which he disputes Herbert Spencer's "thesis that the medicine-man is the source and origin of the learned and artistic occupations," does not really conflict with Frazer's statement, since for Thomas the medicine-man is a priest rather than a magician.  
+Thomas remarks later in the same book (p. 437), "Furthermore, the whole attempt of the savage to control the outside world, so far as it contained a theory or a doctrine, was based on magic."  
+
+Lenormant affirmed in his _Chaldean Magic and Sorcery_ [^5:4] that "all magic rests upon a system of religious belief," but recent sociologists and anthropologists have inclined to regard magic as older than a belief in gods. 
+
+ [^5:4]: Chaldean Magic and Sorcery. 1878, p. 70.
+
+At any rate some of the most primitive features of historical religions seem to have originated from magic. Moreover, religious cults, rites, and priesthoods are not the only things that have been declared inferior in antiquity to magic and largely indebted to it for their origins. Combarieu in his _Music and Magic_ [^6:1] asserts that the incantation is universally employed in all the circumstances of primitive life and that from it, by the medium it is true of religious poetry, all modern music has developed. 
+
+ [^6:1]: Jules Combarieu, _La musigue et la magie_, Paris, 1909, p.v. 
+
+> The magic incantation is, in short, _"the oldest fact in the history of civilization."_  
+
+Although the magician chants without thought of aesthetic form or an artistically appreciative audience, yet his spell contains in embryo all that later constitutes the art of music. [^6:2]  
+
+ [^6:2]: Jules Combarieu, _La musigue et la magie_, Paris, 1909, pp. 13-14. 
+
+M. Paul Huvelin, after asserting with similar confidence that poetry, [^6:3] 
+
+[^6:3]: Among the early Arabs "poetry is magical utterance" (Macdonald (1909). p. 16), and the poet "a wizard in the league with spirits" (Nicholson, _A litterary history of the Arabs_, 1914, p. 72).
+
+the plastic arts, [^6:4] 
+
+  [^6:4]: See S.Reinach, "_L'Art et la Magie_," in L'Anthropologie, XIV (1903), and Y.Hirn, _Origins of Art_, London, 1900, Chapter xx, "Art and Magic." J.Capart, _ Primitive Art in Egypt._  
+
+medicine, mathematics, astronomy, and chemistry "have easily discernable magic sources," states that he will demonstrate that the same is true of law. [^6:5]  
+
+ [^6:5]: P. Huvelin, Magie et droit individuel, Paris, 1907, in Annee Sociologique, X, 1-471; see too his Les Tabletes magiques et le droit romain, Mâcon, 1901.  
+
+Very recently, however, there has been something of a reaction against this tendency to regard the life of primitive man as made up entirely of magic and to trace back every phase of civilization to a magical origin. But R. R. Marett still sees a higher standard of value in primitive man's magic than in his warfare and brutal exploitation of his fellows and believes that the "higher plane of experience for which mana stands is one in which spiritual enlargement is appreciated for its own sake." [^6:6]  
+
+ [^6:6]: R.R.Marett, Psychology and Folk-Lore, 1920, Chapter iii on "Primitive Values."    
+ 
+## Divination in early China.
+ 
+Of the five classics included in the Confucian Canon, _The Book of Changes  (I Citing or Yi-King)_, regarded by some as the oldest work in Chinese literature and dated back as early as 3000 B.C., in its rudimentary form appears to have been a method of divination by means of eight possible combinations in triplets of a line and a broken line.  
+Thus, if a be a line and b a broken line, we may have aaa, bbb, aab, bba, abb, baa, aba, and bab. Possibly there is a connection with the use of knotted cords which, Chinese writers state, preceded written characters, like the method used in ancient Peru. More certain would seem the resemblance to the medieval method of divination known as geomancy, which we shall encounter later in our Latin
+authors. Magic and astrology might, of course, be traced all through Chinese history and literature. But, contenting ourselves with this single example of the antiquity of such arts in the civilization of the far east, let us turn to other ancient cultures which had a closer and more unmistakable influence upon the western world.  
+
+### Magic of ancient Egypt.
+  
+Of the ancient Egyptians Budge writes, 
+
+> "The belief in Magic in magic influenced their minds . . . from the earliest to the Egypt, latest period of their history ... in a manner which, at this stage in the history of the world, is very difficult to understand." [^7:1] 
+
+ [^7:1]: E.A.Wallis Budge, _Egyptian Magic_, 1899, p. vii. Some other works on magic in Egypt are: Groff, _Etudes sur la sorcellerie, memoires presentes a l'institut egyptien_, Cairo, 1897; G.Busson, _Extrait d'un memoire sur l'origine egyptienne de la Kabhale_, Compte Rendu du Congres Scientifique International des Catholiques, Sciences Religieuses, Paris, 1891, pp. 29-51. Adolf Erman, _Life in Ancient Egypt_, English translation, 1894, "describes vividly the magical conceptions and practices."  F.L.Griffith, _Stories of the High Priests of Memphis_, Oxford, 1900, contains some amusing demotic tales of magicians. Erman, _Zauberspr&uuml;che fur Mutter und Kind_, 1901. F.L.Griffith and H.Thompson, _The Demotic Magical Papyrus of London and Leiden_, 1904. See also J.H. Breasted, _Development of Religion and Thought in Ancient Egypt_, New York, 1912.  
+The following later but briefer treatments add little to Budge: Alfred Wiedemann, _Magie und Zauberei im Alten Aegypten_, Leipzig, 1905, and _Die Amulette der alten Aegypter_, Leipzig, 1910, both in _Der Alte Orient_; Alexandre Moret, _La magic dans l'Egypte ancienne_, Paris, 1906, in Musee Guimet, _Annates, Bibliotheque de vulgarisation_. XX. 241-81.  
+
+To the ordinary historical student the evidence for this assertion does not seem quite so overwhelming as the Egyptologists would have us think. It looks thinner when we begin to spread it out over a stretch of four thousand years, and it scarcely seems scientific to adduce details from medieval Arabic tales or from the late Greek fiction of the Pseudo-Callisthenes or from papyri of the Christian era concerning the magic of early Egypt. And it may be questioned whether two stories preserved in the Westcar papyrus, written many centuries afterwards, are alone "sufficient to prove that already in the Fourth Dynasty the working of magic was a recognized art among the Egyptians." [^8:1]  
+
+[^8:1]: Budge (1899), p. 19. At pp. 7-10 Budge dates the Westcar Papyrus about 1550 B.C. and Cheops, of whom the tale is told, in 3800 B.C. It is now customary to date the Fourth Dynasty, to which Cheops belonged, about 2900-2750 B.C. Breasted, _History of Egypt_, pp. 122-3, speaks of a folk tale preserved in the Papyrus Westcar some nine (?) centuries after the fall of the Fourth Dynasty.  
+ 
+ ### Magic and Egyptian religion.  
+ 
+At any rate we are told that the belief in magic not only was pre dynastic and prehistoric, but was "older in Egypt than the belief in God." [^8:2] 
+
+ [^8:2]: Budge, p. ix.  
+
+In the later religion of the Egyptians, along with more lofty and intellectual conceptions, magic was still a principal ingredient. [^8:3] 
+
+ [^8:3]: Budge, pp. xiii-xiv.  
+
+Their mythology was affected by it [^8:4] and they not only combated demons with magical formulae 
+
+ [^8:4]: For magical myths see E.Naville, _The Old Egyptian Faith,_ English translation by C.Campbell, 1909, p. 233 et seq.
+
+but believed that they could terrify and coerce the very gods by the same method, compelling them to appear, to violate the course of nature by miracles, or to admit the human soul to an equality with themselves. [^8:5]  
+
+ [^8:5]: Budge, pp. 3-4; Lenormant, Chaldean Magic, p. 100; Wiedemann (1905), pp. 12, 14, 31. 
+ 
+### Mortuary magic.
+
+Magic was as essential in the future life as here on earth among the living. Many, if not most, of the observances and objects connected with embalming and burial had a magic purpose or mode of operation; for instance, the 
+
+> "magic eyes placed over the opening in the side of the body through which the embalmer removed the intestines," [^8:6] or the manikins and models of houses buried with the dead.  
+
+  [^8:6]: So labelled in the Egyptian Museum at Cairo.   
+
+In the process of embalming the wrapping of each bandage was accompanied by the utterance of magic words. [^8:7] 
+
+ [^8:7]: Budge, p. 185.
+
+In "the oldest chapter of human thought extant" - the Pyramid Texts written in hieroglyphic at the tombs at Sakkara of Pharaohs of the fifth and sixth dynasties (c, 2625-2475 B.C.), magic is so manifest that some have averred 
+
+> "that the whole body of Pyramid Texts is simply a collection of magical charms." [^9:1] 
+
+ [^9:1]: Breasted (1912), pp. 84-5, 93-5. "Systematic study" of the Pyramid Texts has been possible "only since the appearance of Sethe's great edition,"— _Die Altaegyptischen Pyramidentexte_, Leipzig, l908-1910, 2 vols. Day," Breasted, History of Egypt, 
+
+The scenes and objects painted on the walls of the tombs, such as those of nobles in the fifth and sixth dynasties, were employed with magic intent and were meant to be realized in the future life; and with the twelfth dynasty the Egyptians began to paint on the insides of the coffins the objects that were formerly actually placed within. [^9:2] 
+
+ [^9:2]: Budge, pp. 104-7.  
+
+Under the Empire the famous _Book of the Dead_ is a collection of magic pictures, charms, and incantations for the use of the deceased in the hereafter, [^9:3] and while it is not of the early period, we hear that 
+
+ [^9:3]: Many of them are to enable the dead man to leave his tomb at will_; hence the Egyptian title, "_The Chapters of Going Forth by Day," Breasted, _History of Egypt_, p. 175; 
+
+> "a book with words of magic power" was buried with a pharaoh of the Old Kingdom. Budge has "no doubt that the object of every religious text ever written on tomb, stele, amulet, coffin, papyrus, etc., was to bring the gods under the power of the deceased, so that he might be able to compel them to do his will." [^9:4] 
+
+ [^9:4]: Budge pg. 28.  
+
+Breasted, on the other hand, thinks that the amount and complexity of this mortuary magic increased greatly in the later period under popular and priestly influence. [^9:5]  
+
+ [^9:5]: _History of Egypt_, p. 175; pp.249-50 for the further increase in mortuary magic after the Middle Kingdom, and pp. 369-70, 390, etc., for Ikhnaton's vain effort to suppress this mortuary magic. See also Breasted (1912), pp. 95-6, 281. 292-6, etc.
+ 
+### Magic in daily life.
+
+Breasted nevertheless believes that magic had played a great part in daily life throughout the whole course of Egyptian history. He writes, 
+
+> "It is difficult for the modern mind to understand how completely the belief in magic penetrated the whole substance of life, dominating popular custom and constantly appearing in the simplest acts of the daily household routine, as much a matter of course as sleep or the preparation of food. It constituted the very atmosphere in which the men of the early oriental world lived. Without the saving and salutary influence of such magical agencies constantly invoked, the life of an ancient household in the East was unthinkable." [^10:1]  
+
+ [^10:1]: Breasted (1912), pp. 290-1.  
+ 
+### Power of words, images, amulets.
+  
+Most of the main features and varieties of magic known to us at other times and places appear somewhere in the course of Egypt's long history. For one thing we find the ascription of magic power to words and names. The power of words, says Budge, was thought to be practically unlimited, and 
+
+> "the Egyptians invoked their aid in the smallest as well as in the greatest events of their life." [^10:2] 
+
+ [^10:2]: Budge, pp. xi, 170-1. 
+
+Words might be spoken, in which case they "must be uttered in a proper tone of voice by a duly qualified man," or they might be written, in which case the material upon which they were written might be of importance.  [^10:3] 
+
+ [^10:3]: Budge, p. 4.
+
+In speaking of mortuary magic we have already noted the employment of pictures, models, mannikins, and other images, figures, and objects. 
+
+Wax figures were also used in sorcery, [^10:4] 
+
+ [^10:4]: Budge, pp. 67-70, 73, 77.
+
+and amulets are found from the first, although their particular forms seem to have altered with different periods. [^10:5] Scarabs are of course the most familiar example. 
+
+ [^10:5]: Budge, pp. 27-28, 41, 60.
+ 
+### Magic in Egyptian medicine. 
+ 
+Egyptian medicine was full of magic and ritual and its therapeutics consisted mainly of 
+
+"collections of incantations and weird random mixtures of roots and refuse." [^10:6]  
+
+ [^10:6]: From the abstract of a paper on _The History of Egyptian Medicine_, read by T.Wingate Todd at the annual meeting of the American Historical Association, 1919. See also B. Holmes and P. G. Kitterman, Medicine in Ancient Egypt", the Hieratic Material, Cincinnati, 1914, 34 pp., reprinted from The Lancet-Clinic.
+
+Already we find the recipe and the occult virtue conceptions,the elaborate poly pharmacy and the accompanying hocus-pocus which we shall meet in Pliny and the middle ages.  
+The Egyptian doctors used herbs from other countries and preferred compound medicines containing a dozen ingredients to simple medicines." [^10:7] 
+
+ [^10:7]: See H.L.L&uuml;ring, _Die &uuml;ber die medicinischen Kenntnisse der alten Aegypter berichtenden Papyri verglichen mit den medic_. Schriften griech. u. romischer Autoren, Leipzi 1888.
+ Also Joret, I (1897) 310-11, and the article there cited by G. Ebers, _Ein Kyphirecept aus dem Papyrus Ebers_, in Zeitschrift f. aegypt Sprache,  XII (1874), p. 106 M.A.Ruffer, Palaeopathology of Egypt, 1921. 
+ 
+ Already we find such magic logic as that the hair of a black calf will keep one from growing gray. [^11:1] Already the parts of animals are a favorite ingredient in medical compounds, especially those connected with the organs of generation, on which account they were presumably looked upon as life-giving, or those which were recommended mainly by their nastiness and were probably thought to expel the demons of disease by their disagreeable properties.
+ 
+ [^11:1]: History of Egypt, p. 101.
+
+### Demons and disease.
+
+ In ancient Egypt, however, disease seems not to have been identified with possession by demons to the extent that disease it was in ancient Assyria and Babylonia. While Breasted asserts that "disease was due to hostile spirits and against these only magic could avail,"  [^11:2] Budge contents himself with the more cautious statement that there is 
+ 
+  [^11:2]: History of Egypt, p. 102.
+ 
+ > "good reason for thinking that some diseases were attributed to . . . evil spirits . , . entering . . . human bodies . . . but the texts do not afford much information" on this point. [^11:3]
+ 
+  [^11:3]: Budge, p.206.
+ 
+ Certainly the beliefs in evil spirits and in magic do not always have to go together, and magic might be employed against disease whether or not it was ascribed to a demon.
+
+### Magic and science.
+  
+In the case of medicine as in that of religion Breasted Magic takes the view that the amount of magic became greater in science- the Middle and New Kingdoms than in the Old Kingdom. This is true so far as the amount of space occupied by it in extant records is concerned. But it would be rash to assume that this marks a decline from a more rational and scientific attitude in the Old Kingdom. Yet Breasted rather gives this impression when he writes concerning the Old Kingdom that many of its recipes were useful and rational, that 
+
+> "medicine was already in the possession of much empirical wisdom, displaying close and accurate observation," and that what "precluded any progress toward real science was the belief in magic, which later began to dominate all the practice of the physician." [^12:1] 
+
+ [^12:1]: _History of Egypt_, p.101.
+
+Berthelot probably places the emphasis more correctly when he states that the later medical papyri 
+
+> "include traditional recipes, founded on an empiricism which is not always correct, mystic remedies, based upon the most bizarre analogies, and magic practices that date back to the remotest antiquity." [^12:2] 
+
+[^12:2]: _Archeologic et Hist aire des Sciences_, Paris, 1906, pp. 232-3.
+
+The recent efforts of Sethe and Wilcken, of Elliot Smith, M&uuml;ller, and Hooten to show that the ancient Egyptians possessed a considerable amount of medical knowledge and of surgical and dental skill, have been held by Todd to rest on slight and dubious evidence. Indeed, some of this evidence seems rather to suggest the ritualistic practices still employed by uncivilized African tribes. Certainly the evidence for any real scientific development in ancient Egypt has been very meager compared with the abundant indications of the prevalence of magic. [^12:3]
+
+ [^12:3]: Professor Breasted, however, feels that the contents of the new Edwin Smith Papyrus will raise our estimate of the worth of Egyptian medicine and surgery: letter to me of Jan. 20, 1922.  
+
+### Magic and industry
+
+Early Egypt was the home of many arts and industries, but not in so advanced a stage as has sometimes been suggested. Blown glass, for example, was unknown until late Greek and Roman times, and the supposed glass-blowers depicted on the early monuments are really smiths engaged in stirring their fires by blowing through reeds tipped with clay. [^12:4] 
+
+ [^12:4]: Petrie, "Egypt," in EB, p. 73.
+
+On the other hand, Professor Breasted informs me that there is no basis for Berthelot's statement that "every sort of chemical process as well as medical treatment was executed with an accompaniment of religious formulae, of prayers and incantations, regarded as essential to the success of operations as well as the cure of maladies." [^12:5]
+
+ [^12:5]: Berthelot (1885), p. 235. See E.B.Havell, _A Handbook of Indian Art_, 1920, p. II, for a combination of "exact science," ritual, and "magic power" in the work of the ancient Aryan craftsmen. 
+
+### Alchemy
+
+Alchemy perhaps originated on the one hand from the practices of Egyptian goldsmiths and workers in metals, who experimented with alloys, [^12:6] 
+
+ [^12:6]: Berthelot (1889), pp. vi-vii. 
+
+and on the other hand from the theories of the Greek philosophers concerning world- grounds, first matter, and the elements. [^13:1]   
+The words, alchemy and chemistry, are derived ultimately from the name of Egypt itself, Kamt or Qemt, meaning literally black, and applied to the Nile mud. The word was also applied to the black powder produced by quicksilver in Egyptian metallurgical processes. This powder. Budge says, was supposed to be the ground of all metals and to possess marvelous virtue, 
+
+ [^13:1]: Berthelot (1885), pp. 247-78; E.O.v. Lippmann (1919), pp. 118-43.
+
+> "and was mystically identified with the body which Osiris possessed in the underworld, and both were thought to be sources of life and power." [^13:2] 
+
+ [^13:2]: Budge, pp. 19-20.
+
+The analogy to the sacrament of the mass and the marvelous powers ascribed to the host by medieval preachers like Stephen of Bourbon scarcely needs remark. The later writers on alchemy in Greek appear to have borrowed signs and phraseology from the Egyptian priests, and are fond of speaking of their art as the monopoly of Egyptian kings and priests who carved its secrets on ancient steles and obelisks. In a treatise dating from the twelfth dynasty a scribe recommends to his son a work entitled Chemi, but there is no proof that it was concerned with chemistry or alchemy. [^13:3] The papyri containing treatises of alchemy are of the third century of the Christian era. 
+
+ [^13:3]: Berthelot (1885), p. 10. 
+
+### Divination and astrology.
+
+Evidences of divination in general and of astrology in particular do not appear as early in Egyptian records as examples of other varieties of magic. Yet the early date at which Egypt had a calendar suggests astronomical interest, and even those who deny that seven planets were distinguished in the Tigris-Euphrates Valley until the last millennium before Christ, admit that they were known in Egypt as far back as the Old Kingdom, although they deny the existence of a science of astronomy or an art of astrology then. [^13:4] 
+
+ [^13:4]: Lippmann (1919), pp. 181-2,  and the authorities there cited.
+
+A dream of Thotmes IV is preserved from 1450 B.C. or thereabouts, and the incantations employed by magicians in order to procure divining dreams for their customers attest the close connection of divination and magic. [^14:1]
+
+ [^14:1]: Budge, pp. 214-5.
+
+ Belief in lucky and unlucky days is shown in a papyrus calendar of about 1300 B.C., [^14:2] and we shall see later that "Egyptian Days" continued to be a favorite superstition of the middle ages. 
+ 
+  [^14:2]: Budge, pp. 225-8; Wiedemann (1905), p.9.
+ 
+ Tables of the risings of stars which may have an astrological significance have been found in graves, and there were gods for every month, every day of the month, and every hour of the day, [^14:3] 
+ 
+ [^14:3]: Wiedemann (1905), pp. 7,8,11. See also G. Daressy, Une ancienne liste des decans egyptiens, in Annales du service des antiquites de I'Egypte, I (1900), 79-90. 
+ 
+ Such numbers as seven and twelve are frequently emphasized in the tombs and elsewhere, and if the vaulted ceiling in the tenth chamber of the tomb of Sethos is really of his time, we seem to find the signs of the zodiac under the nineteenth dynasty. If Boll is correct in suggesting that the zodiac originated in the transfer of animal gods to the sky, [^14:4] no fitter place than Egypt could be found for the transfer. 
+ 
+  [^14:4]: F.Boll in Neue Jahrb. (1908), p.108. 
+ 
+ But there have not yet been discovered in Egypt lists of omens and appearances of constellations on days of disaster such as are found in the literature of the Tigris-Euphrates valley and in the Roman historians. Budge speaks of the seven Hathor goddesses who predict the death that the infant must some time die, and affirms that 
+ 
+ > "the Egyptians believed that a man's fate . . . was decided before he was born, and that he had no power to alter it." [^14:5] 
+ 
+  [^14:5]: Budge, pp. 222-3.
+ 
+ But I cannot agree that "we have good reason for assigning the birthplace of the horoscope to Egypt," [^14:6] since the evidence seems to be limited to the almost medieval Pseudo-Callisthenes and a Greek horoscope in the British Museum to which is attached the letter of an astrologer urging his pupil to study the ancient Egyptians carefully. The later Greek and Latin tradition that astrology was the invention of the divine men of Egypt and Babylon probably has a basis of fact, but more contemporary evidence is needed if Egypt is to contest the claim of Babylon to precedence in that art. 
+
+ [^14:6]: Budge, p. 229.
+ 
+ ### The sources for Assyrian and Babylonian magic.
+ 
+ In the written remains of Babylonian and Assyrian civilization [^15:1] the magic cuneiform tablets play a large part and give us the impression that fear of demons was a leading feature of Assyrian and Babylonian religion and that daily thought and life were constantly affected by magic.
+
+ [^15:1]: Some works on the subject of magic and religion, astronomy and astrology in Babylonia and Assyria will be found in Appendix I at the close of this chapter.
+
+The bulk of the religious and magical texts are preserved in the library of Assurbanipal, king of Assyria from 668 to 626 B.C. But he collected his library from the ancient temple cities, the scribes tell us that they are copying very ancient texts, and the Sumerian language is still largely employed. [^15:2] Eridu, one of the main centers of early Sumerian culture, 
+ 
+ [^15:2]: Thompson, Semitic Magic, pp. xxxvi-xxxvii; Fossey, pp. 17-20.
+ 
+ > "was an immemorial home of ancient wisdom, that is to say, magic." [^15:3] 
+ 
+  [^15:3]: Farnell, Greece and Babylon p.102. 
+ 
+ It is, however, difficult in the library of Assurbanipal to distinguish what is Babylonian from what is Assyrian or what is Sumerian from vvhat is .Semitic. Thus we are told that "with the exception of some very ancient texts, the Sumerian literature, consisting largely of religious material such as hymns and incantations, shows a number of Semitic loanwords and grammatical Semitisms, and in many cases, although not always, is quite patently a translation of Semitic ideas by Semitic priests into the formal religious Sumerian language." [^15:4] 
+
+ [^15:4]: Prince, "Sumer and Sumerians," in EB.
+ 
+### Was astrology Sumerian or Chaldean?
+
+The chief point in dispute, over which great controversy has taken place recently among German scholars, is as to the antiquity of both astronomical knowledge and astrological doctrine, including astral theology, among the dwellers in the Tigris-Euphrates region. Briefly, such writers as Winckler, Stiicken, and Jeremias held that the religion of the early Babylonians was largely based on astrology and that all their thought was permeated by it, and that they had probably by an early date made astronomical observations and acquired astronomical knowledge which was lost in the decline of their culture. Opposing this view, such scholars as Kugler, Bezold, Boll, and Schiaparelli have shown the lack of certain evidence for either any considerable astronomical knowledge or astrological theory in the Tigris-Euphrates Valley until the late appearance of the Chaldeans. It is even denied that the seven planets were distinguished in the early period, much less the signs of the zodiac or the planetary week, [^16:1] which last, together with any real advance in astronomy, is reserved for the Hellenistic period. 
+
+ [^16:1]: Webster, _Rest Days_, pp. 215-22, with further bibliography. See Orr (1913), 28-38, for an interesting discussion in English of the problem of the origin of solar and lunar zodiac. 
+
+### The number seven in early Babylonia
+
+Yet the prominence of the number seven in myth, religion, and magic is indisputable in the third millennium before our era. For instance, in the old Babylonian epic of creation there are seven winds, seven spirits of storms, seven evil diseases, seven divisions of the underworld closed by seven doors, seven zones of the upper world and sky, and so on. We are told, however, that the staged towers of Babylonia, which are said to have symbolized for millenniums the sacred Hebdomad, did not always have seven stages. [^16:2] 
+
+ [^16:2]: Lippmann (1919), pp. 168-9. 
+
+But the number seven was undoubtedly of frequent occurrence, of a sacred and mystic character, and virtue and perfection were ascribed to it. And no one has succeeded in giving any satisfactory explanation for this other than the rule of the seven planets over our world. This also applies to the sanctity of the number seven in the Old Testament [^16:3] 
+
+ [^16:3]: Although Schiaparelli, Astronomy in the Old Testament, 1905, pp. v, 5, 49-51. 135, denies that "the frequent use of the number seven in the Old Testament is in any way connected with the plan- ets." I have not seen F.von Andrian, _Die Sicbenzahl im Geistesleben der V&ouml;lker_, in Mitteil. d. anthrop. Gesellsch. in Wien, XXI (1901), 225-74; see also Hehn, _Siebenzahl und Sabbat bei den Babyloniern und im alien Testament_, 1907. J. G. Frazer (1918), I, 140, has an interesting passage on the prominence of the number seven "alike in the Jehovistic and in the Babylonian narrative" of the flood. 
+
+and the emphasis upon it in Hesiod, the Odyssey, and other early Greek sources. [^16:4] 
+
+ [^16:4]: Webster, Rest Days, pp. 211-2. Professor Webster, who kindly read this chapter in manuscript, stated in a letter to me of 2 July 1921 that he remained convinced that "the mystic properties ascribed to the number seven" can only in part be accounted for by the seven planets; "Our American Indians, for example, hold seven in great respect, yet have no knowledge of seven planets." But it may be noted that the poet- philosophers of ancient Peru composed verses on the subject of astrology, according to Garcilasso (cited by W.I.Thomas, Source Book for Social Origins, 1909, p.293). 
+
+### Incantation texts older than astrological.
+
+However that may be, the tendency prevailing at present is to regard astrology as a relatively late development introduced by the Semitic Chaldeans. Lenormant held that writing and magic were a Turanian or Sumerian (Accadian) contribution to Babylonian civilization, but that astronomy and astrology were Semitic innovations. Jastrow thinks that there was slight difference between the religion of Assyria and that of Babylonia, and that astral theology played a great part in both; but he grants that the older incantation texts are less influenced by this astral theology. L.W.King says, "Magic and divination bulk largely in the texts recovered, and in their case there is nothing to suggest an underlying astrological element." [^17:1] 
+
+ [^17:1]: L.W.King, _History of Babylon_, 1915, p. 299. 
+
+### Other divination than astrology.
+ 
+Whatever its date and origin, the magic literature may be classified in three main groups.  
+There are the astrological texts in which the stars are looked upon as gods and predictions are made especially for the king, [^17:2] 
+
+ [^17:2]: Fossey (1902), pp. 2-3.
+
+Then there are the tablets connected with other methods of foretelling the future, especially liver divination, although interpretation of dreams, augury, and divination by mixing oil and water were also practiced. [^17:3] 
+
+ [^17:3]: Farnell, _Greece and Babylon_, pp. 301-2. On liver divination see Frothingham, "Ancient Orientalism Unveiled," _American Journal of Archaeology, XXI (1917) 55, 187, 313, 420. 
+
+Fossey has further noted the close connection of operative magic with divination among the Assyrians, and calls divination "the indispensable auxiliary of magic." Many feats of magic imply a precedent knowledge of the future or begin by consultation of a diviner, or a favorable day and hour should be chosen for the magic rite. [^17:4]
+
+ [^17:4]: Fossey, p. 66.
+
+### Incantations against sorcery and demons.
+
+Third, there are the collections of incantations, not however those employed by the sorcerers, which were presumably illicit and hence not publicly preserved - in an incantation which we shall soon quote sorcery is called evil and is said to employ "impure things" - but rather defensive measures against them and exorcisms of evil demons. [^18:1] 
+
+ [^18:1]: Fossey, p.16. 
+
+But doubtless this counter magic reflects the original procedure to a great extent. Inasmuch as diseases generally were regarded as due to demons, who had to be exorcized by incantations, medicine was simply a branch of magic. Evil spirits were also held responsible for disturbances in nature, and frequent incantations were thought necessary to keep them from upsetting the natural order entirely. [^18:2] 
+
+ [^18:2]: Lenormant, pp. 35,147,158. 
+
+The various incantations are arranged in series of tablets : the Maklu or burning, _Ti'i_ or headaches, _Asakki_ marsuti or fever, _Labartu_ or hag-demon, and _Nis kati_ or raising of the hand. Besides these tablets there are numerous ceremonial and medical texts which contain magical practice. [^18:3]   
+Also hymns of praise and religious epics which at first sight one would not classify as mcantations seem to have had their magical uses, and Farnell suggests that 
+
+ [^18:3]: Thompson, _Semitic Magic_, pp.xxxviii-xxxix. 
+
+> "a magic origin for the practice of theological exegesis may be obscurely traced." [^18:4] 
+
+ [^18:4]: Greece and Babylon, p. 296.
+
+Good spirits are represented as employing magic and exorcisms against the demons. [^18:5] As a last resort when good spirits as well as human magic had failed to check the demons, the aid might be requisitioned of the god Ea, regarded as the repository of all science and who 
+
+ [^18:5]: Lenormant, pp. 146-7.
+
+> "alone was possessed of the magic secrets by means of which they could be conquered and repulsed." [^18:6] 
+
+ [^18:6]: Lenormant, p.158.
+
+### A specimen incantation.
+
+The incantations themselves show that other factors than the power of words entered into the magic, as may be illustrated by quoting one of them. 
+
+> "Arise ye great gods, hear my complaint. 
+
+> Grant me justice, take cognizance of my condition. 
+
+> I have made an image of my sorcerer and sorceress; 
+
+> I have humbled myself before you and bring to you my cause, 
+
+> Because of the evil they have done, 
+
+> Of the impure things which they have handled. 
+
+> May she die ! Let me live! 
+
+> May her charm, her witchcraft, her sorcery be broken. 
+
+> May the plucked sprig of the hinu tree purify me; 
+
+> May it release me; may the evil odor of my mouth be scattered to the winds. 
+
+> May the mashfakal herb which fills the earth cleanse me. 
+
+> Before you let me shine like the kankal herb, 
+
+> Let me be brilliant and pure as the lardn herb. 
+
+> The charm of the sorceress is evil; 
+
+> May her words return to her mouth, her tongue be cut off. 
+
+> Because of her witchcraft may the gods of night smite her, 
+
+> The three watches of the night break her evil charm. 
+
+> May her mouth be wax; her tongue, honey. 
+
+> May the word causing my misfortune that she has spoken dissolve like wax. 
+
+> May the charm she had wound up melt like honey. 
+
+> So that her magic knot be cut in twain, her work destroyed." [^] 
+
+Jastrow, _Religion of Babylon and Assyria_, pp. 283-4. 
+
+### Materials and devices of magic.
+
+It is evident from this incantation that use was made of magic images and knots, and of the properties of trees and herbs. Magic images were made of clay, wax, tallow, and other substances and were employed in various ways. Thus directions are given for making a tallow image of an enemy of the king and binding its face with a cord in order to deprive the person whom it represents of speech and willpower. [^19:2] 
+
+ [^19:2]: Zimmern, Beitr&auml;ge, p.173.
+
+Images were also constructed in order that disease demons might be magically transferred into them, [^19:3] 
+
+ [^19:3]: Zimmern, Beitr&auml;ge, p.161. 
+
+and sometimes the images are slain and buried. [^19:4] In the above incantation the magic knot was employed only by the sorceress, 
+
+ [^19:4]: Fossey, p.399. 
+
+but Fossey states that knots were also used as counter-charms against the demons. [^20:1] 
+
+ [^20:1]: Fossey, p.83.
+
+In the above incantation the names of herbs were left untranslated and it is not possible to say much concerning the pharmacy of the Assyrians and Babylonians because of our lack of a lexicon for their botanical and mineralogical terminology. [^20:2] 
+
+ [^20:2]: Fossey, pp.89-91. F.Küchler, _Beiträge sur Kenntnis der Assyr.- Babyl. Medizin; Texte mit Umschrift, Uebersetzung und Kommentar_, Leipzig, 1904, treats of twenty facsimile pages of cuneiform.
+
+However, from what scholars have been able to translate it appears that common rather than rare and outlandish substances were the ones most employed. Wine and oil, salt and dates, and onions and saliva are the sort of things used. There is also evidence of the employment of a magic wand. [^20:3]
+
+ [^20:3]: Lenormant, p.190.
+
+ Gems and animal substances were used as well as herbs; all sorts of philters were concocted; and varied rites and ceremonies were employed such as ablutions and fumigations. In the account of the ark of the Babylonian Noah we are told of the magic significance of its various parts; thus the mast and cabin ceiling were made of cedar, a wood that counteracts sorceries. [^20:4] 
+
+ [^20:4]: Lenormant, p.159.
+
+###  Greek culture not free from magic.
+
+One remarkable corollary of the so-called Italian Renaissance or Humanistic movement at the close of the middle ages with its too exclusive glorification of ancient Greece and Rome has been the strange notion that the ancient Hellenes were unusually free from magic compared with other periods and peoples. It would have been too much to claim any such immunity for the primitive Romans, whose entire religion was originally little else than magic and whose daily life, public and private, was hedged in by superstitious observances and fears. But they, too, were supposed to have risen later under the influence of Hellenic culture to a more enlightened stage, [^20:5] only to relapse again into magic in the declining empire and middle ages under oriental influence. Incidentally let me add that this notion that m the past orientals were more superstitious and fond of marvels than westerners in the same stage of civilization and that the orient must needs be the source of every superstitious cult and romantic tale is a glib assumption which I do not intend to make and which our subsequent investigation will scarcely substantiate. 
+
+ [^20:5]: So enlightened in fact that they spoke with some scorn of the “levity” and “lies” of the Greeks.
+
+But to return to the supposed immunity of the Hellenes from magic; so far has this hypothesis been carried that textual critics have repeatedly rejected passages as later interpolations or even called entire treatises spurious for no other reason than that they seemed to them too superstitious for a reputable classical author. Even so specialized and recent a student of ancient astrology, superstition, and religion as Cumont still clings to this dubious generalization and affirms that 
+
+> "the limpid Hellenic genius always turned away from the misty speculations of magic." [^21:1] 
+
+ [^21:1]: Oriental Religions in Roman Paganism, Chicago, 1911, p.189.
+
+But, as I suggested some sixteen years since, 
+
+> "the fantasticalness of medieval science was due to 'the clear light of Hellas' as well as to the gloom of the 'dark ages, [^21:2] 
+
+ [^21:2]: Thorndike (1905), p. 63.
+
+### Magic in myth, literature, and history.
+
+It is not difficult to call to mind evidence of the presence of magic in Hellenic religion, literature, and history. One has only to think of the many marvelous metamorphoses in  Greek mythology and of its countless other absurdities; of the witches, Circe and Medea, and the necromancy of Odysseus; or the priest-magician of Apollo in the _Iliad_ who could stop the plague, if he wished; of the lucky and unlucky days and other agricultural magic in Hesiod. [^21:3] 
+
+ [^21:3]: E.E.Sikes, _Folklore in the  Works and Days of Hesiod_. in _The Classical Review_. VII (1893).  390.
+
+Then there were the Spartans, whose so-called constitution and method of education, much admired by the Greek philosophers, were largely a retention of the life of the primitive tribe with its ritual and taboos. Or we remember Herodotus and his childish delight in ambiguous oracles or his tale of seceders from Gela brought back by Telines single-handed because he "was possessed of certain mysterious visible symbols of the powers beneath the earth which were deemed to be of wonder-working power." [^22:1] 
+
+ [^22:1]: Freeman, _History of Sicily_, I, 101-3, citing Herodotus VII, 153. 
+
+We recall Xenophon's punctilious records of sacrifices, divinations, sneezes, and dreams; Nicias, as afraid of eclipses as if he had been a Spartan; and the matter-of-fact mentions of charms, philters, and incantations in even such enlightened writers as Euripides and Plato. Among the titles of ancient Greek comedies magic is represented by the Goetes of Aristophanes, the Mandragorizomene of Alexis, the Pharmacomantis of Anaxandrides, the Circe of Anaxilas, and the _Thettale_ of Menander. [^22:2] 
+
+ [^22:2]: Butler and Owen, _Apulei Apologia_, note on 30, 30. 
+
+When we candidly estimate the significance of such evidence as this, we realize that the Hellenes were not much less inclined to magic than other peoples and periods, and that we need not wait for Theocritus and the Greek romances or for the magical papyri for proof of the existence of magic in ancient Greek civilization. [^22:3] 
+
+ [^22:3]: For details concerning operative or vulgar magic among the ancient Greeks see Hubert, _Magia_, in Daremberg-Saglio; Abt, _Die Apologie des Apuleius von Madaura und die antike Zauberei_, Giessen, 1908; and F.B.Jevons, "Graeco-Italian Magic," p. 93-, in _Anthropology and the Classics_, ed. R.Marett; and the article "Magic" in ERE. 
+
+### Simultaneous increase of learning and occult science.
+
+If astrology and some other occult sciences do not appear in a developed form until the Hellenistic period, it is not because the earlier period was more enlightened, but because it was less learned. And the magic which Osthanes is said to have introduced to the Greek world about the time of the Persian wars was not so much an innovation as an improvement upon their coarse and ancient rites of _Goetia_. [^22:4] 
+
+ [^22:4]: I think that this sentence is an approximate quotation from some ancient author, possibly Diogenes Laertius, but I have not been able to find it. 
+
+### Magic origin urged for Greek religion and drama.
+
+This magic element which existed from the start in Greek culture is now being traced out by students of anthropology and early religion as well as of the classics. Miss Jane E.Harrison, in _Themis, a study of the social origins of Greek religion_, suggests a magical explanation for many a myth and festival, and even for the Olympic games and Greek drama. [^22:5]  
+
+ [^22:5]: J.E.Harrison, _Themis_, Cambridge, 1912. The chapter headings briefly suggest the argument: “1, Hymn of the Kouretes; 2. Dithyramb, Δρώμενον, and Drama; 3. Kouretes, Thunder-Rites and Mana; 4. a. Magic and Tabu, b. Medicine-bird and Medicine-king; 5. Totemism, Sacrament, and Sacrifice; 6. Dithyramb, Spring Festival, and Hagia Triada Sarcophagus; 7. Origin of the Olympic Games (about a year-daimon); 8. Daimon and Hero, with Excursus on Ritual Forms preserved in Greek tragedy; 9. Daimon to Olympian; 10. The Olympians; 11, Themis.” 
+
+The last point has been developed in more detail by F.M.Comford's Origin of Attic Comedy, where much magic is detected masquerading in the comedies of Aristophanes. [^23:1] 
+
+[^23:1]: F.M.Cornford, Origin of Attic Comedy, 1914, see especially pp.10, 13, 55, 157, 202, 233.
+
+And Mr. A.B.Cook sees the magician in Zeus, who transforms himself to pursue his amours, and contends that "the real prototype of the heavenly weatherking was the earthly" magician or rain-maker, that the pre-Homeric "fixed epithets" of Zeus retained in the Homeric poems "are simply redolent of the magician," and that the cult of Zeus Lykaios was connected with the belief in werwolves. [^23:2] 
+
+ [^23:2]: A.B.Cook, _Zeus_, Cambridge, 1914, pp. 134-5, 12-14, 66-76.
+
+In still more recent publications Dr.Rendel Harris [^23:3] has connected Greek gods in their origins with the woodpecker and mistletoe, associated the cult of Apollo with the medicinal virtues of mice and snakes, and in other ways emphasized the importance in early Greek religion and culture of the magic properties of animals and herbs. 
+
+ [^23:3]: Rendel Harris, _Picus who ts also Zeus_, 1916; _The Ascent of Olympus_, 1917.
+
+These writers have probably pressed their point too far, but at least their work serves as a reaction against the old attitude of intellectual idolatry of the classics. Their views may be offset by those of Mr.Famell, who states that 
+
+> "while the knowledge of early Babylonian magic is beginning to be considerable, we cannot say that we know anything definite concerning the practices in this department of the Hellenic and adjacent peoples in the early period with which we are dealing." 
+
+And again, 
+
+> "But while Babylonian magic proclaims itself loudly in the great religious literature and highest temple ritual, Greek magic is barely mentioned in the older literature of Greece, plays no part at all in the hymns, and can only with difficulty be discovered as latent in the higher ritual.  
+Again, Babylonian magic is essentially demoniac; but we have no evidence that the pre-Homeric Greek was demon-ridden, or that demonology and exorcism were leading factors in his consciousness and practice." 
+
+Even Mr.Farnell admits, however, that 
+
+> "the earliest Hellene, as the later, was fully sensitive to the magico-divine efficacy of names." [^24:1] 
+
+ [^24:1]: Farnell,pp.292, 178-0.
+
+Now to believe in the power of names before one believes in the existence of demons is the best possible evidence of the antiquity of magic in a society, since it indicates that the speaker has confidence in the operative power of his own words without any spiritual or divine assistance. 
+
+### Magic in Greek philosophy 
+
+Moreover, in one sense the advocates of Greek magic have not gone far enough. They hold that magic lies back of the comedies of Aristophanes; what they might contend is that it was also contemporary with them. [^24:2] They hold that classical Greek religion had its origins in magic; what they might argue is that Greek philosophy never freed itself from magic. 
+
+ [^24:2]: See Ernest Riess, _Superstitions and Popular Beliefs in Greck Tragedy_, in Transactions of the American Philological Association, vol.27 (1896), pp.5-34; and _On Ancient superstition_, ibid, 26 (1895), 40-55. Also J.G.Frazer, _Some Popular Superstitions of the  Greece and Babylon,  Ancients_, in _Folk-lore_, 1800, and E.H.Klatsche, The Supernatural in the Tragedies of Euripides, in University of Nebraska Studies, 1919.
+
+> "That Empedocles believed himself capable of magical powers is," says Zeller, "proved by his own writings." He himself "declares that he possesses the power to heal old age and sickness, to raise and calm the winds, to summon rain and drought, and to recall the dead to life." [^24:3] 
+
+ [^24:3]: See Zeller, _Pre-Socratic Philosophy_, II (1881), 119-20, for further boasts by Empedocles himself and other marvels attributed to him by later authors.
+
+If the pre-Homeric fixed epithets of Zeus are redolent of magic, Plato's Timaeus is equally redolent of occult science and astrology; and if we see the weather making magician in the Olympian Zeus of Phidias, we cannot explain away the vagaries of the Timaeus as flights of poetic imagination or try to make out Aristotle a modern scientist by mutilating the text of the _History of Animals_. 
+
+###  Plato's attitude toward magic and astrology.
+
+
+Toward magic so-called Plato's attitude in his _Laws_ is cautious. He maintains that medical men and prophets and diviners can alone understand the nature of poisons (or spells) which work naturally, and of such things as incantations, magic knots, and wax images; and that since other men have no certain knowledge of such matters, they ought not to fear but to despise them. He admits nevertheless that there is no use in trying to convince most men of this and that it is necessary to legislate against sorcery. [^25:1] 
+
+ [^25:1]: Laws, XI, 933 (Steph.).
+
+Yet his own view of nature seems impregnated, if not actually with doctrines borrowed from the Magi of the east, at least with notions cognate to those of magic rather than of modern science and with doctrines favorable to astrology. He humanized material objects and confused material and spiritual characteristics. He also, like authors of whom we shall treat later, attempted to give a natural or rational explanation for magic, accounting, for example, for liver divination on the ground that the liver was a sort of mirror on which the thoughts of the mind fell and in which the images of the soul were reflected; but that they ceased after death. [^25:2] He spoke of harmonious love between the elements as the source of health and plenty for vegetation, beasts, and men, and their "wanton love" as the cause of pestilence and disease. To understand both varieties of love 
+
+ [^25:2]: Timacus, p. 71 (Steph.).
+
+> "in relation to the revolutions of the heavenly bodies and the seasons of the year is termed astronomy," [^25:3] 
+
+ [^25:3]: Symposium, p. 188 (Steph.); in Jowett's translation, I, 558.
+
+or, as we should say, astrology, whose fundamental law is the control of inferior creation by the motion of the stars. Plato spoke of the stars as 
+
+> "divine and eternal animals, ever abiding," [^25:4] 
+
+ [^25:4]: Timaeus, p. 40 (Steph.) Jowett, III, 459.
+
+an expression which we shall hear reiterated in the middle ages. "The lower gods," whom he largely identified with the heavenly bodies, form men, who, if they live good lives, return after death each to a happy existence in his proper star. [^25:5] 
+
+ [^25:5]: Ibid., pp. 41-42 (Steph.).
+
+Such a doctrine is not identical with that of nativities and the horoscope, but like it exalts the importance of the stars and suggests their control of human life. And when at the close of his _Republic_ Plato speaks of the harmony or music of the spheres of the seven planets and the eighth sphere of the fixed stars, and of 
+
+> "the spindle of Necessity on which all the revolutions turn," 
+
+he suggests that when once the human soul has entered upon this life, its destiny is henceforth subject to the courses of the stars. When in the Timaeiis he says, 
+
+> "There is no difficulty in seeing that the perfect number of time fulfills the perfect year when all the eight revolutions . . . are accomplished together and attain their completion at the same time," [^26:1] 
+
+ [^26:1]: _Timaeus_, p. 39 (Steph.); Jowett, III, 458. 
+
+he seems to suggest the astrological doctrine of the magnns annus, that history begins to repeat itself in every detail when the heavenly bodies have all regained their original positions.
+ 
+###  Aristotle on stars and spirits.
+
+For Aristotle, too, the stars were "beings of superhuman intelligence, incorporate deities. They appeared to him as the purer forms, those more like the deity, and from them a purposive rational influence upon the lower life of the earth seemed to proceed, a thought which became the root of medieval astrology." [^26:2] Moreover, 
+
+ [^26:2]: W.Windelband, _History of Philosophy_, English translation by J.H.Tufts, 1898, p.147.
+
+"his theory of the subordinate gods of the spheres of the planets . . . provided for a later demonology." [^26:3] 
+
+ [^26:3]: Windelband, _History of Ancient Philosophy_, English translation by H.E.Cushman, 1899. 
+
+### Folk-lore in the History of Animals.
+
+Aside from bits of physiognomy and of Pythagorean superstition, or mysticism, Aristotle's _History of Animals_ contains much on the influence of the stars on animal life, the medicines employed by animals, and their friendships and enmities, and other folklore and pseudo-science. [^26:4]  
+
+ [^26:4]: For a number of examples, which might be considerably multiplied if books VII-X are not rejected as spurious, see Thorndike (1905), pp. 62-3. T.E.Lones, _Aristotle's Researches in Natural Science_, London, 1912, 274 pp., discusses "Aristotle's method of investigating the natural sciences," and a large number of Aristotle's specific statements showing whether they were correct or incorrect. The best translation of the _History of Animals_ is by D'Arcy W.Thompson, Oxford 1910, with valuable notes.
+
+But the oldest extant manuscript of that work dates only from the twelfth or thirteenth century and lacks the tenth book. Editors of the text have also rejected books seven and nine, the latter part of book eight, and have questioned various other passages. However, these expurgations save the face of Aristotle rather than of Hellenic science or philosophy generally, as the spurious seventh book is held to be drawn largely from Hippocratic writings and the ninth from Theophrastus. [^27:1] 
+
+ [^27:1]: See the edition of the _History of Animals_ by Dittmeyer (1907), p. vii, where various monographs will be found mentioned.
+
+###  Differing modes of transmission of ancient oriental and Greek literature.
+
+There is another point to be kept in mind in any comparison of Egypt and Babylon or Assyria with Greece in the matter of magic. Our evidence proving the great part played by magic in the ancient oriental civilizations comes directly from them to us without intervening tampering or alteration except in the case of the early periods. But classical literature and philosophy come to us as edited by Alexandrian librarians [^27:2] and philologers, as censored and selected by Christian and Byzantine readers, as copied or translated by medieval monks and Italian humanists. And the question is not merely, what have they added? but also, what have they altered? what have they rejected? Instead of questioning superstitious passages in extant works on the ground that they are later interpolations, it would very likely be more to the point to insert a goodly number on the ground that they have been omitted as pagan or idolatrous superstitions. 
+
+ [^27:2]: Perhaps pure literature was over-emphasized in the Museum at Alexandria, and magic texts in the library of Assurbanipal.
+
+### More magical character of directly transmitted Greek remains.
+
+Suppose we turn to those writings which have been unearthed just as they were in ancient Greek; to the papyri, the lead tablets, the so-called Gnostic gems. How does the proportion of magic in these compare with that in the indirectly transmitted literary remains? If it is objected that the magic papyri [^27:3] are mainly of late date and that they are found in Egypt, it may be replied that they are as old as or older than any other manuscripts we have of classical literature and that its chief store-house, too, was in Egypt at Alexandria.
+
+ [^27:3]: A list of magic papyri and of publications up to about 1900 dealing with the same is given in Hubert’s article on Magia in Daremberg-Saglio, pp. 1503-4. See also Sir Herbert Thompson and F.L.Grifith, _The Magical Demotic Papyrus of London and Leiden_, 3 vols., 1909-1921; _Catalogue of Demotic Papyri in the John Rylands Library_, Manchester, with facsimiles and complete translations, 1909, 3 vols. Grenfell (1921), p. 159, says, “A corpus of the magical papyri was projected in Germany by K.Preitsendanz before the war, and a Czech scholar, Dr.Hopfner, is engaged upon the difficult task of elucidating them.”
+
+ As for the magical curses written on lead tablets, [^28:1] they date from the fourth century before our era to the sixth after, and fourteen come from Athens and sixteen from Cnidus as against one from Alexandria and eleven from Carthage. And although some display extreme illiteracy, others are written by persons of rank and education. 
+ 
+  [^28:1]: W.C.Battle, _Magical Curses Written on Lead Tablets, in Transactions of the American Philological Association_, XXVI (1895), pp. liv-lviii, a synopsis of a Harvard dissertation. Audollent, Defixionum tabulae,  etc., Paris, 1904, 568 pp. R. W&uuml;nsch, Defixionum Tabellae Atticae, 1897, and Sethianische Verfluchungstafeln aus Rom (390-420 A.D.), Leipzig, 1808.
+ 
+ And what a wealth of astrological manuscripts in the Greek language has been unearthed in European libraries by the editors of the Catalogus Codicum Graecoriini Astrologorum! [^28:2] 
+ 
+  [^28:2]: Since 1898 various volumes and parts have appeared under the editorship of Cumont, Kroll, Boll, Olivieri, Bassi, and others. Much of the material noted is of course post-classical and Byzantine, and of Christian authorship or Arabic origin.
+ 
+ And occasionally archaeologists report the discovery of magical apparatus [^28:3] or of representations of magic in works of art. 
+ 
+  [^28:3]: For example, see R. W&uuml;nsch, _Antikes Zaubergerät aus Pergamon_, in Jahrb. d. kaiserl. deutsch, archaeol. Insttt., suppl. VI (1905), p. 19.
+
+###  Progress of science among the Greeks.
+
+In thus contending that Hellenic culture was not free  from magic and that even the philosophy and science of the ancient Greeks show traces of superstition, I would not, however, obscure the fact that of extant literary remains the Greek are the first to present us with any very considerable body either of systematic rational speculation or of classified collection of observed facts concerning nature. Despite the rapid progress in recent years in knowledge of prehistoric man and Egyptian and Babylonian civilization, the Hellenic title to the primacy in philosophy and science has hardly been called in question, and no earlier works have been discovered that can compare in medicine with those ascribed to Hippocrates, in biology with those of Aristotle and Theophrastus, or in mathematics and physics with those of Euclid and Archimedes. Undoubtedly such men and writings had their predecessors, probably they owed something to ancient oriental civilization, but, taking them as we have them, they seem to be marked by great original power. Whatever may lie concealed beneath the surface of the past, or whatever signs or hints of scientific investigation and knowledge we may think we can detect and read between the lines, as it were, in other phases of older civilizations, in these works solid beginnings of experimental and mathematical science stand unmistakably forth. 
+
+### Archimedes and Aristotle.
+
+> "An extraordinarily large proportion of the subject matter of the writings of Archimedes," says Heath, "represents entirely new discoveries of his own. Though his range of subjects was almost encyclopaedic, embracing geometry (plane and solid), arithmetic, mechanics, hydrostatics and astronomy, he was no compiler, no writer of text-books. . . . His objective is always some new thing, some definite addition to the sum of knowledge, and his complete originality cannot fail to strike anyone who reads his works intelligently, without any corroborative evidence such as is found in the introductory letters prefixed to most of them. ... In some of his subjects Archimedes had no forerunners, e. g., in hydrostatics, where he invented the whole science, and (so far as mathematical demonstration was concerned) in his mechanical investigations." [^29:1] 
+
+ [^29:1]: T.L.Heath, The Works of Archimedes, Cambridge, 1897, pp. xxxIx-xl.
+
+Aristotle's History of Animals is still highly esteemed by historians of biology [^29:2] 
+
+ [^29:2]: On “Aristotle as a Biologist” see the Herbert Spencer lecture by D’Arcy W.Thompson, Oxford, 1913, 31 pp. Also T.E.Lones, _Aristotle's Researches in Natural Science_, London, 1912. Professor W.A.Locy, author of _Biology and Its Makers_, writes me (May 9, 1921) that in his opinion G.H.Lewes, _Aristotle; a Chapter from the History of ‘Science_, London, 1864, "dwells too much on Aristotle's errors and imperfections, and in several instances omits the quotation of important positive observations, occurring in the chapters from which he makes his quotations of errors." Professor Locy also disagrees with Lewes' estimate of _De generatione_ as Aristotle's masterpiece and thinks that "naturalists will get more satisfaction out of reading the Historia animalium" than either the _De generatione_ or _De partihus_. Thompson (1913), p. 14, calls Aristotle "a very great naturalist." 
+
+and often evidences "a large amount of personal observations," [^30:1] 
+
+ [^30:1]: This quotation is from Professor Locy's letter of May 9, 1921. 
+
+"great accuracy," and "minute inquiry," as in his account of the vascular system [^30:2] 
+
+ [^30:2]: The quotations are from a note by Professor D'Arcy W.Thompson on his translation of the _Historia animalium_, III, 3. The note gives so good a glimpse of both the merits and defects of the Aristotelian text as it has reached us that I will quote it here more fully:  
+"The Aristotelian account of the vascular system is remarkable for its wealth of details, for its great accuracy in many particulars, and for its extreme obscurity in others. It is so far true to nature that it is clear evidence of minute inquiry, but here and there so remote from fact as to suggest that things once seen have been half forgotten, or that superstition was in conflict with the result of observation. The account of the vessels connecting the left arm with the liver and the right with the spleen ... is a surviving example of mystical or superstitious belief. It is possible that the ascription of three chambers to the heart was also influenced by tradition or mysticism, much in the same way as Plato's notion of the three corporeal faculties." 
+
+or observations on the embryology of the chick. [^30:3] 
+
+ [^30:3]: Professor Locy called my attention to it in a letter of May 17, 1921. See also Thompson (1913), p.14.
+
+"Most wonderful of all, perhaps, are those portions of his book in which he speaks of fishes, their diversities, their structure, their wanderings, and their food. Here we may read of fishes that have only recently been rediscovered, of structures only lately reinvestigated, of habits only of late made known." [^30:4] 
+
+ [^30:4]: Thompson (1913), p. 19. 
+
+But of the achievements of Hellenic philosophy and Hellenistic science the reader may be safely assumed already to have some notion. 
+
+###  Exaggerated view of the scientific achievement of the Hellenistic age
+
+But in closing this brief preliminary sketch of the period before our investigation proper begins, I would take exception to the tendency, prevalent especially among German scholars, to center in and confine to Aristotle and the Hellenistic age almost all progress in natural science made before modern times.  
+The contributions of the Egyptians and Babylonians are reduced to a minimum on the one hand, while on the other the scientific writings of the Roman Empire, which are extant in far greater abundance than those of the Hellenistic period, are regarded as inferior imitations of great authors whose works are not extant; Posidonius, for example, to whom it has been the fashion of the writers of German dissertations to attribute this, that, and every theory in later writers.  
+But it is contrary to the law of gradual and painful acquisition of scientific knowledge and improvement of scientific method that one period of a few centuries should thus have discovered everything. We have disputed the similar notion of a golden age of early Egyptian science from which the Middle and New Kingdoms declined, and have not held that either the Egyptians or Babylonians had made great advances in science before the Greeks. But that is not saying that they had not made some advance. As Professor Karpinski has recently written: 
+
+> "To deny to Babylon, to Egypt, and to India, their part in the development of science and scientific thinking is to defy the testimony of the ancients, supported by the discoveries of the modern authorities. The efforts which have been made to ascribe to Greek influence the science of Egypt, of later Babylon, of India, and that of the Arabs do not add to the glory that was Greece. How could the Babylonians of the golden age of Greece or the Hindus, a little later, have taken over the developments of Greek astronomy? This would only have been possible if they had arrived at a state of development in astronomy which would have enabled them properly to estimate and appreciate the work which was to be absorbed. . . . The admission that the Greek astronomy immediately affected the astronomical theories of India carries with it the implication that this science had attained somewhat the same level in India as in Greece. Without serious questioning we may assume that a fundamental part of the science of Babylon and Egypt and India, developed during the times which we think of as Greek, was indigenous science." [^34:1] 
+
+ [^34:1]: L.C.Karpinski, "Hindu Science," in The American Mathematical Monthly, XXVI (1919), 298-300. 
+
+Nor am I ready to admit that the great scientists of the early Roman Empire merely copied from, or were distinctly inferior to, their Hellenistic predecessors. Aristarchus may have held the heliocentric theory [^35:1] but Ptolemy must have been an abler scientist and have supported his incorrect hypothesis with more accurate measurements and calculations or the ancients would have adopted the sounder view. 
+
+ [^35:1]: Sir Thomas Heath, Anstarchus of Samos, the Ancient Copernicus: a history of Greek astronomy to Aristarchus  together with Artstarchus’s treatise, “On the Sizes and Distances of the Sun and Moon,’ a new Greek text with translation and notes, Oxford, 1913, admits that “our treatise does not contain any suggestion of any but the geocentric view of the universe, whereas Archimedes tells us that Aristarchus wrote a book of hypotheses, one of which was that the sun and the fixed stars remain unmoved and that the earth revolves round the sun in the circumference of a circle.’ Such evidence seems scarcely to warrant applying the title of “The Ancient Copernicus” to Aristarchus. And Heath thinks that Schiaparelli (l precursori di Copernico nell’ antichita, and other papers) went too far in ascribing the Copernican hypothesis to Heraclides of Pontus. On Aristotle’s answer to Pythagoreans who denied the geocentric theory see Orr (1913), pp.100-2.
+
+And if Herophilus had really demonstrated the circulation of the blood, so keen an intelligence as Galen's would not have cast his discovery aside. And if Ptolemy copied Hipparchus, are we to imagine that Hipparchus copied from no one? But of the incessant tradition from authority to authority and yet of the gradual accumulation of new matter from personal observation and experience our ensuing survey of thirteen centuries of thought and writing will afford more detailed illustration. 
+
+# Appendix I.
+
+## Some works on Magic, Religion, and Astronomy in Babylonia and Assyria.
+
+
+The following books deal expressly with the magic of Assyria and Babylonia : 
+
+*Fossey,C., La magie assyrienne; etude suivie de textes magiques, Paris, 1902. 
+
+*King,L.W., Babylonian Magic and Sorcery, being "The Prayers 
+of the Lifting of the Hand," London, 1896. 
+
+*Laurent,A., La magie et la divination chez les Chaldeo-Assyr- 
+iens, Paris, 1894. 
+
+*Lenormant,F., Chaldean Magic and Sorcery, English translation, London, 1878. 
+
+*Schwab,M., in Proc. Bibl. Archaeology (1890), pp. 292-342, on magic bowls from Assyria and Babylonia. 
+
+*Tallquist,K.L., Die Assyrische Beschworungsserie Maqlu, Leipzig, 1895. 
+
+*Thompson,R.C., The Reports of the Magicians and Astrologers of Nineveh and Babylon in the British Museum, London, 1900.  
+Texts and translations all but three are astrological.  
+The Devils and Evil Spirits of Babylonia, London, 1904. Semitic Magic, London, 1908. 
+
+*Weber,O., Damonenbeschworung bei den Babyloniern und Assy rern, 1906. Eine Skizze (37 pp.), in Der Alte Orient. 
+
+*Zimmern. Die Beschwdrungstafeln Surpu. 
+
+Much concerning magic will also be found in works on Babylonian and Assyrian religion. 
+
+*Craig,J.A., Assyrian and Babylonian Religious Texts, Leipzig, 1895-7. 
+
+*Curtiss,S.L., Primitive Semitic Religion Today, 1902. 
+
+*Dhorme,P., Choix des textes religieux Assyriens Babyloniens, 1907. 
+
+*La religion Assyro-Babylonienne, Paris, 1910. 
+
+*Gray, C. D. The Samas Religious Texts. 
+
+*Jastrow, Morris, The Religion of Babylonia and Assyria, Boston, 1898. Revised and enlarged as Religion Babyloniens und Assyriens, Giessen, 1904. 
+
+*Jeremias. Babylon. Assyr. Vorstellungen von dem Leben nach Tode, Leipzig, 1887. 
+H&ouml;lle und Paradies, and other works. 
+
+*Knudtzon,J.A., Assyrische Gebete an den Sonnengott, Leipzig, 1893. 
+
+*Lagrange, M. J. £tudes sur les religions semitiques, Paris, 1905. 
+
+*Langdon,S., Sumerian and Babylonian Psalms, Paris, 1909. 
+
+*Reisner,G.A., Sumerisch-Babylonische Hymnen, Berlin, 1896. 
+
+*Robertson Smith,W., Lectures on the Religion of the Semites, London, 1907.
+ 
+*Roscher, Lexicon, for various articles.
+ 
+*Zimmern., Babylonische Hymnen und Gebete in Auswahl, 32 pp., 1905 (Der Alte Orient).  
+Beitrage zur Kenntniss der Babyl. Religion, Leipzig, 1901. 
+
+On the astronomy and astrology of the Babylonians one may consult: 
+
+*Bezold,C., Astronomic, Himmelschau und Astrallehre bei den Babyloniern. (Sitzb. Akad. Heidelberg, 191 1, Abh. 2). 
+
+*Boissier.A., Documents assyriens relatifs aux presages, Paris, 1894- 1897.  
+Choix de textes relatifs a la divination assyro-babylonienne, Geneva, 1905-1906. 
+
+*Craig,J.A., Astrological-Astronomical Texts, Leipzig, 1892. 
+
+*Cumont,F., Babylon und die griechische Astrologie. (Neue Jahrb. f&uuml;r das klass. Altertum, XXVH, 1911). 
+
+*Epping,J., and Strassmeier,J.N., Astronomisches aus Babylon, 1889. 
+
+*Ginzel,F.K., Die astronomischen Kentnisse der Babylonier, 1901. 
+
+*Hehn,J., Siebenzahl und Sabbat bei den Babyloniern und im Alten Testament, 1907. 
+
+*Jensen,P., Kosmologie der Babylonier, 1890, 
+
+*Jeremias. Das Alter der babylonischen Astronomic, 1908.  
+Handbuch der altorientalischen Geisteskultur, 1913. 
+
+*Kugler,F.X., Die Babylonische Mondrechnung, 1900.  
+Sternkunde und Sterndienst in Babel, Freiburg, 1907-1913. To be completed in four vols. 
+Im Bannkreis Babels, 1910. 
+
+*Oppert,J., Die astronomischen Angaben der assyrischen Keilinschriften, in Sitzb. d. Wien. Akad. Math.-Nat. Classe, 1885, pp. 894-906.  
+Un texte Babylonien astronomique et sa traduction grecque par CI. Ptolemee, in Zeitsch. f. Assyriol. VI (1891), pp. 103-23. 
+
+*Sayce,A.H., The astronomy and astrology of the Babylonians, with translations of the tablets relating to the subject, in Transactions of the Society of Biblical Archaeology, III (1874), 145- 339; the first and until recently the best guide to the subject. 
+
+*Schiaparelli, G. V. I Primordi ed i Progressi dell' Astronomia presso i Babilonesi, Bologna, 1908.  
+Astronomy in the Old Testament, 1905. 
+
+*St&uuml;cken, Astralmythen, 1896-1907. 
+
+*Virolleaud,Ch., L'Astrologie chaldeenne, Paris, 1905- ; to be completed in eight parts, texts and translations. 
+
+*Winckler, Himmels- und Weltenbild der Babylonier als Grundlage der Weltanschauung und Mythologie aller Volker, in Der alte Orient, III, 2-3. 
+
+> Written with [StackEdit](https://stackedit.io/).
