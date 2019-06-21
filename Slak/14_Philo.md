@@ -1,5 +1,5 @@
 
-# CHAPTER XIV 
+# Chapter XIV 
 
 ## PHILO JUDAEUS 
 
