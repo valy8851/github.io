@@ -9,13 +9,13 @@
   * [By author and date of publication or brief title.](#by-author-and-date-of-publication-or-brief-title)
 
 
-- [Chapter I](#chapter-i)
+- [Chapter I](./01.md#chapter-i)
   * [INTRODUCTION](#introduction)
     + [Aim of this book.](#aim-of-this-book)
     + [Period covered.](#period-covered)
     + [How to study the history of thought.](#how-to-study-the-history-of-thought)
     + [Definition of magic.](#definition-of-magic)
-    + [Magic of primitive man: does civilization originate in magic ?](#magic-of-primitive-man--does-civilization-originate-in-magic--)
+    + [Magic of primitive man: does civilization originate in magic ?](./01.md#magic-of-primitive-man--does-civilization-originate-in-magic--)
   * [Divination in early China.](#divination-in-early-china)
     + [Magic of ancient Egypt.](#magic-of-ancient-egypt)
     + [Magic and Egyptian religion.](#magic-and-egyptian-religion)
