@@ -6,7 +6,6 @@
 - [Abbreviations.]
 - [Designation of manuscripts.]
 - [List of works frequently cited.]
-  * [By author and date of publication or brief title]
 
 - [Chapter I]
   * [INTRODUCTION]
@@ -15,7 +14,7 @@
     + [How to study the history of thought.]
     + [Definition of magic.]
     + [Magic of primitive man: does civilization originate in magic ?]
-  * [Divination in early China.]:(./01.md#divination-in-early-china)
+  * [Divination in early China.]
     + [Magic of ancient Egypt.]:(./01.md#magic-of-ancient-egypt)
     + [Magic and Egyptian religion.]:(./01.md#magic-and-egyptian-religion)
     + [Mortuary magic.]:(./01.md#mortuary-magic)
@@ -1216,8 +1215,6 @@ Slak/20_varia.md
 
 [List of works frequently cited.]: ./00.md#list-of-works-frequently-cited
 
-[By author and date of publication or brief title.]: ./00.md#by-author-and-date-of-publication-or-brief-title
-
 [Chapter I]: ./01.md#chapter-i
 
 [INTRODUCTION]: ./01.md#introduction
@@ -1230,9 +1227,9 @@ Slak/20_varia.md
  
  [Definition of magic.]: ./01.md#definition-of-magic
  
- [Magic of primitive man: does civilization originate in magic ?]:(./01.md#magic-of-primitive-man--does-civilization-originate-in-magic--)
+ [Magic of primitive man: does civilization originate in magic ?]: ./01.md#magic-of-primitive-man--does-civilization-originate-in-magic--
 
-[Divination in early China.]:(./01.md#divination-in-early-china)
+[Divination in early China.]: ./01.md#divination-in-early-china
  
  [Magic of ancient Egypt.]:(./01.md#magic-of-ancient-egypt)
  
