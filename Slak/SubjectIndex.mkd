@@ -7,7 +7,7 @@
 - [Designation of manuscripts.]
 - [List of works frequently cited.]
   * [By author and date of publication or brief title]
-Slak/01.md
+
 - [Chapter I]
   * [INTRODUCTION]
     + [Aim of this book.]
@@ -1218,7 +1218,7 @@ Slak/20_varia.md
 
 [By author and date of publication or brief title.]: ./00.md#by-author-and-date-of-publication-or-brief-title
 
-[Chapter I]:(./01.md#chapter-i)
+[Chapter I]: ./01.md#chapter-i
 
 [INTRODUCTION]: ./01.md#introduction
  
@@ -1228,7 +1228,7 @@ Slak/20_varia.md
  
  [How to study the history of thought.]: ./01.md#how-to-study-the-history-of-thought
  
- [Definition of magic.]:(./01.md#definition-of-magic)
+ [Definition of magic.]: ./01.md#definition-of-magic
  
  [Magic of primitive man: does civilization originate in magic ?]:(./01.md#magic-of-primitive-man--does-civilization-originate-in-magic--)
 
