@@ -140,31 +140,31 @@
     + [Astrological medicine.]
     + [Conclusion: magic unity of Pliny's superstitions.]
 
-- [Chapter III]:(#chapter-iii)
-  * [Seneca and Ptolemy: natural divination and astrology]:(#seneca-and-ptolemy--natural-divination-and-astrology)
-  * [Seneca.]:(#seneca)
-    + [Natural Questions]:(#natural-questions)
-    + [Nature study as an ethical substitute for existing religion]:(#nature-study-as-an-ethical-substitute-for-existing-religion)
-    + [Limited field of Seneca's work]:(#limited-field-of-seneca-s-work)
-    + [Marvels accepted, questioned, or denied]:(#marvels-accepted--questioned--or-denied)
-    + [Belief in natural divination and astrology.]:(#belief-in-natural-divination-and-astrology)
-    + [Divination from thunder.]:(#divination-from-thunder)
-  * [Ptolemy.]:(#ptolemy)
-    + [His two chief works.]:(#his-two-chief-works)
-    + [His mathematical method.]:(#his-mathematical-method)
-    + [Attitude towards authority and observation.]:(#attitude-towards-authority-and-observation)
-    + [The Optics.]:(#the-optics)
-    + [Medieval translations of _Almagest_.]:(#medieval-translations-of--almagest-)
-    + [_Tetrabiblos_ or _Quadripartitum_ .]:(#-tetrabiblos--or--quadripartitum--)
-    + [A genuine reflection of Ptolemy's approval of astrology.]:(#a-genuine-reflection-of-ptolemy-s-approval-of-astrology)
-    + [Validity of Astrology]:(#validity-of-astrology)
-    + [Influence of the stars not inevitable.]:(#influence-of-the-stars-not-inevitable)
-    + [Astrology as natural science.]:(#astrology-as-natural-science)
-    + [Properties of the planets.]:(#properties-of-the-planets)
-    + [Remaining contents of Book One]:(#remaining-contents-of-book-one)
-    + [Book Two: regions]:(#book-two--regions)
-    + [Nativities.]:(#nativities)
-    + [Future influence of the _Tetrabiblos_.]:(#future-influence-of-the--tetrabiblos-)
+- [Chapter III]
+  * [Seneca and Ptolemy: natural divination and astrology]
+  * [Seneca.]
+    + [Natural Questions]
+    + [Nature study as an ethical substitute for existing religion]
+    + [Limited field of Seneca's work]
+    + [Marvels accepted, questioned, or denied]
+    + [Belief in natural divination and astrology.]
+    + [Divination from thunder.]
+  * [Ptolemy.]
+    + [His two chief works.]
+    + [His mathematical method.]
+    + [Attitude towards authority and observation.]
+    + [The Optics.]
+    + [Medieval translations of _Almagest_.]
+    + [_Tetrabiblos_ or _Quadripartitum_ .]
+    + [A genuine reflection of Ptolemy's approval of astrology.]
+    + [Validity of Astrology]
+    + [Influence of the stars not inevitable.]
+    + [Astrology as natural science.]
+    + [Properties of the planets.]
+    + [Remaining contents of Book One]
+    + [Book Two: regions]
+    + [Nativities.]
+    + [Future influence of the _Tetrabiblos_.]
 
 - [Chapter IV - Galen]:(#chapter-iv---galen)
   * [I. The Man and His Times.]:(#i-the-man-and-his-times)
@@ -1478,56 +1478,56 @@ Slak/20_varia.md
  [Conclusion: magic unity of Pliny's superstitions.]: ./02.md#conclusion--magic-unity-of-pliny-s-superstitions 
 
 
+[Chapter III]: ./03.md#chapter-iii 
 
-[Chapter III]:(./03.md#chapter-iii)
+[Seneca and Ptolemy: natural divination and astrology]: ./03.md#seneca-and-ptolemy--natural-divination-and-astrology 
 
-[Seneca and Ptolemy: natural divination and astrology]:(#seneca-and-ptolemy--natural-divination-and-astrology)
+[Seneca.]: ./03.md#seneca 
 
-[Seneca.]:(#seneca)
+ [Natural Questions]: ./03.md#natural-questions 
 
- [Natural Questions]:(#natural-questions)
+ [Nature study as an ethical substitute for existing religion]: ./03.md#nature-study-as-an-ethical-substitute-for-existing-religion 
 
- [Nature study as an ethical substitute for existing religion]:(#nature-study-as-an-ethical-substitute-for-existing-religion)
+ [Limited field of Seneca's work]: ./03.md#limited-field-of-seneca-s-work 
 
- [Limited field of Seneca's work]:(#limited-field-of-seneca-s-work)
+ [Marvels accepted, questioned, or denied]: ./03.md#marvels-accepted--questioned--or-denied 
 
- [Marvels accepted, questioned, or denied]:(#marvels-accepted--questioned--or-denied)
+ [Belief in natural divination and astrology.]: ./03.md#belief-in-natural-divination-and-astrology 
 
- [Belief in natural divination and astrology.]:(#belief-in-natural-divination-and-astrology)
+ [Divination from thunder.]: ./03.md#divination-from-thunder 
 
- [Divination from thunder.]:(#divination-from-thunder)
+[Ptolemy.]: ./03.md#ptolemy 
 
-[Ptolemy.]:(#ptolemy)
+ [His two chief works.]: ./03.md#his-two-chief-works 
 
- [His two chief works.]:(#his-two-chief-works)
+ [His mathematical method.]: ./03.md#his-mathematical-method 
 
- [His mathematical method.]:(#his-mathematical-method)
+ [Attitude towards authority and observation.]: ./03.md#attitude-towards-authority-and-observation 
 
- [Attitude towards authority and observation.]:(#attitude-towards-authority-and-observation)
+ [The Optics.]: ./03.md#the-optics 
 
- [The Optics.]:(#the-optics)
+ [Medieval translations of _Almagest_.]: ./03.md#medieval-translations-of--almagest- 
 
- [Medieval translations of _Almagest_.]:(#medieval-translations-of--almagest-)
+ [_Tetrabiblos_ or _Quadripartitum_ .]: ./03.md#-tetrabiblos--or--quadripartitum-- 
 
- [_Tetrabiblos_ or _Quadripartitum_ .]:(#-tetrabiblos--or--quadripartitum--)
+ [A genuine reflection of Ptolemy's approval of astrology.]: ./03.md#a-genuine-reflection-of-ptolemy-s-approval-of-astrology 
 
- [A genuine reflection of Ptolemy's approval of astrology.]:(#a-genuine-reflection-of-ptolemy-s-approval-of-astrology)
+ [Validity of Astrology]: ./03.md#validity-of-astrology 
 
- [Validity of Astrology]:(#validity-of-astrology)
+ [Influence of the stars not inevitable.]: ./03.md#influence-of-the-stars-not-inevitable 
 
- [Influence of the stars not inevitable.]:(#influence-of-the-stars-not-inevitable)
+ [Astrology as natural science.]: ./03.md#astrology-as-natural-science 
 
- [Astrology as natural science.]:(#astrology-as-natural-science)
+ [Properties of the planets.]: ./03.md#properties-of-the-planets 
 
- [Properties of the planets.]:(#properties-of-the-planets)
+ [Remaining contents of Book One]: ./03.md#remaining-contents-of-book-one 
 
- [Remaining contents of Book One]:(#remaining-contents-of-book-one)
+ [Book Two: regions]: ./03.md#book-two--regions 
 
- [Book Two: regions]:(#book-two--regions)
+ [Nativities.]: ./03.md#nativities 
 
- [Nativities.]:(#nativities)
+ [Future influence of the _Tetrabiblos_.]: ./03.md#future-influence-of-the--tetrabiblos- 
 
- [Future influence of the _Tetrabiblos_.]:(#future-influence-of-the--tetrabiblos-)
 
 
 [Chapter IV Galen]:(#chapter-iv---galen)
