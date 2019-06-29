@@ -6,6 +6,7 @@
 - [Abbreviations.]
 - [Designation of manuscripts.]
 - [List of works frequently cited.]
+  * [By author and date of publication or brief title]
 
 - [Chapter I]
   * [INTRODUCTION]
@@ -15,43 +16,40 @@
     + [Definition of magic.]
     + [Magic of primitive man: does civilization originate in magic ?]
   * [Divination in early China.]
-    + [Magic of ancient Egypt.]:(./01.md#magic-of-ancient-egypt)
-    + [Magic and Egyptian religion.]:(./01.md#magic-and-egyptian-religion)
-    + [Mortuary magic.]:(./01.md#mortuary-magic)
-    + [Magic in daily life.]:(./01.md#magic-in-daily-life)
-    + [Power of words, images, amulets.]:(./01.md#power-of-words--images--amulets)
-    + [Magic in Egyptian medicine.]:(./01.md#magic-in-egyptian-medicine)
-    + [Demons and disease.]:(./01.md#demons-and-disease)
-    + [Magic and science.]:(./01.md#magic-and-science)
-    + [Magic and industry]:(./01.md#magic-and-industry)
-    + [Alchemy]:(./01.md#alchemy)
-    + [Divination and astrology.]:(./01.md#divination-and-astrology)
-    + [The sources for Assyrian and Babylonian magic.]:(./01.md#the-sources-for-assyrian-and-babylonian-magic)
-    + [Was astrology Sumerian or Chaldean?]:(./01.md#was-astrology-sumerian-or-chaldean-)
-    + [The number seven in early Babylonia]:(./01.md#the-number-seven-in-early-babylonia)
-    + [Incantation texts older than astrological.]:(./01.md#incantation-texts-older-than-astrological)
-    + [Other divination than astrology.]:(./01.md#other-divination-than-astrology)
-    + [Incantations against sorcery and demons.]:(./01.md#incantations-against-sorcery-and-demons)
-    + [A specimen incantation.]:(./01.md#a-specimen-incantation)
-    + [Materials and devices of magic.]:(./01.md#materials-and-devices-of-magic)
-    + [Greek culture not free from magic.]:(./01.md#greek-culture-not-free-from-magic)
-    + [Magic in myth, literature, and history.]:(./01.md#magic-in-myth--literature--and-history)
-    + [Simultaneous increase of learning and occult science.]:(./01.md#simultaneous-increase-of-learning-and-occult-science)
-    + [Magic origin urged for Greek religion and drama.]:(./01.md#magic-origin-urged-for-greek-religion-and-drama)
-    + [Magic in Greek philosophy]:(./01.md#magic-in-greek-philosophy)
-    + [Plato's attitude toward magic and astrology.]:(./01.md#plato-s-attitude-toward-magic-and-astrology)
-    + [Aristotle on stars and spirits.]:(./01.md#aristotle-on-stars-and-spirits)
-    + [Folk-lore in the History of Animals.]:(./01.md#folk-lore-in-the-history-of-animals)
-    + [Differing modes of transmission of ancient oriental and Greek literature.]:(./01.md#differing-modes-of-transmission-of-ancient-oriental-and-greek-literature)
-    + [More magical character of directly transmitted Greek remains.]:(./01.md#more-magical-character-of-directly-transmitted-greek-remains)
-    + [Progress of science among the Greeks.]:(./01.md#progress-of-science-among-the-greeks)
-    + [Archimedes and Aristotle.]:(./01.md#archimedes-and-aristotle)
-    + [Exaggerated view of the scientific achievement of the Hellenistic age]:(./01.md#exaggerated-view-of-the-scientific-achievement-of-the-hellenistic-age)
-- [Appendix I.]:(./01.md#appendix-i)
-  * [Some works on Magic, Religion, and Astronomy in Babylonia and Assyria.]:(#some-works-on-magic--religion--and-astronomy-in-babylonia-and-assyria)
-
-
-
+    + [Magic of ancient Egypt.]
+    + [Magic and Egyptian religion.]
+    + [Mortuary magic.]
+    + [Magic in daily life.]
+    + [Power of words, images, amulets.]
+    + [Magic in Egyptian medicine.]
+    + [Demons and disease.]
+    + [Magic and science.]
+    + [Magic and industry]
+    + [Alchemy]
+    + [Divination and astrology.]
+    + [The sources for Assyrian and Babylonian magic.]
+    + [Was astrology Sumerian or Chaldean?]
+    + [The number seven in early Babylonia]:
+    + [Incantation texts older than astrological.]
+    + [Other divination than astrology.]
+    + [Incantations against sorcery and demons.]
+    + [A specimen incantation.]
+    + [Materials and devices of magic.]
+    + [Greek culture not free from magic.]
+    + [Magic in myth, literature, and history.]
+    + [Simultaneous increase of learning and occult science.]
+    + [Magic origin urged for Greek religion and drama.]
+    + [Magic in Greek philosophy]
+    + [Plato's attitude toward magic and astrology.]
+    + [Aristotle on stars and spirits.]
+    + [Folk-lore in the History of Animals.]
+    + [Differing modes of transmission of ancient oriental and Greek literature.]
+    + [More magical character of directly transmitted Greek remains.]
+    + [Progress of science among the Greeks.]
+    + [Archimedes and Aristotle.]
+    + [Exaggerated view of the scientific achievement of the Hellenistic age]
+- [Appendix I.]
+  * [Some works on Magic, Religion, and Astronomy in Babylonia and Assyria.]
 - [BOOK I. THE ROMAN EMPIRE]:(#book-i-the-roman-empire)
   * [FOREWORD]:(#foreword)
     + [A trio of great names.]:(#a-trio-of-great-names)
@@ -1215,91 +1213,91 @@ Slak/20_varia.md
 
 [List of works frequently cited.]: ./00.md#list-of-works-frequently-cited
 
+[By author and date of publication or brief title.]: ./00.md#by-author-and-date-of-publication-or-brief-title
+
 [Chapter I]: ./01.md#chapter-i
 
-[INTRODUCTION]: ./01.md#introduction
+[INTRODUCTION]: ./01.md#introduction 
  
- [Aim of this book.]: ./01.md#aim-of-this-book
+[Aim of this book.]: ./01.md#aim-of-this-book 
 
- [Period covered.]: ./01.md#period-covered
+[Period covered.]: ./01.md#period-covered 
  
- [How to study the history of thought.]: ./01.md#how-to-study-the-history-of-thought
+[How to study the history of thought.]: ./01.md#how-to-study-the-history-of-thought 
  
- [Definition of magic.]: ./01.md#definition-of-magic
+[Definition of magic.]: ./01.md#definition-of-magic 
  
- [Magic of primitive man: does civilization originate in magic ?]: ./01.md#magic-of-primitive-man--does-civilization-originate-in-magic--
+[Magic of primitive man: does civilization originate in magic ?]: ./01.md#magic-of-primitive-man--does-civilization-originate-in-magic-- 
 
-[Divination in early China.]: ./01.md#divination-in-early-china
+[Divination in early China.]: ./01.md#divination-in-early-china 
  
- [Magic of ancient Egypt.]:(./01.md#magic-of-ancient-egypt)
+[Magic of ancient Egypt.]: ./01.md#magic-of-ancient-egypt 
  
- [Magic and Egyptian religion.]:(./01.md#magic-and-egyptian-religion)
+[Magic and Egyptian religion.]: ./01.md#magic-and-egyptian-religion 
  
- [Mortuary magic.]:(./01.md#mortuary-magic)
+[Mortuary magic.]: ./01.md#mortuary-magic 
  
- [Magic in daily life.]:(./01.md#magic-in-daily-life)
+[Magic in daily life.]: ./01.md#magic-in-daily-life 
 
-[Power of words, images, amulets.]:(./01.md#power-of-words--images--amulets)
+[Power of words, images, amulets.]: ./01.md#power-of-words--images--amulets 
 
- [Magic in Egyptian medicine.]:(./01.md#magic-in-egyptian-medicine)
+[Magic in Egyptian medicine.]: ./01.md#magic-in-egyptian-medicine 
 
- [Demons and disease.]:(./01.md#demons-and-disease)
+[Demons and disease.]: ./01.md#demons-and-disease 
 
- [Magic and science.]:(./01.md#magic-and-science)
+[Magic and science.]: ./01.md#magic-and-science 
 
- [Magic and industry]:(./01.md#magic-and-industry)
+[Magic and industry]: ./01.md#magic-and-industry 
 
- [Alchemy]:(./01.md#alchemy)
+[Alchemy]: ./01.md#alchemy 
 
- [Divination and astrology.]:(./01.md#divination-and-astrology)
+[Divination and astrology.]: ./01.md#divination-and-astrology 
 
- [The sources for Assyrian and Babylonian magic.]:(./01.md#the-sources-for-assyrian-and-babylonian-magic)
+[The sources for Assyrian and Babylonian magic.]: ./01.md#the-sources-for-assyrian-and-babylonian-magic 
 
- [Was astrology Sumerian or Chaldean?]:(./01.md#was-astrology-sumerian-or-chaldean-)
+[Was astrology Sumerian or Chaldean?]: ./01.md#was-astrology-sumerian-or-chaldean- 
 
- [The number seven in early Babylonia]:(./01.md#the-number-seven-in-early-babylonia)
+[The number seven in early Babylonia]: ./01.md#the-number-seven-in-early-babylonia 
 
- [Incantation texts older than astrological.]:(./01.md#incantation-texts-older-than-astrological)
+[Incantation texts older than astrological.]: ./01.md#incantation-texts-older-than-astrological 
 
- [Other divination than astrology.]:(./01.md#other-divination-than-astrology)
+[Other divination than astrology.]: ./01.md#other-divination-than-astrology 
 
- [Incantations against sorcery and demons.]:(./01.md#incantations-against-sorcery-and-demons)
+[Incantations against sorcery and demons.]: ./01.md#incantations-against-sorcery-and-demons 
 
- [A specimen incantation.]:(./01.md#a-specimen-incantation)
+[A specimen incantation.]: ./01.md#a-specimen-incantation 
 
- [Materials and devices of magic.]:(./01.md#materials-and-devices-of-magic)
+[Materials and devices of magic.]: ./01.md#materials-and-devices-of-magic 
 
- [Greek culture not free from magic.]:(./01.md#greek-culture-not-free-from-magic)
+[Greek culture not free from magic.]: ./01.md#greek-culture-not-free-from-magic 
 
- [Magic in myth, literature, and history.]:(./01.md#magic-in-myth--literature--and-history)
+[Magic in myth, literature, and history.]: ./01.md#magic-in-myth--literature--and-history 
 
- [Simultaneous increase of learning and occult science.]:(./01.md#simultaneous-increase-of-learning-and-occult-science)
+[Simultaneous increase of learning and occult science.]: ./01.md#simultaneous-increase-of-learning-and-occult-science 
 
- [Magic origin urged for Greek religion and drama.]:(./01.md#magic-origin-urged-for-greek-religion-and-drama)
+[Magic origin urged for Greek religion and drama.]: ./01.md#magic-origin-urged-for-greek-religion-and-drama 
 
- [Magic in Greek philosophy]:(./01.md#magic-in-greek-philosophy)
+[Magic in Greek philosophy]: ./01.md#magic-in-greek-philosophy 
 
- [Plato's attitude toward magic and astrology.]:(./01.md#plato-s-attitude-toward-magic-and-astrology)
+[Plato's attitude toward magic and astrology.]: ./01.md#plato-s-attitude-toward-magic-and-astrology 
 
- [Aristotle on stars and spirits.]:(./01.md#aristotle-on-stars-and-spirits)
+[Aristotle on stars and spirits.]: ./01.md#aristotle-on-stars-and-spirits 
 
- [Folk-lore in the History of Animals.]:(./01.md#folk-lore-in-the-history-of-animals)
+[Folk-lore in the History of Animals.]: ./01.md#folk-lore-in-the-history-of-animals 
 
- [Differing modes of transmission of ancient oriental and Greek literature.]
- :(./01.md#differing-modes-of-transmission-of-ancient-oriental-and-greek-literature)
+[Differing modes of transmission of ancient oriental and Greek literature.]: ./01.md#differing-modes-of-transmission-of-ancient-oriental-and-greek-literature 
  
- [More magical character of directly transmitted Greek remains.]:(./01.md#more-magical-character-of-directly-transmitted-greek-remains)
+[More magical character of directly transmitted Greek remains.]: ./01.md#more-magical-character-of-directly-transmitted-greek-remains 
  
- [Progress of science among the Greeks.]:(./01.md#progress-of-science-among-the-greeks)
+[Progress of science among the Greeks.]: ./01.md#progress-of-science-among-the-greeks 
  
- [Archimedes and Aristotle.]:(./01.md#archimedes-and-aristotle)
+[Archimedes and Aristotle.]: ./01.md#archimedes-and-aristotle 
  
- [Exaggerated view of the scientific achievement of the Hellenistic age]:(./01.md#exaggerated-view-of-the-scientific-achievement-of-the-hellenistic-age)
+[Exaggerated view of the scientific achievement of the Hellenistic age]: ./01.md#exaggerated-view-of-the-scientific-achievement-of-the-hellenistic-age
 
-[Appendix I.]:(./01.md#appendix-i)
+[Appendix I.]: ./01.md#appendix-i 
 
-[Some works on Magic, Religion, and Astronomy in Babylonia and Assyria.]:(./01.md#some-works-on-magic--religion--and-astronomy-in-babylonia-and-assyria)
-
+[Some works on Magic, Religion, and Astronomy in Babylonia and Assyria.]: ./01.md#some-works-on-magic--religion--and-astronomy-in-babylonia-and-assyria 
 
 
 [BOOK I. THE ROMAN EMPIRE]:(./02.md#book-i-the-roman-empire)
