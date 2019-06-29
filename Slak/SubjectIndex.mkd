@@ -50,94 +50,95 @@
     + [Exaggerated view of the scientific achievement of the Hellenistic age]
 - [Appendix I.]
   * [Some works on Magic, Religion, and Astronomy in Babylonia and Assyria.]
-- [BOOK I. THE ROMAN EMPIRE]:(#book-i-the-roman-empire)
-  * [FOREWORD]:(#foreword)
-    + [A trio of great names.]:(#a-trio-of-great-names)
-    + [Plan of this section.]:(#plan-of-this-section)
-- [CHAPTER II]:(#chapter-ii)
-  * [Pliny's natural history]:(#pliny-s-natural-history)
-  * [I. Its Place in the History of Science.]:(#i-its-place-in-the-history-of-science)
-    + [Its importance in our investigation.]:(#its-importance-in-our-investigation)
-    + [As a collection of miscellaneous information.]:(#as-a-collection-of-miscellaneous-information)
-    + [As a repository of ancient natural science.]:(#as-a-repository-of-ancient-natural-science)
-    + [As a source for magic.]:(#as-a-source-for-magic)
-    + [Pliny's career.]:(#pliny-s-career)
-    + [His writings.]:(#his-writings)
-    + [His own description of the _Natural History_]:(#his-own-description-of-the--natural-history-)
-    + [His devotion to science]:(#his-devotion-to-science)
-    + [Conflict science and religion.]:(#conflict-science-and-religion)
-    + [Pliny not a trained naturalist.]:(#pliny-not-a-trained-naturalist)
-    + [His use of authorities.]:(#his-use-of-authorities)
-    + [His lack of arrangement and classification.]:(#his-lack-of-arrangement-and-classification)
-    + [His scepticism and credulity.]:(#his-scepticism-and-credulity)
-    + [A guide to ancient science]:(#a-guide-to-ancient-science)
-    + [His medieval influence]:(#his-medieval-influence)
-    + [Early printed edition.]:(#early-printed-edition)
-  * [II. Its Experimental Tendency]:(#ii-its-experimental-tendency)
-    + [Importance of obsevation and experience]:(#importance-of-obsevation-and-experience)
-    + [Use of the word experimentum]:(#use-of-the-word-experimentum)
-    + [Experiments due to scientific curiosity.]:(#experiments-due-to-scientific-curiosity)
-    + [Medical experimentation.]:(#medical-experimentation)
-    + [Chance experience and divine revelation.]:(#chance-experience-and-divine-revelation)
-    + [Marvels proved by experience.]:(#marvels-proved-by-experience)
-  * [III. Pliny's Account of Magic.]:(#iii-pliny-s-account-of-magic)
-    + [Oriental origin of magic]:(#oriental-origin-of-magic)
-    + [Its spread to the Greeks.]:(#its-spread-to-the-greeks)
-    + [Its spread outside the Graeco-Roman world.]:(#its-spread-outside-the-graeco-roman-world)
-    + [Failure to understand its true origin.]:(#failure-to-understand-its-true-origin)
-    + [Magic and divination.]:(#magic-and-divination)
-    + [Magic and religion.]:(#magic-and-religion)
-    + [Magic and medicine.]:(#magic-and-medicine)
-    + [Magic and philosophy.]:(#magic-and-philosophy)
-    + [Falseness of magic.]:(#falseness-of-magic)
-    + [Crimes of magic]:(#crimes-of-magic)
-    + [Pliny's censure of magic is mainly intellectual.]:(#pliny-s-censure-of-magic-is-mainly-intellectual)
-    + [Vagueness of Pliny's scepticism.]:(#vagueness-of-pliny-s-scepticism)
-    + [Magic and science indistinguishable.]:(#magic-and-science-indistinguishable)
-  * [IV. The Science of the Magi.]:(#iv-the-science-of-the-magi)
-    + [Magicians as investigators of nature.]:(#magicians-as-investigators-of-nature)
-    + [The magi of herbs.]:(#the-magi-of-herbs)
-    + [Marvelous virtues of herbs.]:(#marvelous-virtues-of-herbs)
-    + [Animals and parts of animals.]:(#animals-and-parts-of-animals)
-    + [Further instances]:(#further-instances)
-    + [Magic rites with animals and part of animals]:(#magic-rites-with-animals-and-part-of-animals)
-    + [Marvels wrought with parts of animals.]:(#marvels-wrought-with-parts-of-animals)
-    + [The magi on stones.]:(#the-magi-on-stones)
-    + [Other magical reciepts]:(#other-magical-reciepts)
-    + [Summary of the statements of the magi.]:(#summary-of-the-statements-of-the-magi)
-  * [V. Pliny's Magical Science]:(#v-pliny-s-magical-science)
-    + [From the magi to Pliny's magic]:(#from-the-magi-to-pliny-s-magic)
-    + [Habitus of animals.]:(#habitus-of-animals)
-    + [Remedies discovered by animals.]:(#remedies-discovered-by-animals)
-    + [Jealousy of animals]:(#jealousy-of-animals)
-    + [Occult virtues of animals.]:(#occult-virtues-of-animals)
-    + [The  virtues of herbs]:(#the--virtues-of-herbs)
-    + [Plucking herbs]:(#plucking-herbs)
-    + [Agricultural magic.]:(#agricultural-magic)
-    + [Other minerals and metals.]:(#other-minerals-and-metals)
-    + [Virtues of human parts.]:(#virtues-of-human-parts)
-    + [Virtues of human saliva.]:(#virtues-of-human-saliva)
-    + [The human operator.]:(#the-human-operator)
-    + [Absence of medical compounds.]:(#absence-of-medical-compounds)
-    + [Sympathetic magic.]:(#sympathetic-magic)
-    + [Antipathies between animals.]:(#antipathies-between-animals)
-    + [Love and hatred between inanimate objects.]:(#love-and-hatred-between-inanimate-objects)
-    + [Sympathy between animate and inanimate objects.]:(#sympathy-between-animate-and-inanimate-objects)
-    + [Like cures like.]:(#like-cures-like)
-    + [The principle of associain.]:(#the-principle-of-associain)
-    + [Magic transfer of disease.]:(#magic-transfer-of-disease)
-    + [Amulets.]:(#amulets)
-    + [Position or direction.]:(#position-or-direction)
-    + [The time element.]:(#the-time-element)
-    + [Observance of number.]:(#observance-of-number)
-    + [Relation between operator and patient.]:(#relation-between-operator-and-patient)
-    + [Incantations.]:(#incantations)
-    + [Attitude to lovecharms and birthcontrol.]:(#attitude-to-lovecharms-and-birthcontrol)
-    + [Pliny and astrology.]:(#pliny-and-astrology)
-    + [Celestial portents.]:(#celestial-portents)
-    + [The stars and the world of nature,]:(#the-stars-and-the-world-of-nature-)
-    + [Astrological medicine.]:(#astrological-medicine)
-    + [Conclusion: magic unity of Pliny's superstitions.]:(#conclusion--magic-unity-of-pliny-s-superstitions)
+
+- [BOOK I. THE ROMAN EMPIRE]
+  * [FOREWORD]
+    + [A trio of great names.]
+    + [Plan of this section.]
+- [CHAPTER II]
+  * [Pliny's natural history]
+  * [I. Its Place in the History of Science.]
+    + [Its importance in our investigation.]
+    + [As a collection of miscellaneous information.]
+    + [As a repository of ancient natural science.]
+    + [As a source for magic.]
+    + [Pliny's career.]
+    + [His writings.]
+    + [His own description of the _Natural History_]
+    + [His devotion to science]
+    + [Conflict science and religion.]
+    + [Pliny not a trained naturalist.]
+    + [His use of authorities.]
+    + [His lack of arrangement and classification.]
+    + [His scepticism and credulity.]
+    + [A guide to ancient science]
+    + [His medieval influence]
+    + [Early printed edition.]
+  * [II. Its Experimental Tendency]
+    + [Importance of obsevation and experience]
+    + [Use of the word experimentum]
+    + [Experiments due to scientific curiosity.]
+    + [Medical experimentation.]
+    + [Chance experience and divine revelation.]
+    + [Marvels proved by experience.]
+  * [III. Pliny's Account of Magic.]
+    + [Oriental origin of magic]
+    + [Its spread to the Greeks.]
+    + [Its spread outside the Graeco-Roman world.]
+    + [Failure to understand its true origin.]
+    + [Magic and divination.]
+    + [Magic and religion.]
+    + [Magic and medicine.]
+    + [Magic and philosophy.]
+    + [Falseness of magic.]
+    + [Crimes of magic]
+    + [Pliny's censure of magic is mainly intellectual.]
+    + [Vagueness of Pliny's scepticism.]
+    + [Magic and science indistinguishable.]
+  * [IV. The Science of the Magi.]
+    + [Magicians as investigators of nature.]
+    + [The magi of herbs.]
+    + [Marvelous virtues of herbs.]
+    + [Animals and parts of animals.]
+    + [Further instances]
+    + [Magic rites with animals and part of animals]
+    + [Marvels wrought with parts of animals.]
+    + [The magi on stones.]
+    + [Other magical reciepts]
+    + [Summary of the statements of the magi.]
+  * [V. Pliny's Magical Science]
+    + [From the magi to Pliny's magic]
+    + [Habitus of animals.]
+    + [Remedies discovered by animals.]
+    + [Jealousy of animals]
+    + [Occult virtues of animals.]
+    + [The  virtues of herbs]
+    + [Plucking herbs]
+    + [Agricultural magic.]
+    + [Other minerals and metals.]
+    + [Virtues of human parts.]
+    + [Virtues of human saliva.]
+    + [The human operator.]
+    + [Absence of medical compounds.]
+    + [Sympathetic magic.]
+    + [Antipathies between animals.]
+    + [Love and hatred between inanimate objects.]
+    + [Sympathy between animate and inanimate objects.]
+    + [Like cures like.]
+    + [The principle of associain.]
+    + [Magic transfer of disease.]
+    + [Amulets.]
+    + [Position or direction.]
+    + [The time element.]
+    + [Observance of number.]
+    + [Relation between operator and patient.]
+    + [Incantations.]
+    + [Attitude to lovecharms and birthcontrol.]
+    + [Pliny and astrology.]
+    + [Celestial portents.]
+    + [The stars and the world of nature,]
+    + [Astrological medicine.]
+    + [Conclusion: magic unity of Pliny's superstitions.]
 
 - [Chapter III]:(#chapter-iii)
   * [Seneca and Ptolemy: natural divination and astrology]:(#seneca-and-ptolemy--natural-divination-and-astrology)
@@ -1300,181 +1301,181 @@ Slak/20_varia.md
 [Some works on Magic, Religion, and Astronomy in Babylonia and Assyria.]: ./01.md#some-works-on-magic--religion--and-astronomy-in-babylonia-and-assyria 
 
 
-[BOOK I. THE ROMAN EMPIRE]:(./02.md#book-i-the-roman-empire)
+[BOOK I. THE ROMAN EMPIRE]: ./02.md#book-i-the-roman-empire 
 
-[FOREWORD]:(./02.md#foreword)
+[FOREWORD]: ./02.md#foreword 
 
- [A trio of great names.]:(./02.md#a-trio-of-great-names)
+ [A trio of great names.]: ./02.md#a-trio-of-great-names 
 
- [Plan of this section.]:(./02.md#plan-of-this-section)
+ [Plan of this section.]: ./02.md#plan-of-this-section 
 
-[CHAPTER II]:(./02.md#chapter-ii)
+[CHAPTER II]: ./02.md#chapter-ii 
 
-[Pliny's natural history]:(./02.md#pliny-s-natural-history)
+[Pliny's natural history]: ./02.md#pliny-s-natural-history 
 
-[I. Its Place in the History of Science.]:(./02.md#i-its-place-in-the-history-of-science)
+[I. Its Place in the History of Science.]: ./02.md#i-its-place-in-the-history-of-science 
 
- [Its importance in our investigation.]:(./02.md#its-importance-in-our-investigation)
+ [Its importance in our investigation.]: ./02.md#its-importance-in-our-investigation 
 
- [As a collection of miscellaneous information.]:(./02.md#as-a-collection-of-miscellaneous-information)
+ [As a collection of miscellaneous information.]: ./02.md#as-a-collection-of-miscellaneous-information 
 
- [As a repository of ancient natural science.]:(./02.md#as-a-repository-of-ancient-natural-science)
+ [As a repository of ancient natural science.]: ./02.md#as-a-repository-of-ancient-natural-science 
 
- [As a source for magic.]:./02.md(#as-a-source-for-magic)
+ [As a source for magic.]:./02.md #as-a-source-for-magic 
 
- [Pliny's career.]:(./02.md#pliny-s-career)
+ [Pliny's career.]: ./02.md#pliny-s-career 
 
- [His writings.]:(./02.md#his-writings)
+ [His writings.]: ./02.md#his-writings 
 
- [His own description of the _Natural History_]:(./02.md#his-own-description-of-the--natural-history-)
+ [His own description of the _Natural History_]: ./02.md#his-own-description-of-the--natural-history- 
 
- [His devotion to science]:(./02.md#his-devotion-to-science)
+ [His devotion to science]: ./02.md#his-devotion-to-science 
 
- [Conflict science and religion.]:(./02.md#conflict-science-and-religion)
+ [Conflict science and religion.]: ./02.md#conflict-science-and-religion 
 
- [Pliny not a trained naturalist.]:(./02.md#pliny-not-a-trained-naturalist)
+ [Pliny not a trained naturalist.]: ./02.md#pliny-not-a-trained-naturalist 
 
- [His use of authorities.]:(./02.md#his-use-of-authorities)
+ [His use of authorities.]: ./02.md#his-use-of-authorities 
 
- [His lack of arrangement and classification.]:(./02.md#his-lack-of-arrangement-and-classification)
+ [His lack of arrangement and classification.]: ./02.md#his-lack-of-arrangement-and-classification 
 
- [His scepticism and credulity.]:(./02.md#his-scepticism-and-credulity)
+ [His scepticism and credulity.]: ./02.md#his-scepticism-and-credulity 
 
- [A guide to ancient science]:(./02.md#a-guide-to-ancient-science)
+ [A guide to ancient science]: ./02.md#a-guide-to-ancient-science 
 
- [His medieval influence]:(./02.md#his-medieval-influence)
+ [His medieval influence]: ./02.md#his-medieval-influence 
 
- [Early printed edition.]:(./02.md#early-printed-edition)
+ [Early printed edition.]: ./02.md#early-printed-edition 
 
-[II. Its Experimental Tendency]:(./02.md#ii-its-experimental-tendency)
+[II. Its Experimental Tendency]: ./02.md#ii-its-experimental-tendency 
 
- [Importance of obsevation and experience]:(./02.md#importance-of-obsevation-and-experience)
+ [Importance of obsevation and experience]: ./02.md#importance-of-obsevation-and-experience 
 
- [Use of the word experimentum]:(./02.md#use-of-the-word-experimentum)
+ [Use of the word experimentum]: ./02.md#use-of-the-word-experimentum 
 
- [Experiments due to scientific curiosity.]:(./02.md#experiments-due-to-scientific-curiosity)
+ [Experiments due to scientific curiosity.]: ./02.md#experiments-due-to-scientific-curiosity 
 
- [Medical experimentation.]:(./02.md#medical-experimentation)
+ [Medical experimentation.]: ./02.md#medical-experimentation 
 
- [Chance experience and divine revelation.]:(./02.md#chance-experience-and-divine-revelation)
+ [Chance experience and divine revelation.]: ./02.md#chance-experience-and-divine-revelation 
 
- [Marvels proved by experience.]:(./02.md#marvels-proved-by-experience)
+ [Marvels proved by experience.]: ./02.md#marvels-proved-by-experience 
 
-[III. Pliny's Account of Magic.]:(./02.md#iii-pliny-s-account-of-magic)
+[III. Pliny's Account of Magic.]: ./02.md#iii-pliny-s-account-of-magic 
 
- [Oriental origin of magic]:(./02.md#oriental-origin-of-magic)
+ [Oriental origin of magic]: ./02.md#oriental-origin-of-magic 
 
- [Its spread to the Greeks.]:(./02.md#its-spread-to-the-greeks)
+ [Its spread to the Greeks.]: ./02.md#its-spread-to-the-greeks 
 
- [Its spread outside the Graeco-Roman world.]:(./02.md#its-spread-outside-the-graeco-roman-world)
+ [Its spread outside the Graeco-Roman world.]: ./02.md#its-spread-outside-the-graeco-roman-world 
 
- [Failure to understand its true origin.]:(./02.md#failure-to-understand-its-true-origin)
+ [Failure to understand its true origin.]: ./02.md#failure-to-understand-its-true-origin 
 
- [Magic and divination.]:(./02.md#magic-and-divination)
+ [Magic and divination.]: ./02.md#magic-and-divination 
 
- [Magic and religion.]:(./02.md#magic-and-religion)
+ [Magic and religion.]: ./02.md#magic-and-religion 
 
- [Magic and medicine.]:(./02.md#magic-and-medicine)
+ [Magic and medicine.]: ./02.md#magic-and-medicine 
 
- [Magic and philosophy.]:(./02.md#magic-and-philosophy)
+ [Magic and philosophy.]: ./02.md#magic-and-philosophy 
 
- [Falseness of magic.]:(#falseness-of-magic)
+ [Falseness of magic.]: #falseness-of-magic 
 
- [Crimes of magic]:(./02.md#crimes-of-magic)
+ [Crimes of magic]: ./02.md#crimes-of-magic 
 
- [Pliny's censure of magic is mainly intellectual.]:(./02.md#pliny-s-censure-of-magic-is-mainly-intellectual)
+ [Pliny's censure of magic is mainly intellectual.]: ./02.md#pliny-s-censure-of-magic-is-mainly-intellectual 
 
- [Vagueness of Pliny's scepticism.]:(./02.md#vagueness-of-pliny-s-scepticism)
+ [Vagueness of Pliny's scepticism.]: ./02.md#vagueness-of-pliny-s-scepticism 
 
- [Magic and science indistinguishable.]:(./02.md#magic-and-science-indistinguishable)
+ [Magic and science indistinguishable.]: ./02.md#magic-and-science-indistinguishable 
 
-[IV. The Science of the Magi.]:(./02.md#iv-the-science-of-the-magi)
+[IV. The Science of the Magi.]: ./02.md#iv-the-science-of-the-magi 
 
- [Magicians as investigators of nature.]:(./02.md#magicians-as-investigators-of-nature)
+ [Magicians as investigators of nature.]: ./02.md#magicians-as-investigators-of-nature 
 
- [The magi of herbs.]:(./02.md#the-magi-of-herbs)
+ [The magi of herbs.]: ./02.md#the-magi-of-herbs 
 
- [Marvelous virtues of herbs.]:(./02.md#marvelous-virtues-of-herbs)
+ [Marvelous virtues of herbs.]: ./02.md#marvelous-virtues-of-herbs 
 
- [Animals and parts of animals.]:(./02.md#animals-and-parts-of-animals)
+ [Animals and parts of animals.]: ./02.md#animals-and-parts-of-animals 
 
- [Further instances]:(./02.md#further-instances)
+ [Further instances]: ./02.md#further-instances 
 
- [Magic rites with animals and part of animals]:(./02.md#magic-rites-with-animals-and-part-of-animals)
+ [Magic rites with animals and part of animals]: ./02.md#magic-rites-with-animals-and-part-of-animals 
 
- [Marvels wrought with parts of animals.]:(./02.md#marvels-wrought-with-parts-of-animals)
+ [Marvels wrought with parts of animals.]: ./02.md#marvels-wrought-with-parts-of-animals 
 
- [The magi on stones.]:(./02.md#the-magi-on-stones)
+ [The magi on stones.]: ./02.md#the-magi-on-stones 
 
- [Other magical reciepts]:(./02.md#other-magical-reciepts)
+ [Other magical reciepts]: ./02.md#other-magical-reciepts 
 
- [Summary of the statements of the magi.]:(./02.md#summary-of-the-statements-of-the-magi)
+ [Summary of the statements of the magi.]: ./02.md#summary-of-the-statements-of-the-magi 
 
-[V. Pliny's Magical Science]:(./02.md#v-pliny-s-magical-science)
+[V. Pliny's Magical Science]: ./02.md#v-pliny-s-magical-science 
 
- [From the magi to Pliny's magic]:(./02.md#from-the-magi-to-pliny-s-magic)
+ [From the magi to Pliny's magic]: ./02.md#from-the-magi-to-pliny-s-magic 
 
- [Habitus of animals.]:(./02.md#habitus-of-animals)
+ [Habitus of animals.]: ./02.md#habitus-of-animals 
 
- [Remedies discovered by animals.]:(./02.md#remedies-discovered-by-animals)
+ [Remedies discovered by animals.]: ./02.md#remedies-discovered-by-animals 
 
- [Jealousy of animals]:(./02.md#jealousy-of-animals)
+ [Jealousy of animals]: ./02.md#jealousy-of-animals 
 
- [Occult virtues of animals.]:(./02.md#occult-virtues-of-animals)
+ [Occult virtues of animals.]: ./02.md#occult-virtues-of-animals 
 
- [The  virtues of herbs]:(./02.md#the--virtues-of-herbs)
+ [The  virtues of herbs]: ./02.md#the--virtues-of-herbs 
 
- [Plucking herbs]:(./02.md#plucking-herbs)
+ [Plucking herbs]: ./02.md#plucking-herbs 
 
- [Agricultural magic.]:(./02.md#agricultural-magic)
+ [Agricultural magic.]: ./02.md#agricultural-magic 
 
- [Other minerals and metals.]:(./02.md#other-minerals-and-metals)
+ [Other minerals and metals.]: ./02.md#other-minerals-and-metals 
 
- [Virtues of human parts.]:(./02.md#virtues-of-human-parts)
+ [Virtues of human parts.]: ./02.md#virtues-of-human-parts 
 
- [Virtues of human saliva.]:(./02.md#virtues-of-human-saliva)
+ [Virtues of human saliva.]: ./02.md#virtues-of-human-saliva 
 
- [The human operator.]:(./02.md#the-human-operator)
+ [The human operator.]: ./02.md#the-human-operator 
 
- [Absence of medical compounds.]:(./02.md#absence-of-medical-compounds)
+ [Absence of medical compounds.]: ./02.md#absence-of-medical-compounds 
 
- [Sympathetic magic.]:(./02.md#sympathetic-magic)
+ [Sympathetic magic.]: ./02.md#sympathetic-magic 
 
- [Antipathies between animals.]:(./02.md#antipathies-between-animals)
+ [Antipathies between animals.]: ./02.md#antipathies-between-animals 
 
- [Love and hatred between inanimate objects.]:(./02.md#love-and-hatred-between-inanimate-objects)
+ [Love and hatred between inanimate objects.]: ./02.md#love-and-hatred-between-inanimate-objects 
 
- [Sympathy between animate and inanimate objects.]:(./02.md#sympathy-between-animate-and-inanimate-objects)
+ [Sympathy between animate and inanimate objects.]: ./02.md#sympathy-between-animate-and-inanimate-objects 
 
- [Like cures like.]:(./02.md#like-cures-like)
+ [Like cures like.]: ./02.md#like-cures-like 
 
- [The principle of associain.]:(./02.md#the-principle-of-associain)
+ [The principle of associain.]: ./02.md#the-principle-of-associain 
 
- [Magic transfer of disease.]:(./02.md#magic-transfer-of-disease)
+ [Magic transfer of disease.]: ./02.md#magic-transfer-of-disease 
 
- [Amulets.]:(./02.md#amulets)
+ [Amulets.]: ./02.md#amulets 
 
- [Position or direction.]:(./02.md#position-or-direction)
+ [Position or direction.]: ./02.md#position-or-direction 
 
- [The time element.]:(./02.md#the-time-element)
+ [The time element.]: ./02.md#the-time-element 
 
- [Observance of number.]:(./02.md#observance-of-number)
+ [Observance of number.]: ./02.md#observance-of-number 
 
- [Relation between operator and patient.]:(./02.md#relation-between-operator-and-patient)
+ [Relation between operator and patient.]: ./02.md#relation-between-operator-and-patient 
 
- [Incantations.]:(./02.md#incantations)
+ [Incantations.]: ./02.md#incantations 
 
- [Attitude to lovecharms and birthcontrol.]:(./02.md#attitude-to-lovecharms-and-birthcontrol)
+ [Attitude to lovecharms and birthcontrol.]: ./02.md#attitude-to-lovecharms-and-birthcontrol 
 
- [Pliny and astrology.]:(./02.md#pliny-and-astrology)
+ [Pliny and astrology.]: ./02.md#pliny-and-astrology 
 
- [Celestial portents.]:(./02.md#celestial-portents)
+ [Celestial portents.]: ./02.md#celestial-portents 
 
- [The stars and the world of nature,]:(./02.md#the-stars-and-the-world-of-nature-)
+ [The stars and the world of nature,]: ./02.md#the-stars-and-the-world-of-nature- 
 
- [Astrological medicine.]:(./02.md#astrological-medicine)
+ [Astrological medicine.]: ./02.md#astrological-medicine 
 
- [Conclusion: magic unity of Pliny's superstitions.]:(./02.md#conclusion--magic-unity-of-pliny-s-superstitions)
+ [Conclusion: magic unity of Pliny's superstitions.]: ./02.md#conclusion--magic-unity-of-pliny-s-superstitions 
 
 
 
