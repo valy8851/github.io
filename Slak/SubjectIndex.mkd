@@ -1208,9 +1208,9 @@ Slak/20_varia.md
 
 
 
-[PREFACE]:(./00.md#preface)
+[PREFACE]: ./00.md#preface
 
-[Abbreviations.]:(./00.md#abbreviations)
+[Abbreviations.]:./00.md#abbreviations
 
 [Designation of manuscripts.]:(./00.md#designation-of-manuscripts)
 
