@@ -1321,7 +1321,7 @@ Slak/20_varia.md
 
  [As a repository of ancient natural science.]: ./02.md#as-a-repository-of-ancient-natural-science 
 
- [As a source for magic.]:./02.md #as-a-source-for-magic 
+ [As a source for magic.]: ./02.md #as-a-source-for-magic 
 
  [Pliny's career.]: ./02.md#pliny-s-career 
 
