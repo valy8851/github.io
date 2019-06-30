@@ -932,7 +932,7 @@
     + [Definition of magic.]
     + [Future influence of Isidore's account of magic.]
     + [Attitude to astrology.]
-    + [In the _ De natura rerum_ .]
+    + [In the De natura rerum.]
   * [Bede]
     + [Bede's scanty science.]
     + [Bede's _ De natura rerum_ .]
@@ -2982,7 +2982,7 @@
 
  [Attitude to astrology.]: ./27.md#attitude-to-astrology 
 
- [In the _ De natura rerum_ .]: ./27.md#in-the-_-de-natura-rerum-_- 
+ [In the De natura rerum.]: ./27.md#in-the-de-natura-rerum- 
 
 [Bede]: ./27.md#bede 
 
