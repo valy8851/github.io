@@ -892,10 +892,10 @@
     + [Its medieval influence.]
     + [Character of the work.]
     + [Its attitude to marvels.]
-    + [The _Geoponica_.]
+    + [The Geoponica]
     + [Magic and astrology therein.]
   * [Dioscorides.]
-    + [Textual history of the _De materia medica_.]
+    + [Textual history of the _De materia medica]
     + [Alterations made in the Greek text.]
     + [Dioscorides little known to Latins before the middle ages.]
     + [Partial versions in Latin.]
@@ -2904,13 +2904,13 @@
 
  [Its attitude to marvels.]: ./26.md#its-attitude-to-marvels 
 
- [The _Geoponica_.]: ./26.md#the-geoponica
+ [The Geoponica]: ./26.md#the-geoponica
  
  [Magic and astrology therein.]: ./26.md#magic-and-astrology-therein 
 
 [Dioscorides.]: ./26.md#dioscorides 
 
- [Textual history of the _De materia medica_.]: ./26.md#textual-history-of-the--de-materia-medica- 
+ [Textual history of the De materia medica]: ./26.md#textual-history-of-the-de-materia-medica
 
  [Alterations made in the Greek text.]: ./26.md#alterations-made-in-the-greek-text 
 
