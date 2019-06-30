@@ -1096,7 +1096,7 @@
     + [The wives of Salerno.]
 
 - [Chapter XXXII]
-  * [Constantinus Africanus: c. 1015 - 1087.]
+  * [Constantinus Africanus]
     + [Reputation and influence.]
     + [His studies in the Orient.]
     + [His later life in Italy.]
@@ -3300,7 +3300,7 @@
 
 [Chapter XXXII]: ./32.md#chapter-xxxii 
 
-[Constantinus Africanus: c. 1015 1087.]: ./32.md#constantinus-africanus--c-1015---1087 
+[Constantinus Africanus]: ./32.md#constantinus-africanus 
 
  [Reputation and influence.]: ./32.md#reputation-and-influence 
 
