@@ -939,7 +939,7 @@
     + [Divination by thunder.]
     + [Riddles of Aldhelm]
   * [Gregory the Great]
-    + [_Dialogues_.]
+    + [Dialogues]
     + [Signs and wonders wrought by saints]
     + [More monkish miracles.]
     + [A monastic snake-charmer.]
@@ -2996,7 +2996,7 @@
 
 [Gregory the Great]: ./27.md#gregory-the-great 
 
- [_Dialogues_.]: ./27.md#-dialogues- 
+ [Dialogues]: ./27.md#dialogues
 
  [Signs and wonders wrought by saints]: ./27.md#signs-and-wonders-wrought-by-saints 
 
