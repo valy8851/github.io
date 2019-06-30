@@ -2988,7 +2988,7 @@
 
  [Bede's scanty science.]: ./27.md#bede-s-scanty-science 
 
- [Bede's _ De natura rerum_ .]: ./27.md#bede-s---de-natura-rerum-- 
+ [Bede's _ De natura rerum_ .]: ./27.md#bede-s-_-de-natura-rerum_- 
 
  [Divination by thunder.]: ./27.md#divination-by-thunder 
 
