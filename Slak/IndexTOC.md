@@ -934,8 +934,8 @@
     + [Attitude to astrology.]
     + [In the De natura rerum.]
   * [Bede]
-    + [Bede's scanty science.]
-    + [Bede's _ De natura rerum_ .]
+    + [Bede scanty science]
+    + [Bede De natura rerum]
     + [Divination by thunder.]
     + [Riddles of Aldhelm]
   * [Gregory the Great]
@@ -2986,9 +2986,9 @@
 
 [Bede]: ./27.md#bede 
 
- [Bede's scanty science.]: ./27.md#bede-s-scanty-science 
+ [Bede scanty science]: ./27.md#bede-scanty-science 
 
- [Bede's _ De natura rerum_ .]: ./27.md#bede-s-_-de-natura-rerum_- 
+ [Bede De natura rerum]: ./27.md#bede-de-natura-rerum 
 
  [Divination by thunder.]: ./27.md#divination-by-thunder 
 
