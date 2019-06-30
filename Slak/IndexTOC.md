@@ -1203,7 +1203,7 @@
 
 [The sources for Assyrian and Babylonian magic.]: ./01.md#the-sources-for-assyrian-and-babylonian-magic 
 
-[Was astrology Sumerian or Chaldean?]: ./01.md#was-astrology-sumerian-or-chaldean- 
+[Was astrology Sumerian or Chaldean?]: ./01.md#was-astrology-sumerian-or-chaldean 
 
 [The number seven in early Babylonia]: ./01.md#the-number-seven-in-early-babylonia 
 
