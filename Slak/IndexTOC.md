@@ -886,7 +886,7 @@
   * [Herbarium of Apuleius]
     + [Specimens of its occult science.]
     + [Precantation of all herbs]
-    + [Other treatises accompanying the _Herbarium_]
+    + [Other treatises accompanying the Herbarium]
   * [Aethicus.]
     + [Cosmography.]
     + [Its medieval influence.]
@@ -2892,7 +2892,7 @@
 
  [Precantation of all herbs]: ./26.md#precantation-of-all-herbs
 
- [Other treatises accompanying the _Herbarium_]: ./26.md#other-treatises-accompanying-the--herbarium- 
+ [Other treatises accompanying the Herbarium]: ./https://github.com/valy8851/github.io/blob/index/Slak/26.md#other-treatises-accompanying-the-herbarium
 
 [Aethicus.]: ./26.md#aethicus 
 
