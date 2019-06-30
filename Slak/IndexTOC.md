@@ -946,7 +946,7 @@
     + [Basilius the magician.]
     + [A demon salad.]
     + [Incantations in Old Irish.]
-    + [The _Fili_.]
+    + [The Fili]
 
 - [Chapter XXVIII]
   * [Arabic occult science of the ninth century.]
@@ -3010,7 +3010,7 @@
 
  [Incantations in Old Irish.]: ./27.md#incantations-in-old-irish 
 
- [The _Fili_.]: ./27.md#the--fili- 
+ [The Fili]: ./27.md#the-fili 
 
 [Chapter XXVIII]: ./28.md#chapter-xxviii 
 
