@@ -895,7 +895,7 @@
     + [The Geoponica]
     + [Magic and astrology therein.]
   * [Dioscorides.]
-    + [Textual history of the _De materia medica]
+    + [Textual history of the De materia medica]
     + [Alterations made in the Greek text.]
     + [Dioscorides little known to Latins before the middle ages.]
     + [Partial versions in Latin.]
