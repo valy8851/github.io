@@ -65,7 +65,7 @@
     + [As a source for magic.]
     + [Pliny's career.]
     + [His writings.]
-    + [His own description of the _Natural History_]
+    + [His own description of the Natural History]
     + [His devotion to science]
     + [Conflict science and religion.]
     + [Pliny not a trained naturalist.]
@@ -1275,7 +1275,7 @@
 
  [His writings.]: ./02.md#his-writings 
 
- [His own description of the _Natural History_]: ./02.md#his-own-description-of-the--natural-history- 
+ [His own description of the Natural History]: ./02.md#his-own-description-of-the-natural-history 
 
  [His devotion to science]: ./02.md#his-devotion-to-science 
 
