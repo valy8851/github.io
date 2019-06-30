@@ -3406,6 +3406,6 @@
 
  [Liber lapidum meant seriously.]: ./34.md#liber-lapidum-meant-seriously 
 
- [De fato et genesi]: ./34.md#-de-fato-et-genesi 
+ [De fato et genesi]: ./34.md#de-fato-et-genesi 
 
 
