@@ -3398,7 +3398,7 @@
 
  [Relation of his Liber lapidum to the prose Evax.]: ./34.md#relation-of-his-liber-lapidum-to-the-prose-evax 
 
- [Problem of Marbod's sources.]: ./34.md#problem-of-marbod-sources 
+[Problem of Marbod sources.]: ./34.md#problem-of-marbod-sources 
 
  [Influence of the Liber lapidum.]: ./34.md#influence-of-the-liber-lapidum- 
 
