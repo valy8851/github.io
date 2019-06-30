@@ -904,7 +904,7 @@
     + [Peter of Abano's account of the medieval versions.]
     + [Pseudo-Dioscorides on stones.]
     + [Conclusions from the textual history of Dioscorides.]
-  * [Macer on herbs; its great currency,]
+  * [Macer on herbs; its great currency]
     + [Problem of date and author.]
     + [Virtues ascribed to herbs]
     + [Experiments of Macer.]
@@ -2928,7 +2928,7 @@
 
  [Conclusions from the textual history of Dioscorides.]: ./26.md#conclusions-from-the-textual-history-of-dioscorides 
 
-[Macer on herbs; its great currency,]: ./26.md#macer-on-herbs--its-great-currency- 
+[Macer on herbs; its great currency]: ./26.md#macer-on-herbs-its-great-currency 
 
  [Problem of date and author.]: ./26.md#problem-of-date-and-author 
 
