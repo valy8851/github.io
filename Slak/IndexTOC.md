@@ -2962,7 +2962,7 @@
 
  [Isidore of Seville.]: ./27.md#isidore-of-seville 
 
- [Method of the Etymologies]: ./27.md#27.md#method-of-the-etymologies
+ [Method of the Etymologies]: ./27.md#method-of-the-etymologies
 
  [Its sources.]: ./27.md#its-sources 
 
