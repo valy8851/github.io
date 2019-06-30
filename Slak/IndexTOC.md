@@ -883,7 +883,7 @@
   * [Pseudo-literature in natural science of the early middle ages]
     + [General character.]
     + [Medicine of Pliny]
-  * [_Herbarium_ of Apuleius]
+  * [Herbarium of Apuleius]
     + [Specimens of its occult science.]
     + [A "Precantation of all herbs"]
     + [Other treatises accompanying the _Herbarium_]
@@ -2886,7 +2886,7 @@
 
  [Medicine of Pliny]: ./26.md#medicine-of-pliny 
 
-[_Herbarium_ of Apuleius]: ./26.md#-herbarium--of-apuleius 
+[Herbarium of Apuleius]: ./26.md#herbarium-of-apuleius 
 
  [Specimens of its occult science.]: ./26.md#specimens-of-its-occult-science 
 
