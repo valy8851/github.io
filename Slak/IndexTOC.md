@@ -2918,7 +2918,7 @@
 
  [Partial versions in Latin.]: ./26.md#partial-versions-in-latin 
 
- [_De herbis femininis_.]: ./26.md#-de-herbis-femininis- 
+ [_De herbis femininis_.]: ./26.md#de-herbis-femininis 
 
  [The fuller Latin versions.]: ./26.md#the-fuller-latin-versions 
 
