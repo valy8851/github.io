@@ -885,7 +885,7 @@
     + [Medicine of Pliny]
   * [Herbarium of Apuleius]
     + [Specimens of its occult science.]
-    + [A "Precantation of all herbs"]
+    + [Precantation of all herbs]
     + [Other treatises accompanying the _Herbarium_]
   * [Aethicus.]
     + [Cosmography.]
@@ -2890,7 +2890,7 @@
 
  [Specimens of its occult science.]: ./26.md#specimens-of-its-occult-science 
 
- [A "Precantation of all herbs"]: ./26.md#a--precantation-of-all-herbs- 
+ [Precantation of all herbs]: ./26.md#precantation-of-all-herbs
 
  [Other treatises accompanying the _Herbarium_]: ./26.md#other-treatises-accompanying-the--herbarium- 
 
