@@ -3392,7 +3392,7 @@
 
 [Chapter XXXIV]: ./34.md#chapter-xxxiv 
 
-[Marbod, bishop of Rennes, 1035-1123]: ./34.md#marbod-bishop-of-rennes 
+[Marbod, bishop of Rennes]: ./34.md#marbod-bishop-of-rennes 
 
  [Career of Marbod.]: ./34.md#career-of-marbod 
 
@@ -3400,12 +3400,12 @@
 
 [Problem of Marbod sources.]: ./34.md#problem-of-marbod-sources 
 
- [Influence of the Liber lapidum.]: ./34.md#influence-of-the-liber-lapidum- 
+ [Influence of the Liber lapidum.]: ./34.md#influence-of-the-liber-lapidum 
 
  [Occult virtue of gems.]: ./34.md#occult-virtue-of-gems 
 
  [Liber lapidum meant seriously.]: ./34.md#liber-lapidum-meant-seriously 
 
- [De fato et genesi]: ./34.md#-de-fato-et-genesi- 
+ [De fato et genesi]: ./34.md#-de-fato-et-genesi 
 
 
