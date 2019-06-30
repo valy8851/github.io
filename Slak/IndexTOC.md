@@ -1175,7 +1175,7 @@
  
 [Definition of magic.]: ./01.md#definition-of-magic 
  
-[Magic of primitive man: does civilization originate in magic ?]: ./01.md#magic-of-primitive-man--does-civilization-originate-in-magic-- 
+[Magic of primitive man: does civilization originate in magic ?]: ./01.md#magic-of-primitive-man-does-civilization-originate-in-magic-
 
 [Divination in early China.]: ./01.md#divination-in-early-china 
  
