@@ -1144,11 +1144,11 @@
     + [Introduction of Arabic alchemy in the twelfth century.]
 
 - [Chapter XXXIV]:(#chapter-xxxiv)
-  * [Marbod, bishop of Rennes, 1035-1123]
-    + [Career of Marbod.]:(#career-of-marbod)
-    + [Relation of his _Liber lapidum_ to the prose Evax.]
-    + [Problem of Marbod's sources.]
-    + [Influence of the _Liber lapidum_.]
+  * [Marbod, bishop of Rennes]
+    + [Career of Marbod.]
+    + [Relation of his Liber lapidum to the prose Evax.]
+    + [Problem of Marbod sources.]
+    + [Influence of the Liber lapidum.]
     + [Occult virtue of gems.]
     + [_Liber lapidum_ meant seriously.]
     + [_De fato et genesi_.]
@@ -3392,19 +3392,19 @@
 
 [Chapter XXXIV]: ./34.md#chapter-xxxiv 
 
-[Marbod, bishop of Rennes, 1035-1123]: ./34.md#marbod--bishop-of-rennes--1035-1123 
+[Marbod, bishop of Rennes, 1035-1123]: ./34.md#marbod-bishop-of-rennes 
 
  [Career of Marbod.]: ./34.md#career-of-marbod 
 
- [Relation of his _Liber lapidum_ to the prose Evax.]: ./34.md#relation-of-his--liber-lapidum--to-the-prose-evax 
+ [Relation of his Liber lapidum to the prose Evax.]: ./34.md#relation-of-his-liber-lapidum-to-the-prose-evax 
 
- [Problem of Marbod's sources.]: ./34.md#problem-of-marbod-s-sources 
+ [Problem of Marbod's sources.]: ./34.md#problem-of-marbod-sources 
 
- [Influence of the _Liber lapidum_.]: ./34.md#influence-of-the--liber-lapidum- 
+ [Influence of the Liber lapidum.]: ./34.md#influence-of-the-liber-lapidum- 
 
  [Occult virtue of gems.]: ./34.md#occult-virtue-of-gems 
 
- [_Liber lapidum_ meant seriously.]: ./34.md#-liber-lapidum--meant-seriously 
+ [Liber lapidum meant seriously.]: ./34.md#liber-lapidum-meant-seriously 
 
  [_De fato et genesi_.]: ./34.md#-de-fato-et-genesi- 
 
