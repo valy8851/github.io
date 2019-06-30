@@ -1143,15 +1143,15 @@
     + [St.Dunstan and alchemy and magic.]
     + [Introduction of Arabic alchemy in the twelfth century.]
 
-- [Chapter XXXIV]:(#chapter-xxxiv)
+- [Chapter XXXIV]
   * [Marbod, bishop of Rennes]
     + [Career of Marbod.]
     + [Relation of his Liber lapidum to the prose Evax.]
     + [Problem of Marbod sources.]
     + [Influence of the Liber lapidum.]
     + [Occult virtue of gems.]
-    + [_Liber lapidum_ meant seriously.]
-    + [_De fato et genesi_.]
+    + [Liber lapidum meant seriously.]
+    + [De fato et genesi]
 
 
 
@@ -3406,6 +3406,6 @@
 
  [Liber lapidum meant seriously.]: ./34.md#liber-lapidum-meant-seriously 
 
- [_De fato et genesi_.]: ./34.md#-de-fato-et-genesi- 
+ [De fato et genesi]: ./34.md#-de-fato-et-genesi- 
 
 
