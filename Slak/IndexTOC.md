@@ -2904,8 +2904,8 @@
 
  [Its attitude to marvels.]: ./26.md#its-attitude-to-marvels 
 
- [The _Geoponica_.]: ./26.md#the--geoponica- 
-
+ [The _Geoponica_.]: ./26.md#the-geoponica
+ 
  [Magic and astrology therein.]: ./26.md#magic-and-astrology-therein 
 
 [Dioscorides.]: ./26.md#dioscorides 
