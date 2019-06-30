@@ -2982,7 +2982,7 @@
 
  [Attitude to astrology.]: ./27.md#attitude-to-astrology 
 
- [In the _ De natura rerum_ .]: ./27.md#in-the---de-natura-rerum-- 
+ [In the _ De natura rerum_ .]: ./27.md#in-the-_-de-natura-rerum-_- 
 
 [Bede]: ./27.md#bede 
 
