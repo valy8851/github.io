@@ -913,7 +913,7 @@
   * [Other early medieval learning.]
     + [Aridity of early medieval learning.]
   * [Boethius]
-    + [Historic importance of _ The Consolation of Philosophy_]
+    + [Historic importance of The Consolation of Philosophy]
     + [Medieval reading.]
     + [Influence of the works of Boethius.]
     + [His relation to antiquity and middle ages.]
@@ -2944,7 +2944,7 @@
 
 [Boethius]: ./27.md#boethius 
 
- [Historic importance of _ The Consolation of Philosophy_]: ./27.md#historic-importance-of---the-consolation-of-philosophy- 
+ [Historic importance of The Consolation of Philosophy]: ./27.md#historic-importance-of-the-consolation-of-philosophy
 
  [Medieval reading.]: ./27.md#medieval-reading 
 
