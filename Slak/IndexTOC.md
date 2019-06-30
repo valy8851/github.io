@@ -882,7 +882,7 @@
 - [Chapter XXVI]
   * [Pseudo-literature in natural science of the early middle ages]
     + [General character.]
-    + [_Medicine of Pliny_]
+    + [Medicine of Pliny]
   * [_Herbarium_ of Apuleius]
     + [Specimens of its occult science.]
     + [A "Precantation of all herbs"]
@@ -2884,7 +2884,7 @@
 
  [General character.]: ./26.md#general-character 
 
- [_Medicine of Pliny_]: ./26.md#-medicine-of-pliny- 
+ [Medicine of Pliny]: ./26.md#medicine-of-pliny 
 
 [_Herbarium_ of Apuleius]: ./26.md#-herbarium--of-apuleius 
 
