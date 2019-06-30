@@ -2238,7 +2238,7 @@
 
  [Seven metals and planets]: ./15.md#seven-metals-and-planets 
 
- [Magic of Simon's followers.]: ./15.md#magic-of-simon-s-followers 
+ [Magic of Simon's followers.]: ./15.md#magic-of-simons-followers 
 
  [Magic of Marcus in the Eucharist.]: ./15.md#magic-of-marcus-in-the-eucharist 
 
