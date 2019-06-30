@@ -30,7 +30,7 @@
     + [Divination and astrology.]
     + [The sources for Assyrian and Babylonian magic.]
     + [Was astrology Sumerian or Chaldean?]
-    + [The number seven in early Babylonia]:
+    + [The number seven in early Babylonia]
     + [Incantation texts older than astrological.]
     + [Other divination than astrology.]
     + [Incantations against sorcery and demons.]
