@@ -1424,7 +1424,7 @@
 
  [Astrological medicine.]: ./02.md#astrological-medicine 
 
- [Conclusion: magic unity of Pliny's superstitions.]: ./02.md#conclusion--magic-unity-of-plinys-superstitions 
+ [Conclusion: magic unity of Pliny's superstitions.]: ./02.md#conclusion-magic-unity-of-pliny-superstitions 
 
 
 
