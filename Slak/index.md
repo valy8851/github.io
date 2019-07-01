@@ -1260,7 +1260,7 @@
 
 [CHAPTER II]: ./02.md#chapter-ii 
 
-[Pliny natural history]: ./02.md#natural-history 
+[Pliny natural history]: ./02.md#pliny-natural-history 
 
 [I. Its Place in the History of Science.]: ./02.md#i-its-place-in-the-history-of-science 
 
