@@ -491,7 +491,7 @@
 
 - [Chapter XII]
   * [Aelian]
-    + [_On the Nature of Animals_.]
+    + [On the Nature of Animals.]
     + [General character of the work.]
     + [Its hodge-podge of unclassified detail.]
   * [Solinus]
@@ -2115,7 +2115,7 @@
 
 [Aelian]: ./12.md#aelian 
 
- [_On the Nature of Animals_.]: ./12.md#-on-the-nature-of-animals- 
+ [On the Nature of Animals.]: ./12.md#on-the-nature-of-animals 
 
  [General character of the work.]: ./12.md#general-character-of-the-work 
 
