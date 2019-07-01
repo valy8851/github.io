@@ -57,13 +57,13 @@
     + [A trio of great names.]
     + [Plan of this section.]
 - [CHAPTER II]
-  * [Pliny's natural history]
+  * [Pliny natural history]
   * [I. Its Place in the History of Science.]
     + [Its importance in our investigation.]
     + [As a collection of miscellaneous information.]
     + [As a repository of ancient natural science.]
     + [As a source for magic.]
-    + [Pliny's career.]
+    + [Career.]
     + [His writings.]
     + [His own description of the Natural History]
     + [His devotion to science]
@@ -82,7 +82,7 @@
     + [Medical experimentation.]
     + [Chance experience and divine revelation.]
     + [Marvels proved by experience.]
-  * [III. Pliny's Account of Magic.]
+  * [III. Account of Magic.]
     + [Oriental origin of magic]
     + [Its spread to the Greeks.]
     + [Its spread outside the Graeco-Roman world.]
@@ -93,7 +93,7 @@
     + [Magic and philosophy.]
     + [Falseness of magic.]
     + [Crimes of magic]
-    + [Pliny's censure of magic is mainly intellectual.]
+    + [Censure of magic is mainly intellectual.]
     + [Vagueness of Pliny's scepticism.]
     + [Magic and science indistinguishable.]
   * [IV. The Science of the Magi.]
@@ -107,8 +107,8 @@
     + [The magi on stones.]
     + [Other magical reciepts]
     + [Summary of the statements of the magi.]
-  * [V. Pliny's Magical Science]
-    + [From the magi to Pliny's magic]
+  * [V. Magical Science]
+    + [From the magi to Pliny magic]
     + [Habitus of animals.]
     + [Remedies discovered by animals.]
     + [Jealousy of animals]
@@ -1260,7 +1260,7 @@
 
 [CHAPTER II]: ./02.md#chapter-ii 
 
-[Pliny's natural history]: ./02.md#pliny-s-natural-history 
+[Natural history]: ./02.md#natural-history 
 
 [I. Its Place in the History of Science.]: ./02.md#i-its-place-in-the-history-of-science 
 
@@ -1272,7 +1272,7 @@
 
  [As a source for magic.]: ./02.md#as-a-source-for-magic 
 
- [Pliny's career.]: ./02.md#pliny-s-career 
+ [Career.]: ./02.md#career 
 
  [His writings.]: ./02.md#his-writings 
 
@@ -1310,7 +1310,7 @@
 
  [Marvels proved by experience.]: ./02.md#marvels-proved-by-experience 
 
-[III. Pliny's Account of Magic.]: ./02.md#iii-pliny-s-account-of-magic 
+[III. Account of Magic.]: ./02.md#iii-account-of-magic 
 
  [Oriental origin of magic]: ./02.md#oriental-origin-of-magic 
 
@@ -1332,7 +1332,7 @@
 
  [Crimes of magic]: ./02.md#crimes-of-magic 
 
- [Pliny's censure of magic is mainly intellectual.]: ./02.md#pliny-s-censure-of-magic-is-mainly-intellectual 
+ [Censure of magic is mainly intellectual.]: ./02.md#censure-of-magic-is-mainly-intellectual 
 
  [Vagueness of Pliny's scepticism.]: ./02.md#vagueness-of-pliny-s-scepticism 
 
@@ -1360,9 +1360,9 @@
 
  [Summary of the statements of the magi.]: ./02.md#summary-of-the-statements-of-the-magi 
 
-[V. Pliny's Magical Science]: ./02.md#v-pliny-s-magical-science 
+[V. Magical Science]: ./02.md#v-magical-science 
 
- [From the magi to Pliny's magic]: ./02.md#from-the-magi-to-pliny-s-magic 
+ [From the magi to Pliny magic]: ./02.md#from-the-magi-to-pliny-magic 
 
  [Habitus of animals.]: ./02.md#habitus-of-animals 
 
@@ -1424,7 +1424,7 @@
 
  [Astrological medicine.]: ./02.md#astrological-medicine 
 
- [Conclusion: magic unity of Pliny's superstitions.]: ./02.md#conclusion--magic-unity-of-pliny-s-superstitions 
+ [Conclusion: magic unity of Pliny's superstitions.]: ./02.md#conclusion--magic-unity-of-plinys-superstitions 
 
 
 
