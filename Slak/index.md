@@ -94,7 +94,7 @@
     + [Falseness of magic.]
     + [Crimes of magic]
     + [Censure of magic is mainly intellectual.]
-    + [Vagueness of Pliny's scepticism.]
+    + [Vagueness of Pliny scepticism.]
     + [Magic and science indistinguishable.]
   * [IV. The Science of the Magi.]
     + [Magicians as investigators of nature.]
@@ -1334,7 +1334,7 @@
 
  [Censure of magic is mainly intellectual.]: ./02.md#censure-of-magic-is-mainly-intellectual 
 
- [Vagueness of Pliny's scepticism.]: ./02.md#vagueness-of-pliny-s-scepticism 
+ [Vagueness of Pliny scepticism.]: ./02.md#vagueness-of-pliny-scepticism 
 
  [Magic and science indistinguishable.]: ./02.md#magic-and-science-indistinguishable 
 
