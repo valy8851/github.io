@@ -146,7 +146,7 @@
   * [Seneca.]
     + [Natural Questions]
     + [Nature study as an ethical substitute for existing religion]
-    + [Limited field of Seneca's work]
+    + [Limited field of Seneca work]
     + [Marvels accepted, questioned, or denied]
     + [Belief in natural divination and astrology.]
     + [Divination from thunder.]
@@ -1438,7 +1438,7 @@
 
  [Nature study as an ethical substitute for existing religion]: ./03.md#nature-study-as-an-ethical-substitute-for-existing-religion 
 
- [Limited field of Seneca's work]: ./03.md#limited-field-of-seneca-s-work 
+ [Limited field of Seneca work]: ./03.md#limited-field-of-seneca-work 
 
  [Marvels accepted, questioned, or denied]: ./03.md#marvels-accepted--questioned--or-denied 
 
