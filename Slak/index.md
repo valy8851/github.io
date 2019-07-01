@@ -1778,7 +1778,7 @@
  
  [Biographical reasons]: ./07.md#biographical-reasons 
  
- [No mention of the Metamorphoses in the Apology.]: ./07.md#no-mention-of-the-metamorphoses-in-the-apology 
+ [No mention of the Metamorphoses in the Apology]: ./07.md#no-mention-of-the-metamorphoses-in-the-apology 
 
 [II Magic in The Metamorphoses]: ./07.md#ii-magic-in-the-metamorphoses 
  
