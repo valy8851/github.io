@@ -350,7 +350,7 @@
     + [Apuleius in the middle ages]
 
 - [Chapter VIII]
-  * [Philostratus's _Life of Apollonius_ of Tyana]
+  * [Philostratus Life of Apollonius of Tyana]
     + [Compared with Apuleius.]
     + [Philostratus's sources]
     + [Time and space covered]
@@ -1836,7 +1836,7 @@
 
 [Chapter VIII]: ./08.md#chapter-viii 
 
-[Philostratus's _Life of Apollonius_ of Tyana]: ./08.md#philostratus-s--life-of-apollonius--of-tyana 
+[Philostratus Life of Apollonius of Tyana]: ./08.md#philostratus-life-of-apollonius-of-tyana 
 
  [Compared with Apuleius.]: ./08.md#compared-with-apuleius 
 
