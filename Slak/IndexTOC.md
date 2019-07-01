@@ -155,8 +155,8 @@
     + [His mathematical method.]
     + [Attitude towards authority and observation.]
     + [The Optics.]
-    + [Medieval translations of _Almagest_.]
-    + [_Tetrabiblos_ or _Quadripartitum_ .]
+    + [Medieval translations of Almagest]
+    + [Tetrabiblos or Quadripartitum]
     + [A genuine reflection of Ptolemy's approval of astrology.]
     + [Validity of Astrology]
     + [Influence of the stars not inevitable.]
@@ -165,7 +165,7 @@
     + [Remaining contents of Book One]
     + [Book Two: regions]
     + [Nativities.]
-    + [Future influence of the _Tetrabiblos_.]
+    + [Future influence of the Tetrabiblos]
 
 - [Chapter IV]
   * [I. The Man and His Times.]
@@ -1455,9 +1455,9 @@
 
  [The Optics.]: ./03.md#the-optics 
 
- [Medieval translations of _Almagest_.]: ./03.md#medieval-translations-of--almagest- 
+ [Medieval translations of Almagest]: ./03.md#medieval-translations-of-almagest 
 
- [_Tetrabiblos_ or _Quadripartitum_ .]: ./03.md#-tetrabiblos--or--quadripartitum-- 
+ [Tetrabiblos or Quadripartitum]: ./03.md#tetrabiblos-or-quadripartitum
 
  [A genuine reflection of Ptolemy's approval of astrology.]: ./03.md#a-genuine-reflection-of-ptolemy-s-approval-of-astrology 
 
@@ -1475,7 +1475,7 @@
 
  [Nativities.]: ./03.md#nativities 
 
- [Future influence of the _Tetrabiblos_.]: ./03.md#future-influence-of-the--tetrabiblos
+ [Future influence of the Tetrabiblos]: ./03.md#future-influence-of-the-tetrabiblos
 
 [Chapter IV]: ./04.md#chapter-iv
 
