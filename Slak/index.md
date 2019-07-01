@@ -172,7 +172,7 @@
     + [Recent ignorance of Galen.]
     + [His voluminous works.]
     + [The manuscript tradition of Galen works.]
-    + [Galen's vivid personality.]
+    + [Galen vivid personality.]
     + [Birth and parentage.]
     + [Education in philosophy and medicine,]
     + [First visit to Rome.]
@@ -1488,13 +1488,13 @@
 
  [The manuscript tradition of Galen works.]: ./04.md#the-manuscript-tradition-of-galen-works 
 
- [Galen's vivid personality.]: ./04.md#galen-s-vivid-personality 
+ [Galen vivid personality.]: ./04.md#galen-vivid-personality 
 
  [Birth and parentage.]: ./04.md#birth-and-parentage 
 
  [Education in philosophy and medicine,]: ./04.md#education-in-philosophy-and-medicine- 
 
- [First visit to Rome.]: ./04.md##first-visit-to-rome- 
+ [First visit to Rome.]: ./04.md##first-visit-to-rome 
 
  [Relations with the emperors: later life.]: ./04.md#relations-with-the-emperors--later-life 
 
