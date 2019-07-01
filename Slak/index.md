@@ -171,7 +171,7 @@
   * [I. The Man and His Times.]
     + [Recent ignorance of Galen.]
     + [His voluminous works.]
-    + [The manuscript tradition of Galen's works.]
+    + [The manuscript tradition of Galen works.]
     + [Galen's vivid personality.]
     + [Birth and parentage.]
     + [Education in philosophy and medicine,]
@@ -1486,7 +1486,7 @@
 
  [His voluminous works.]: ./04.md#his-voluminous-works 
 
- [The manuscript tradition of Galen's works.]: ./04.md#the-manuscript-tradition-of-galen-s-works 
+ [The manuscript tradition of Galen works.]: ./04.md#the-manuscript-tradition-of-galen-works 
 
  [Galen's vivid personality.]: ./04.md#galen-s-vivid-personality 
 
