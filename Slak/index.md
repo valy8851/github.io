@@ -184,7 +184,7 @@
     + [Medical discovery in Galen's time.]
     + [The drug trade.]
     + [The imperial stores.]
-    + [Galen's private supply of drugs: terra sigillata.]
+    + [Galen private supply of drugs: terra sigillata.]
     + [Mediterranean commerce.]
     + [Frauds of dealers in wild beasts.]
     + [Galen's ideal of anonymity]
@@ -1512,7 +1512,7 @@
 
  [The imperial stores.]: ./04.md#the-imperial-stores 
 
- [Galen's private supply of drugs: terra sigillata.]: ./04.md#galen-s-private-supply-of-drugs--terra-sigillata 
+ [Galen private supply of drugs: terra sigillata.]: ./04.md#galen-private-supply-of-drugs-terra-sigillata 
 
  [Mediterranean commerce.]: ./04.md#mediterranean-commerce 
 
