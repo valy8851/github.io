@@ -1,0 +1,1804 @@
+
+# Book I. The Roman Empire
+
+## Foreword 
+
+###  A trio of great names  
+
+A trio of great names, Pliny, Galen, and Ptolemy, stand out above all others in the history of science under the Roman  Empire. In the use or criticism which they make of earlier writers and investigators they are also our chief sources for the science of the preceding Hellenistic period. By their voluminousness, their generous scope in ground covered, and their broad, liberal, personal outlooks, they have painted, in colors for the most part imperishable, extensive canvasses of the scientific spirit and acquisitions of their own time.  
+Pliny pursued politics and literature as well as natural science;   
+Ptolemy was at once mathematician, astronomer, physicist, and geographer;  
+Galen knew philosophy as well as medicine.  
+The two latter men, moreover, made original contributions of their own of the very first order to scientific knowledge and method. It is characteristic of the homogeneous and widespread culture of the Roman Empire that these three representatives of different, although overlapping, fields of science were natives of the three continents that enclose the Mediterranean Sea.   
+Pliny was born at Como where Italy verges on trans-alpine lands; Ptolemy, born somewhere in Egypt, did his work at Alexandria; Galen came from Pergamum in Asia Minor.  
+Finally, these men were, after Aristotle, the three ancient scientists who directly or indirectly most powerfully influenced the middle ages. Thus they illuminate past, present, and future.  
+
+### Plan of this section
+
+We shall therefore open the present section of our investigation by considering in turn chronologically, Pliny, Ptolemy, and Galen, coupling, however, with our consideration of Ptolemy the work of Seneca on _Natural Questions_ which shows the same combination of natural science and natural divination. Next we shall consider some representatives of ancient applied science and its relations to magic, and the more miscellaneous writings of Plutarch, Apuleius, and Philostratus's _Life of Apollonius of Tyana_. From the hospitable attitude toward magic and occult science displayed by these last writers we shall then turn back again to consider some examples of literary and philosophical attacks upon superstition, before proceeding lastly to spurious mystic writings of the Roman Empire, Neo-Platonism and its relations to astrology and theurgy, and the works of Aelian, Solinus, and Horapollo.  
+
+
+# Chapter II 
+
+## Pliny natural history 
+
+> _"Salve, parens rerum omnium Natura, teque nobis Quiritium solis celehratam esse numeris omnibus tuis fave!"_ 
+
+>> Closing words of the Natural History  [^42:1]
+
+ [^42:1]: "Farewell, Nature, parent of all things, and in thy manifold multiplicity bless me who, alone of the Romans, has sung thy praise." 
+
+## I. Its Place in the History of Science
+
+### Its importance in our investigation.   
+
+We should have to search long before finding a better starting- point for the consideration of the union of magic with the science of the Roman Empire, and of the way in which that union influenced the middle ages, than _Pliny's Natural History_  [^42:2] The foregoing sentence, with which years ago I opened a chapter on the _Natural History_ of Pliny the Elder in my briefer preliminary study of magic in the intellectual history of the Roman Empire, seems as true as ever; and although I there considered his confusion of magic and science at some length, I do not see how I can make the present work well-rounded and complete without including in it a yet more detailed analysis of the contents of Pliny's book. 
+
+ [^42:2]: For the Latin text of the _Naturalis Historia_ I have used the editions of D.Detlefsen, Berlin, 1866-1882, and L.Janus, Leipzig, 1870, 6 vols, in 3; 5 vols, in 3. There is, however, a good English translation of the Natural History, with an introductory essay, by J.Bostock and H. T. Riley, London, 1855, 6 vols. (Bohn Library), which is superior to both the German editions in its explanatory notes and subject index, and which also apparently antedates them in some readings suggested for doubtful passages in the text. Three modes of dividing the Natural History into chapters are indicated in the editions of Janus and Detlefsen. I shall employ that found in the earlier editions of Hardouin, Valpy, Lemaire, and Ajasson, and preferred in the English translation of Bostock and Riley.
+
+### As a collection of miscellaneous information
+
+Pliny's _Natural History_, which appeared about 77 A.D. and is dedicated to the Emperor Titus, is perhaps the most important single source extant for the history of ancient civilization. Its thirty-seven books, written in a very compact style, constitute a vast collection of the most miscellaneous information. Whether one is investigating ancient painting, sculpture, and other fine arts; or the geography of the Roman Empire; or Roman triumphs, gladiatorial contests, and theatrical exhibitions; or the industrial processes of antiquity; or Mediterranean trade; or Italian agriculture; or mining in ancient Spain; or the history of Roman coinage; or the fluctuation of prices in antiquity; or the Roman attitude towards usury; or the pagan attitude towards immortality; or the nature of ancient beverages; or the religious usages of the ancient Romans; or any of a number of other topics; one will find something concerning all of them in Pliny, He is apt both to depict such conditions in his own time and to trace them back to their origins. Furthermore he repeats many detailed incidents of interest to the political or narrative historian of Rome as well as to the student of the economic, social, artistic, and religious life of antiquity. Probably there is no place where an isolated point is more likely to be run down by the investigator, and it is regrettable that exhaustive analytical indices of the work are not available. We may add that, although the work is supposedly a collection of facts, Pliny contrives to introduce many moral reflections and sharp comments on the luxury, vice, and nonintellectual character of his times, suggesting Juvenal's picture of degenerate Roman society and his own lofty moral standards. 
+
+### As a repository of ancient natural science
+
+Indeed, Pliny's title, _Naturalis Historia_, or at least the common English translation of it, "Natural History," has been criticized as too limited in scope, and the work has been natural described as "rather a vast encyclopedia of ancient knowledge and belief upon almost every known subject. [^43:1] Pliny himself mentions in his preface the Greek word "encyclopedia" as indicative of his scope.  
+
+ [^43:1]: Bostock and Riley (1855), I, xvi.
+
+Nevertheless, his work is primarily an account of nature rather than of civilization, and much of its information concerning such matters as the arts and business is incidental. Most of its books bear such titles as Aquatic Animals, Exotic Trees, Medicines from Forest Trees, The Natures of Metals. After an introductory book containing the preface and a table of contents and lists of authorities for each of the subsequent books, the second book treats of the universe, heavenly bodies, meteorology, and the chief changes, such as earthquakes and tides, in the land and water forming the earth's surface. After four books devoted to geography, the seventh deals with man and human inventions. Four more follow on terrestrial and aquatic animals, birds, and insects. Sixteen more are concerned with plants, trees, vines, and other vegetation, and the medicinal simples derived from them. Five books discuss the medicinal simples derived from animals, including the human body; and the last five books treat of metals and minerals and the arts in which they are employed. It is thus evident that in the main Pliny is concerned with natural science, and that, if his work is a mine of miscellaneous historical information, it should even more prove a rich treasure-house - _"quoniam, ut ait Domitius Piso, thesauros oportet esse non libros"_ [^44:1] -for an investigation concerned as intimately as is ours with the history of science. 
+
+ [^44:1]: NH. Preface.
+
+### As a source for magic
+
+_The Natural History_ is a great storehouse of misinformation as well as of information, for Pliny's credulity and lack of discrimination harvested the tares of legend and magic along with the wheat of historical fact and ancient science in his voluminous granary. This may put other historical investigators upon their guard in accepting its statements, but only increases its value for our purpose. Perhaps it is even more valuable as a collection of ancient errors than it is as a repository of ancient science. It touches upon many of the varieties, and illustrates most of the characteristics, of magic.   
+Moreover, Pliny often mentions the Magi or magicians and discusses "magic" expressly at some length in the opening chapters of his thirtieth book-one of the most important passages on the theme in any ancient writer. 
+
+### Career  
+
+Pliny the Elder, as we learn from his own statements in the _Natural History_ and from one or two letters concerning  him written by his nephew, Pliny the Younger, whom he adopted, went through the usual military, forensic, and official career of the Roman of good family, and spent his life largely in the service of the emperors. He visited various Mediterranean lands, such as Spain, Africa, Greece, and Egypt, and fought in Germany. He was in charge of the Roman fleet on the west coast of Italy when he met his death at the age of fifty-six by suffocation as he was trying to rescue others from the fumes and vapors from the eruption of Mount Vesuvius.  
+
+### His writings
+
+Of Pliny's writings the _Natural History_ is alone extant  but other titles have been preserved which serve to show his great literary industry and the extent of his interests. He wrote on the use of the javelin by cavalry, a life of his friend Pomponius, an account in twenty books of all the wars waged by the Romans in Germany, a rather long work on oratory called _The Student_, a grammatical or philological work in eight books entitled _De dubio sermone_, and a continuation of the History of Aufidius Bassus in thirty one books. Yet in the dedication of the Natural History to the emperor Titus he states that his days were taken up with official business and only his nights were free for literary labor. This statement is supported by a letter of his nephew telling how he used to study by candle-light both late at night and before daybreak.  
+Pliny the Younger narrates several incidents to illustrate how jealous and economical of every spare moment his uncle was. He would dictate or have books read to him while lying down or in the bath, and on journeys a secretary was always by his side with books and tablets. If the weather was very cold, the amanuensis wore gloves so that his hands might not become too numb to write. Pliny always took notes on what he read, and at his death left his nephew one hundred and sixty notebooks written in a small hand on both sides.  
+
+### His own description of the Natural History
+
+Such were the conditions under which, and the methods by which, Pliny compiled his encyclopedia on nature. No Natural single writer either Greek or Latin, he tells us, had ever before attempted so extensive a task. He adds that he treats of some twenty thousand topics gleaned from the perusal of about two thousand volumes by one hundred authors. [^46:1] 
+
+ [^46:1]: NH, Preface. 
+ 
+Judging from his bibliographies and citations, however, he would seem to have utilized more than one hundred authors.   
+But possibly he had not read all the writers mentioned in his bibliographies. He affirms that previous students have had access to but few of the volumes which he has used, and that he adds many things unknown to his ancient authorities and recently discovered. Occasionally he shows an acquaintance with beliefs and practices of the Gauls and Druids. Thus his work assumes to be something more than a compilation from other books.  
+He says, however, that no doubt he has omitted much, since he is only human and has had many other demands upon his time. He admits that his subject is dry (_sterilis materia_) and does not lend itself to literary exhibitions, nor include matters stimulating to write about and pleasant to read about, like speeches and marvelous occurrences and varied incidents.   
+Nor does it permit purity and elegance of diction, since one must at times employ the terminology of rustics, foreigners, and even barbarians. Furthermore, 
+
+> "it is an arduous task to give novelty to what is ancient, authority to what is new, interest to what is obsolete, light to what is obscure, charm to what is loathsome"—as many of his medicinal simples undoubtedly are—"credit to what is dubious."  
+
+### His devotion to science   
+
+It is a great comfort to Pliny, however, in his immense task, when many laugh at him as wasting his time over worthless trifles, to reflect that he is being spurned along with Nature. [^46:2] 
+
+ [^46:2]: NH, XXII, 7.
+
+In another passage [^46:3] he contrasts the blood and slaughter of military history with the benefits bestowed upon mankind by astronomers.
+
+ [^46:3]: NH, II, 6.
+
+In a third passage [^47:1] he looks back regretfully at the widespread interest in science among the Greeks, although those were times of political disunion and strife and although communication between different lands was interrupted by piracy as well as war, whereas now, with the whole empire at peace, not only is no new scientific inquiry undertaken, but men do not even thoroughly study the works of the ancients, and are intent on the acquisition of lucre rather than learning. These and other passages which might be cited attest Pliny's devotion to science.  
+
+  [^47:1]: NH, II, 46.
+
+### Conflict science and religion
+
+In Pliny we also detect signs of the conflict between science and religion. In a single chapter on God he says pretty much all that the church fathers later repeated at much greater length against paganism and polytheism. But his discussion would hardly satisfy a Christian. He asserts that 
+
+> "it is God for man to aid his fellow man, [^47:2] and this is the path to eternal glory," 
+
+ [^47:2]: NH, II, 5. "Deus est mortali iuvare mortalem. . ."
+
+but he turns this noble sentiment to justify deification of the emperors who have done so much for mankind. He questions whether God is concerned with human affairs; slyly suggests that if so, God must be too busy to punish all crimes promptly; and points out that there are some things which God cannot do. He cannot commit suicide as men can, nor alter past events, nor make twice ten anything else than twenty.   
+Pliny then concludes:   
+
+> "By which is revealed in no uncertain wise the power of Nature, and that is what we call God." 
+
+In many other passages he exclaims at Nature's benignity or providence. He believed that the soul had no separate existence from the body, [^47:3] and that after death there was no more sense left in body or soul than was there before birth. The hope of personal immortality he scorned as "puerile ravings" produced by the fear of death, and he believed still less in the possibility of any resurrection of the body. In short, natural law, mechanical force, and facts capable of scientific investigation would seem to be all that he will admit and to suffice to satisfy his strong intellect. Yet we shall later find him having the greatest difficulty in distinguishing between science and magic, and giving credence to many details in science which seem to us quite as superstitious as the pagan beliefs concerning the gods which he rejected.  
+But if any reader is inclined to belittle Pliny for this, let him first stop and think how Pliny would ridicule some modern scientists for their religious beliefs, or for their spiritualism or psychic research.   
+
+ [^47:3]: NH, VII, 56.
+
+### Pliny not a trained naturalist  
+
+It is desirable, however, to form some estimate of Pliny's fitness for his task in order to judge how accurate a picture of ancient science his work is. He does not seem to have had much detailed training or experience in the natural sciences himself. He writes not as a naturalist who has observed widely and profoundly the phenomena and operations of nature, but as an omnivorous reader and voluminous note-taker who owes his knowledge largely to books or hearsay, although occasionally he says "I know" instead of "they say," or gives the results of his own observation and experience. In the main he is not a scientist himself but only a historian of science or nature; after all, his title, _Natural History_, is a very fitting one. The question, of course, arises whether he has sufficient scientific training to evaluate properly the work of the past. Has he read the best authors, has he noted their best passages, has he understood their meaning?   
+Does he repeat inferior theories and omit the correcter views of certain Alexandrian scientists?  These questions are hard to answer. On his behalf it may be said that he deals little with abstruse scientific theory and mainly with simple substances and geographical places, matters in which it seems difficult for him to go far astray.   
+Scientific specialists were not numerous in those days, anyway, and science had not yet so far advanced and ramified that one man might not hope to cover the entire field and do it substantial justice. Pliny the Younger was perhaps a partial judge, but he described the Natural History as "a work remarkable for its comprehensiveness and erudition, and not less varied than Nature herself." [^49:1] 
+
+ [^49:1]: Letter to Macer, Ep. Ill, 5, ed. Keil. Leipzig, 1896. 
+
+### His use of authorities
+
+One thing in Pliny's favor as a compiler, besides his personal industry, unflagging interest, and apparently abundant supply of clerical assistance, is his full and honest statement of his authorities, although he adds that he has caught many authors transcribing others verbatim without acknowledgment.   
+He has, however, great admiration for many of his authorities, exclaiming more than once at the care and diligence of the men of the past who have left nothing untried or inexperienced, from trackless mountain tops to the roots of herbs. [^49:2]  
+ Sometimes, nevertheless, he disputes their assertions. 
+For instance, Hippocrates said that the appearance of jaundice on the seventh day in fever is a fatal sign, 
+
+ [^49:2]: NH, VII, 1; XXIII, 60; XXV, 1; XXVII, 1. 
+
+> "but we know some who have lived even after this." [^49:3]  
+
+ [^49:3]: XXVI, 76.
+
+Pliny also scolds Sophocles for his falsehoods concerning amber. [^49:4]  
+
+ [^49:4]: XXXVII, 11.
+
+It may seem surprising that he should expect strict scientific truth from a dramatic poet, but Pliny, like many medieval writers, seems to regard poets as good scientific authorities. In another passage he accepts Sophocles' statement that a certain plant is poisonous, rather than the contrary view of other writers, saying "the authority of so prominent a man moves me against their opinions." [^49:5]  
+
+ [^49:5]: XXI, 88.
+
+He also cites Menander concerning fish and, like almost all the ancients, regards Homer as an authority on all matters. [^49:6]   
+
+ [^49:6]: XXXII, 24.
+
+Pliny sometimes cites the works of King Juba of Numidia, than whom there hardly seems to have been a greater liar in antiquity. [^49:7] 
+
+ [^49:7]: Yet C. W. King, Natural History of Precious Stones, p. 2, deplores the loss of Juba's treatise,  which he says, "considering his position and opportunities for exact information, is perhaps the  greatest we have to deplore in  this sad catalogue of desiderata."  
+
+He stated among other things in a work which he wrote for Gains Caesar, the son of Augustus, that a whale six hundred feet long and three hundred and sixty feet broad had entered a river in Arabia. [^50:1]  
+
+ [^50:1]: NH, XXXII, 4
+
+
+But where should Pliny turn for sober truth? The Stoic Chrysippus prated of amulets;  [^50:2]  
+
+ [^50:2]: XXX, 30; Chrysippus of Soli; Χρύσιππος ὁ Σολεύς, Chrysippos ho Soleus; c. 279 – c. 206 BC.
+
+treatises ascribed to the great philosophers Democritus and Pythagoras [^50:3] were full of magic; 
+
+ [^50:3]: Bouche-Leclercq (1899), p. 519, notes, however, that Aulus Gellius (X, 12) protested against Pliny's credulity in accepting such works as genuine and that "Columelle (VII, 5) cite un certain Bolus de Mendes comme l'auteur des ὑπομνήματα attribues a Dcmocrite." Bouche-Leclercq adds, however, "Rien n'y fit: Democrite devint le grand docteur de la magie." 
+
+and in the works of Cicero he read of a man who could see for a distance of one hundred and thirty-five miles, and in Varro that this man, standing on a Sicilian promontory, could count the number of ships sailing out of the harbor of Carthage. [^50:4] 
+
+ [^50:4]: NH, VII, 21.
+
+### His lack of arrangement and classification  
+
+The Natural History has been criticized as poorly arranged and lacking in scientific classification, but this is a criticism which can be made of many works of the classical period. Their presentation is apt to be rambling and discursive rather than logical and systematic. Even Aristotle's _History of Animals_ is described by Lewes [^50:5] as unclassified in its arrangement and careless in its selection of material. 
+
+ [^50:5]: G. H. Lewes, _Aristotle; a Chapter from the History of Science_, London. 1864. 
+
+I have often thought that the scholastic centuries did mankind at least one service, that of teaching lecturers and writers how to arrange their material. Pliny seems rather in advance of his times in supplying full tables of contents for the busy emperor's convenience. Valerius Soranus seems to have been the only previous Roman writer to do this. One indication of haste in composition and failure to sift and compare his material is the fact that Pliny sometimes makes or includes contradictory statements, probably taken from different authorities. On the other hand, he not infrequently alludes to previous passages in his own work, thus showing that he has his material fairly well in hand. 
+
+### His scepticism and credulity 
+
+Pliny once said that there was no book so bad but what some good might be got from it, [^50:6] and to the modern reader he seems almost incredibly credulous and indiscriminate in his selection of material, and to lack any standard of judgment between the true and the false. Yet he often assumes an air of scepticism and censures others sharply for their credulity or exaggeration. "Tis strange," he remarks apropos of some tales of men transformed into wolves for nine or ten years, 
+
+ [^50:6]: _Letters of Pliny the Younger_, III, 5, ed. Keil, Leipzig, 1896.
+
+> "how far Greek credulity has gone. No lie is so impudent that it lacks a voucher." [^51:1] 
+
+ [^51:1]: NH, VIII, 34.
+
+Once he expresses his determination to include only those points on which his authorities are in agreement. [^51:2] 
+
+ [^51:2]: XXVIII, 1. 
+
+### A guide to ancient science  
+
+On the whole, while to us to-day the _Natural History_ a seems a disorderly and indiscriminate conglomeration of fact and fiction, its defects are probably to a great extent those of its age and of the writers from whom it has borrowed.   
+If it does not reflect the highest achievements and clearest thinking of the best scientists of antiquity-and be it said that there are a number of the Hellenistic age of whom we should know less than we do but for Pliny - it probably is a fairly faithful epitome of science and error concerning nature in his own time and the centuries preceding. At any rate it is the best portrayal that has reached us.   
+From it we can get our background of the confusion of magic and science in the Hellenistic age, and then reveal against this setting the development of them both in the course of the Roman Empire and middle ages. Pliny gives so many items upon each point, and is so much fuller than the average ancient or medieval book of science, that he serves as a reference book, being the likeliest place to look to find duplicated some statement concerning nature by a later writer. This of course shows that such a statement did not originate with the later writer, but is not a sure sign that he copied from Pliny; they may both have used the same authorities, as seems the case with Greek authors later in the empire who probably did not know of Pliny's work. 
+
+### His medieval influence 
+
+In the middle ages, however, Pliny had an undoubted direct influence. [^51:3] 
+
+ [^51:3]: R&uuml;ck, _Die Naturalis Historia des Plinius im Mittelalter_, in Sitsh. Bayer. Akad. Philos-Philol.  Classe (1908) pp. 203-318. For citations of Pliny by writers of the late Roman empire and early middle ages, see Panckoucke, _Bibliotheque Latine-Française_, vol. CVI. 
+
+Manuscripts of the Natural History are  numerous, although in a scarcely legible condition owing to corrections and emendations which enhance the obscurity of the text and perhaps do Pliny grave injustice in other respects. [^52:1]  
+
+ [^52:1]: Concerning the MSS see Detlefsen's prefaces in each of his first five volumes and his fuller dissertations in Jahn's _Neue Jahrb_., 77, 653ff, Rhein. Mus., XV, 265ff; XVIII, 227ff, 327. Detlefsen seems to have made no use of English MSS, but a folio of the close of the 12th century at New College, Oxford, contains the first nineteen books of the _Natural History_ and is described by Coxe as "very well written and preserved."  
+ Nor does Detlefsen mention Le Mans 263, 12th century, containing all 37 books except that the last book is incomplete, and with a full page miniature (fol. 10v) showing Pliny in the act of presenting his work to Vespasian. Escorial Q-I-4 and R-I-5 are two other practically complete texts of the fourteenth century which Detlefsen failed to use.   
+ Detlefsen, Sönnich Detlef Friedrich (1833–1911) 
+
+Also many manuscripts contain only a few books or fragments of the text, so that it is possible that many medieval scholars knew their Pliny only in part. [^52:2]  
+
+ [^52:2]: See M.R.James, Eton Manuscripts, p. 63, MS 134, Bl. 4. 7., Roberti Crikeladensis Prioris Oxoniensis excerpta ex Plinii Historia Naturali, 12-13th century, in a large English hand, giving extracts extending from Book II to Book IX.  
+ Of Balliol 124, fols. 1-138, _Cosmographia mundi_, by John Free, born at Bristol or London, fellow at Balliol College, Oxford, later professor of medicine at Padua and a doctor at Rome, also well instructed in civil law and Greek, Coxe writes, "This work is nothing but a series of excerpts from Pliny's Natural History, beginning with the second and leaving off with the twentieth." I wonder if John Free may not have used the very MS of the first nineteen books mentioned in the foregoing note, since the second book of the Natural History is often reckoned as the first.  
+ In Balliol 146A, 15th century, fol. 3-, the _Natural History_ appears in epitome, with a prologue opening, "I, Reginald (_Retinaldus_), servant of Christ, perusing the books of Pliny . . ." 
+
+This, however, can scarcely be argued from their failure to include more from him in their own works; for that might be due to their knowing the _Natural History_ so well that they took its contents for granted and tried to include other material in their own works. In a later chapter we shall treat of _The Medicine of Pliny_, a treatise derived from the _Natural History_.  
+Pliny's phrase _rerum natura_ figures as the title of several medieval encyclopedias of somewhat similar scope. And his own name was too well known in the middle ages to escape having a work on the philosopher's stone ascribed to him. [^52:3]  
+
+ [^52:3]:   Bologna, 952, 15th century, fols. 157-60, "Tractatus optimus in quo exposuit et aperte declaravlt plinius philosophus quid sit lapis philosophicus et ex qua materia debet fieri et quomodo."  
+in rerum natura, adverb: in the nature of things in the world of nature as distinguished from the world of human beings
+
+### Early printed edition  
+
+That the Natural History was well known as a whole at Early least by the close of the middle ages is shown by the numerous editions, some of them magnificently printed, which were turned off from the Italian presses immediately after the invention of printing. In the Magliabechiano Library of Florence alone are editions printed at Venice in 1469 and 1472, at Rome in 1473 and Parma in 1481, again at Venice in 1487, 1491, and 1499, not to mention Italian translations which appeared at Venice in 1476 and 1489. [^53:1]  
+
+ [^53:1]: Fossi, _Catalogus codicum saeculo XV impressorum qui in publico Bibliotheca Magliabechiana Florentiae adservantur_, 1793- 1795, II, 374-81.
+
+These editions were accompanied by some published criticism of Pliny's statements, since in 1492 appeared at Ferrara a treatise _On the Errors of Pliny and Others in Medicine_ by Nicholas Leonicenus of Vicenza with a dedication to Politian. [^53:2]   
+
+ [^53:2]: _De erroribus Plinii et aliorum in medicina_, Ferrara, 1492. 
+
+But two years later Pliny found a defender in Pandulph Collenucius. [^53:3]  
+
+But Pliny's future influence will come out repeatedly in later chapters. We shall now inquire, first, what signs of experimental science he shows, either derived from the past or added by himself.   
+Second, what he defines as magic and what he has to say about it.   
+Third, how much of what he supposes to be natural science must we regard as essentially magic? 
+
+ [^53:3]: Pliniana defensio, 1494. 
+
+## II Its Experimental Tendency 
+
+### Importance of observation and experience 
+
+It is probably only a coincidence that two medieval manuscripts close the _Natural History_ in the midst of the seventysixth chapter of the last book with the words, "_Experimenta tion and plurihus modis constant . . . Primum pondere_" [^53:4] 
+
+ [^53:4]: Escorial Q-I-4, and R-I-5, both  of the 14th century. 
+
+But although from the very nature of his work Pliny makes extensive use of authorities, he not infrequently manifests a realization, as one dealing with the facts of nature should, of the importance of observation and experience as means of reaching the truth. The claims of many Romans of high rank to have carried their arms as far as Mount Atlas, which Pliny declares has been repeatedly shown by experience to be most fallacious, leads him to the further reflection that nowhere is a lapse of one's credulity easier than where a dignified author supports a false statement. [^54:1] 
+
+ [^54:1]: NH, V, I, 12.
+
+In other passages he calls experience the best teacher in all things, [^54:2] and contrasts unfavorably garrulity of words and sitting in schools with going to solitudes and seeking herbs at their appropriate seasons. 
+
+ [^54:2]: XXVI, 6, "usu efficacissimo rerum omnium magistro" ; XVII, 2, 12, "quare experimentis optime creditur."  
+
+That upon our globe the land is entirely surrounded by water does not require, he says, investigation by arguments, but is now known by experience. [^54:3]  
+
+ [^54:3]: II, 66. 
+
+And if the salamander really extinguished fire, it would have been tried at Rome long ago. [^54:4] 
+
+ [^54:4]: XXIX, 23.
+
+On the other hand, we find some assertions in the _Natural History_ which Pliny might easily have tested himself and found false, such as his statement that an egg-shell cannot be broken by force or any weight unless it is tipped a little to one side. [^54:5] 
+
+ [^54:5]: XXIX, 11 
+
+Sometimes he gives his personal experience, [^54:6] but also mentions experience in many other connections. 
+
+ [^54:6]:  XXV 54, coramque nobis; XXV, 106, "nos earn Romanis experimentis per usus digeremus."
+
+### Use of the word experimentum
+
+The word employed most of the time by Pliny to denote the word experience is experimentum [^54:7]  
+
+ [^54:7]: Sometimes another term, as usus in note 2 above, is employed.
+
+In many passages word does not indicate anything like a purposive, prearranged, scientific experiment in our sense of that word, but simply the ordinary experience of daily life. [^54:8] 
+
+ [^54:8]: "See II. 41, 1-2; II, 108; VII,  41; VII, 56; VIII, 7; XIV, 8; XVI, 1; XVI, 64; XVII, 2; XVII, 35; XXII, 1; XXII, 43; XXII, 49; XXII, 51; XXV, 7; XXXIV, 39 and 51. Experience is also the idea in the two following passages,  although the word experimentum could not smoothly be rendered as "experience" in a literal translation, VII, 50, "Accedunt experimenta et exempla recentissimi  census . . ."; XXVIII, 45, "Nec  uros aut bisontes habuerunt Graeci in experimentis." 
+
+We are also told what experti, [^54:9] or men of experience, advise. In a number of passages, however, _experimentum_ is used in a sense somewhat more closely approaching our "experiment."   
+
+ [^54:9]: XVI, 24; XXII, 57; XXVI, 60.
+
+These are cases where something is being tested. For instance, a method of determining whether an egg is fresh or rotten by putting it in water and watching if it floats or sinks is called _an experimentiim_. [^55:1]  
+
+ [^55:1]: X, 75.
+
+That horses would whinny at no other painting of a horse than that by Apelles is spoken of as _illius experimentum artis_, a test of, or testimony to, his art." [^55:2]
+
+ [^55:2]: XXXV, 30. 
+
+The expression _religionis experimento_ is applied to a religious test or ordeal by which the virginity of Claudia was vindicated. [^55:3]  
+
+ [^55:3]: VII, 35.
+
+The word is also used of ways of telling if unguents are good [^55:4] 
+
+ [^55:4]: XII, 3.
+
+and if wine is beginning to tum; [^55:5] 
+
+ [^55:5]: XIV, 25.
+
+and of various tests of the genuineness of drugs, gems, earths, and metals. [^55:6] 
+
+ [^55:6]: XVII, 4; XX, 3 and 76; XXII, 23; XXIX, 12; XXXIII, 19 and 48 : XXXVI, 38 and 55 ; XXXVII, 22 and 76; such phrases as sinceri  experimentium and veri experimentum are used for "test of genuineness." 
+
+It is also twice used of letting down a lighted lamp into a huge wine cask or into wells to discover if there is danger at the bottom from noxious vapors. [^55:7] If the lamp was extinguished, it was a sign of peril to human life. 
+
+ [^55:7]: XXIII, 31; XXXI, 28.
+
+Pliny further suggests purposive experimentation in speaking of experimenta to discover water under ground [^55:8] 
+
+ [^55:8]: XXXI, 27.
+
+and in grafting trees. [^55:9] 
+
+ [^55:9]: XVII, 26.
+
+### Experiments due to scientific curiosity 
+   
+Most of the tests and experiences thus far mentioned  been practical operations connected with husbandry and industry. But Pliny recounts one or two others which seem to have been dictated solely by scientific curiosity. He classifies the following as _experimenta_: [^55:10]  
+
+ [^55:10]: II, 75.
+
+ - the sinking of a well to prove by its complete illumination that the sun casts no shadow at noon of the summer solstice;  
+
+ - the marking of a dolphin's tail in order to throw some light upon its length of life, should it ever be captured again, as it was three hundred years later-perhaps the experiment of longest duration on record; [^55:11] and  
+ 
+  [^55:11]: IX, 7.
+
+ - the casting of a man into a pit of serpents at Rome to determine if he was really immune from their stings. [^56:1]   
+
+  [^56:1]: XXVII, 6.
+
+### Medical experimentation 
+
+_Experimentum_ is employed by Pliny in a medical sense which becomes very common in the middle ages. He calls some remedies for toothache and inflamed eyes _certa experimenta_, sure experiences. [^56:2]  
+
+ [^56:2]: XXXVIII, 14.
+
+Later _experimentum_ came to be applied to almost any recipe or remedy. Pliny, indeed, speaks of the doctors as learning at our risk and getting experience through our deaths. [^56:3] 
+
+ [^56:3]: XXIX, 8. "Discunt periculis nostris et experimenta per mortes agunt." Bostock and Riley translate the last clause, "And they experimentalize by putting us to death." Another possible translation is, "And their experiments cost lives." 
+
+In another passage he states more favorably that 
+
+> "there is no end to experimenting with everything so that even poisons are forced to cure us." [^56:4]  
+
+ [^56:4]: XXV, 17. ". . . adeo nullo omnia experiendi fine ut cogerentur etiam venena prodesse." 
+
+He also briefly mentions the medical sect of Empirics, of whom we shall hear more from Galen. He says that they so name themselves from experiences [^56:5] and originated at Agrigentum in Sicily under Acron and Empedocles. 
+
+ [^56:5]: XXIX, 4 "... ab experimentis se cognominans empiricen." 
+
+### Chance experience and divine revelation  
+
+Pliny is puzzled how some things which he finds stated in "authors famous for wisdom" were ever learned by experience, for example, that the star-fish has such fiery fervor that it burns everything in the sea which it touches, and digests its food instantly. [^56:6] 
+
+ [^56:6]: IX, 86.
+
+That adamant can be broken only by goat's blood he thinks must have been divinely revealed, for it would hardly have been discovered by chance, and he cannot imagine that anyone would ever have thought of testing a substance of immense value in a fluid of one of the foulest of animals. [^56:7] 
+
+ [^56:7]: XXXVII, 15.
+
+In several other passages he suggests chance, accident, dreams, [^56:8] or divine revelation as the ways in which the medicinal virtues of certain simples were discovered. 
+
+ [^56:8]: According to Galen, as we shall hear later, the Empirics relied a good deal upon chance experience and dreams.
+
+Recently, for example, it was discovered that the root of the wild rose is a remedy for hydrophobia by the mother of a soldier in the praetorian guard, who was warned in a dream to send her son this root, which cured him and many others who have tried it since. [^57:1]  
+
+ [^57:1]: XXV, 6.
+
+And a soldier in Pompey's time accidentally discovered a cure for elephantiasis when he hid his face for shame in some wild mint leaves. [^57:2]  
+
+ [^57:2]: XX, 52.
+
+Another herb was accidentally found to be a cure for disorders of the spleen when the entrails of a sacrificial victim happened to be thrown on it and it entirely consumed the milt. [^57:3]  
+
+ [^57:3]: XXV, 20.
+
+The healing properties of vinegar for the sting of the asp were discovered by chance in this wise. A man who was stung by an asp while carrying a leather bottle of vinegar noticed that he felt the sting only when he set the bottle down. [^57:4]  
+
+ [^57:4]: XXIII, 27.
+
+He therefore decided to try the effects of a drink of the liquid and was thereby fully cured. [^57:5]   
+
+ [^57:5]: Among other virtues of vinegar, besides its supposed property of breaking rocks, Pliny mentions that if one holds some in the mouth, it will prevent one from  feeling the heat in the baths.
+
+Other remedies are learned through the experience of rustics and illiterate persons, and yet others may be discovered by observing animals who cure their ills by them. [^57:6]   
+Pliny's opinion is that the animals have hit upon them by chance. 
+
+ [^57:6]: XXV, 6 and 21 and 50; XXVII, 2.  
+
+### Marvels proved by experience 
+
+Pliny represents a number of marvelous and to us incredible things as proved by experience. Divination from thunder, for instance, is supported by innumerable experiences, public and private. In two passages out of the three mentioning _experti_ which I cited above, those experienced persons recommended a decidedly magical sort of procedure. [^57:7]  
+
+ [^57:7]: XVI, 24; XXVI, 60. 
+
+In another passage "the experience of many" supports "a strange observance" in plucking a bud. [^57:8] 
+
+ [^57:8]: XXIII, 59. 
+
+A fourth bit of magical procedure is called "marvelous but easily tested." [^57:9]  
+Thus the transition is an easy one from signs of experimental science in the Natural History to our next topic, Pliny's account of magic. 
+
+ [^57:9]: XXVIII, 7. 
+
+## III Account of Magic 
+
+### Oriental origin of magic  
+
+Pliny supplies some account of the origin and spread of magic [^58:1] but a rather confused and possibly unreliable one, as he mentions two Zoroasters separated by an interval of five or six thousand years, and two Osthaneses, one of whom accompanied Xerxes, and the other Alexander, in their respective expeditions. He says, indeed, that it is not clear whether one or two Zoroasters existed. In any case magic has flourished greatly the world over for many centuries,  
+Some other magicians of Media, Babylonia, and Assyria are mere names to Pliny; later he mentions others like Apollobeches and Dardanus.  
+Although he thus derives magic from the orient, he appears to make no distinction, as we shall find other writers doing, between the _Magi_ of Persia and ordinary magicians, nor does he employ the word magic in two senses. He makes it evident, however, that there have been other men who have regarded magic more favorably than he does.  
+
+ [^58:1]: In the opening chapters of Book XXX, unless otherwise indicated by specific citation.
+
+### Its spread to the Greeks
+
+Pliny next traces the spread of magic among the Greeks.  
+He marvels at the lack of it in the Iliad and the abundance of it in the Odyssey. He is uncertain whether to class Orpheus as a magician, and mentions Thessaly as famous for its witches at least as early as the time of Menander who named one of his comedies after them.   
+But he regards the Osthanes who accompanied Xerxes as the prime introduced of magic to the Greek-speaking world, which straightway went mad over it. In order to learn more of it, the philosophers Pythagoras, Empedocles, Democritus, and Plato went into distant exile and on their return disseminated their lore.   
+Pliny regards the works of Democritus as the greatest single factor in that dissemination of the doctrines of magic which occurred at about the same time that medicine was being developed by the works of Hippocrates. Some regarded the books on magic ascribed to Democritus as spurious, but Pliny insists that they are genuine. [^59:1] 
+
+ [^59:1]: Aulus Gellius, X, 12, and Columella, VII, 5, dispute this (Bouché-Leclercq, _L’Astrologie grecque_, p. 519). Berthelot (Origines de l'alchimie, p. 145) believes in a Democritan school at the beginning of the Christian era which wrote the works of alchemy attributed to Democritus as well as the books of medical and magical recipes which are quoted in the Geoponica and the Natural History.
+
+### Its spread outside the Graeco Roman world  
+
+Outside of the Greek-speaking world, whence of course magic spread to Rome, Pliny mentions Jewish magic, represented by such names as Moses, Tannes, and Lotapes. But he holds that magic did not originate among the Hebrews until long after Zoroaster. He also speaks of the magic of Cyprus; of the Druids, who were the magicians, diviners, and medicine men of Gaul until the emperor Tiberius suppressed them; and of distant Britain. [^59:2]    
+Thus discordant nations and even those ignorant of one another's existence agree the world over in their devotion to magic. From what Pliny tells us elsewhere of the Scythians we can see that the nomads of the Russian steppes and Turkestan were devoted to magic too. 
+
+ [^59:2]: XVI, 95. 
+
+### Failure to understand its true origin
+
+It has been shown that Pliny regarded magic as a mass  of doctrines formulated by a single founder and not as a gradual social evolution, just as the Greeks and Romans ascribed their laws and customs to some single legislator.  
+He admits in a way, however, the great antiquity claimed by magic for itself, although he questions how the bulky dicta of Zoroaster and Dardanus could have been handed down by memory during so long a period. This remark again shows how little he thinks of magic as a set of social customs and attitudes perpetuated through constant and universal practice from generation to generation. Yet what he says of its widespread prevalence among unconnected peoples goes to prove this.  
+
+### Magic and divination  
+
+Pliny has a clearer comprehension of the extensive scope of magic and of its essential characteristics, at least as it was in his day. 
+
+> "No one should wonder," he says, "that its authority has been very great, since alone of the arts it has embraced and united with itself the three other subjects which make the greatest appeal to the human mind," 
+
+namely, medicine, religion, and the arts of divination, especially astrology.   
+That his phrase _artes mathematicas_ has reference to astrology is shown by his immediately continuing, 
+
+> "since there is no one who is not eager to learn the future about himself and who does not think that this is most truly revealed by the sky."  
+
+But magic further 
+
+> "promises to reveal the future by water and spheres and air and stars and lamps and basins and the blades of axes and by many other methods, besides conferences with shades from the infernal regions." 
+
+There can therefore be no doubt that Pliny regards the various arts of divination as parts of magic.  
+
+### Magic and religion
+
+While we have heard Pliny assert in general the close connection between magic and religion, the character of the _Natural History_, which deals with natural rather than religious matters, does not lead him to enter into much further detail upon this point. His occasional mention of religious usages in his own day, however, supports our information from other sources that the original Roman religion was very largely composed of magic forces, rules, and ceremonial.  
+
+### Magic and medicine 
+
+Nearly half the books of the _Natural History_ deal in whole or in part with remedies for diseases, and it is therefore of the relations between magic and natural science, and more particularly between magic and medicine, that Pliny gives us the most detailed information. Indeed, he asserts that 
+
+> "no one doubts" that magic "originally sprang from medicine and crept in under the show of promoting health as a loftier and more sacred medicine."  
+
+Magic and medicine have developed together, and the latter is now in imminent danger of being overwhelmed by the follies of magic, which have made men doubt whether plants possess any medicinal properties.  
+
+### Magic and philosophy
+
+In the opinion of many, however, magic is sound and beneficial learning. In antiquity, and for that matter at almost all times, the height of literary fame and glory has been sought from that science. [^61:1]   
+Eudoxus would have it the most noted and useful of all schools of philosophy.  
+Empedocles and Plato studied it; Pythagoras and Democritus perpetuated it in their writings.  
+
+ [^61:1]: XXX, 2. ". . . quamquam animadverto summam litterarum claritatem gloriamque ex ea scientia antiquitus et paene semper petitam."  
+
+### Falseness of magic
+
+But Pliny himself feels that the assertions of the books  of magic are fantastic, exaggerated, and untrue.  
+He repeatedly brands the _magi_ or magicians as fools or impostors, and their statements as absurd and impudent tissues of lies. [^61:2]  
+
+ [^61:2]: Examples are: XXV, 59, Sed magi utique circa banc insaniunt; XXIX, 20 "magorum mendacia"; XXXVII, 60. "magorum impudentiae vel manifestusum...exemplum; XXXVII, 73, "dira mendacia magorum."
+
+Vanitas, or "nonsense," is his stock-word for their beliefs. [^61:3] 
+
+ [^61:3]: See XXII, 9; XXVII, 65; XXVIII, 23 and 27; XXIX, 26; XXX, 7; XXXVII, 14.
+
+Some of their writings must, in his opinion, have been dictated by a feeling of contempt and derision for humanity. [^61:4] 
+
+ [^61:4]: XXXVII, 40.
+
+Nero proved the falseness of the art, for although he studied magic eagerly and with his unlimited wealth and power had every opportunity to become a skilful practitioner, he was unable to work any marvels and abandoned the attempt. [^61:5] 
+
+ [^61:5]: XXX, 5-6.
+
+Pliny therefore comes to the conclusion that magic is "invalid and empty, yet has some shadows of truth, which however are due more to poisons than to magic." [^61:6] 
+
+ [^61:6]: "Proinde ita persuasum sit, intestabilem, inritam, innanem essel habentem tamen quasdqm veritatis umbras, sed in his veneficas artis poliere, non magicas. 
+
+### Crimes of magic
+
+The last remark brings us to charges of evil practices made against the magicians. Besides poisons, they specialize in love-potions and drugs to produce abortions; [^61:7]  and some of their operations are inhuman or obscene and abominable.  
+
+ [^61:7]: XXV, 7.
+
+They attempt baleful sorcery or the transfer of disease from one person to another. [^61:8]  
+
+ [^61:8]: XXVIII, 23.
+
+Osthanes and even Democritus propound such remedies as drinking human blood or utilizing in magic compounds and ceremonies parts of the corpses of men who have been violently slain. [^61:9]
+
+ [^61:9]: XXVII, 2.
+
+Pliny thinks that humanity owes a great debt to the Roman government for abolishing those monstrous rites of human sacrifice, "in which to slay a man was thought most pious; nay more, to eat men was thought most wholesome." [^62:1] 
+
+ [^62:1]: XXX, 4.
+
+### Censure of magic is mainly intellectual 
+
+Pliny nevertheless lays less stress upon the moral argument against magic as criminal or indecent than he does upon the intellectual objection to it as untrue and unscientific.  
+Indeed, so far as decency is concerned, his own medicine will be seen to be far from prudish, while he elsewhere gives instances of magicians guarding against defilement. [^62:2] 
+
+ [^62:2]: XXVIII, 19; XXX, 6
+
+Moreover, among the methods employed and the results sought by magic which he frequently mentions there are comparatively few that are morally objectionable, although they seem without exception false. But many of their recipes aim at the cure of disease and other worthy, or at least admissible, objects.  
+Possibly Pliny has somewhat censored their lore and tried to exclude all criminal secrets, but his censure seems more intellectual than moral. For instance, he fills a long chapter with extracts from a treatise on the virtues of the chameleon and its parts by Democritus, whom he regards as a leading purveyor of magic lore. [^62:3] In opening the chapter Pliny hails "with great pleasure" the opportunity to expose "the lies of Greek vanity," but at its close he expresses a wish that Democritus himself had been touched with the branch of a palm which he said prevents immoderate loquacity.  
+Pliny then adds more charitably, 
+
+> "It is evident that this man, who in other respects was a wise and most useful member of society, has erred from too great zeal in serving humanity." 
+
+ [^62:3]: XXVII, 29.
+
+### Vagueness of Pliny scepticism 
+
+Pliny himself fails to maintain a consistently sceptical attitude towards magic. His exact attitude is often hard to determine.   
+Often it is difficult to say whether he is speaking in sober earnest or in a tone of light and easy pleasantry and sarcasm, as in the passage just cited concerning Democritus.  
+Another puzzling point is his frequent excuse that he will list certain assertions of the magicians in order to expose or confute them. But really he usually simply sets them forth, apparently expecting that their inherent and patent absurdity will prove a sufficient refutation of them.   
+On the rare occasions when he undertakes to indicate in what the absurdity consists his reasoning is scarcely scientific or convincing. Thus he affirms that 
+
+> "it is a peculiar proof of the vanity of the magicians that of all animals they most admire moles who are condemned by nature in so many ways, to perpetual blindness and to dig in the darkness as if they were buried." [^63:1] 
+
+ [^63:1]: XXX, 7.
+
+And he assails the belief of the magi [^63:2] that an owl's egg is good for diseases of the scalp by asking, 
+
+ [^63:2]: XXIX, 26.
+
+> "Who, I beg, could ever have seen an owl's egg, since it is a prodigy to see the bird itself?" 
+
+Moreover, he sometimes cites assertions of the magicians without any censure, apology, or expression of disbelief; and there are many other passages where it is practically impossible to tell whether he is citing the magicians or not. Sometimes he will apparently continue to refer to them by a pronoun in chapters where they have not been mentioned by name at all. [^63:3] 
+
+ [^63:3]: For instance, XXX, 27, he mentions the magi, but not in XXX, 29; but in XXX, 30; "plura eorum remedia ponemus" seems to refer to them, although  we must look back three chapters for the antecedent of corum.
+
+In other places he will imperceptibly cease to quote the magi and after an interval perhaps as imperceptibly resume citation of their doctrines. [^63:4]   
+It is also difficult to determine just when writers like Democritus and Pythagoras are to be regarded as representatives of magic and when their statements are accepted by Pliny as those of sound philosophers. 
+
+ [^63:4]: XXXVII, 14; he says that he is going to confute "the unspeakable nonsense of the magicians" concerning gems, but makes no specific citation from them until the thirty-seventh chapter on jasper.
+
+### Magic and science indistinguishable
+
+Perhaps, despite Pliny's occasional brave efforts to withstand and even ridicule the assertions of the magicians, he science could not free himself from a secret liking for them and more than half believed them. At any rate he believed very similar things. Even more likely is it that previous works on nature were so full of such material and the readers of his own day so interested in it, that he could not but include much of it. Once he explains [^64:1] that certain statements are scarcely to be taken seriously, yet should not be omitted, because they have been transmitted from the past. Again he begs the reader's indulgence for similar 
+
+ [^64:1]: XXX, 47.
+
+> "vanities of the Greeks," "because this too has its value that we should know whatever marvels they have transmitted." [^64:2]  
+
+ [^64:2]: XXXVII, 11.
+
+The truth of the matter probably is that Pliny rejected some assertions of the magicians but found others acceptable; that he gets his occasional attitude of scepticism and ridicule of their doctrines from one set of authorities, and his moments of unquestioning acceptance of their statements from other authors on whom he relies. Very likely in the books which he used it often was no clearer than it is in the _Natural History_ whether a statement was to be ascribed to the magi or not. Very possibly Pliny was as confused in his own mind concerning the entire business as he seems to be to us.  
+He could no more keep magic out of his _Natural History_  than poor Mr, Dick could keep Charles the First's head out of his book. One fact at any rate stands out clearly, the prominence of magic in his encyclopedia and in the learning of his age. 
+
+## IV The Science of the Magi
+
+### Magicians as investigators of nature
+
+Let us now further examine Pliny's picture of magic, not as he expressly defines or censures it, but as he reflects its own assertions and purposes in his fairly numerous citations from its literature and perhaps its practice. Here I shall rather strictly limit my survey to those statements which Pliny definitely ascribes by name to the magi or magic art.    
+The most striking fact is that the magicians are cited again and again concerning the supposed properties, virtues, and effects of things in nature-herbs, animals, and stones.   
+These virtues are, it is true, often employed in an effort to produce wonderful results, and often too they are combined with some fantastic rite or superstitious ceremonial performed by a human agent. But in many cases either no rite at all is suggested or merely some simple medicinal application; and in a few cases there is no mention of any particular operation or result, the magicians are cited simply as authorities concerning the great but unspecified virtues of natural objects. Indeed, they stand out in Pliny's pages not as mere sorcerers or enchanters or wonder-workers, but as those who have gone the farthest and in most detail - too far and too curiously in Pliny's opinion - into the study of medicine and of nature. Sometimes their statements, cited without censure, supplement others concerning the species under discussion; [^65:1] 
+
+ [^65:1]: XX, 30; XXI, 38, 94, 104; XXII, 24, 29. 
+
+sometimes they are his sole source of information on the subject in hand. [^65:2] 
+
+ [^65:2]: XXI, 36; XXIV, 99. 
+
+### The magi of herbs 
+
+Pliny connects the origin of botany rather closely with magic, mentioning Medea and Circe as early investigators  of plants and Orpheus among the first writers on the subject. [^65:3]   
+
+ [^65:3]: XXV, 5.
+
+Moreover, Pythagoras and Democritus borrowed from the _magi_ of the orient in their works on the properties of plants. [^65:4]  
+
+ [^65:4]: XXIV, 99-102.
+
+There would be little profit in repeating the names of the herbs concerning which Pliny gives opinions of the magicians, inasmuch as few of them can be associated with any plants known to-day. [^65:5]  
+
+ [^65:5]: See XX, 30; XXI, 36, 38, 94, 104; XXII, 9, 24, 29; XXIV, 99, 102; XXV, 59, 65, 80-81; XXVI, 9
+
+Suffice it to say that Pliny makes no objection to the herbs which they employed. Nor does he criticize their methods of employing them, although some seem superstitious enough to the modern reader. A chaplet is worn of one herb, [^65:6] 
+
+ [^65:6]: XXI, 38.
+
+others are plucked with the left hand and with a statement of what they are to be used for, and in one case without looking backward. [^65:7]  
+
+ [^65:7]: XXI, 104; XXII, 24.
+
+The anemone is to be plucked when it first appears that year with a statement of its intended use, and then is to be wrapped in a red cloth and kept in the shade, and, whenever anyone falls sick of tertian or quartan fever, is to be bound on the patient's body. [^65:8] 
+
+ [^65:8]: XXI, 94.
+
+The heliotrope is not to be plucked at all but tied in three or four knots with a prayer that the patient may recover to untie the knots. [^66:1] 
+
+ [^66:1]: XXII, 29.
+
+### Marvelous virtues of herbs 
+
+Pliny does not even object to the marvelous results which the _magi_ think can be gained by use of herbs until towards the close of his twenty-fourth book, although already in his twentieth and twenty-first books such powers have been claimed for herbs as to make one well-favored and enable one to attain one's desires, [^66:2] 
+
+ [^66:2]: XX, 30.
+
+or to give one grace and glory. [^66:3]   
+
+ [^66:3]: XXI, 38.
+
+At the end of his twenty-fourth book [^66:4] he states that Pythagoras and Democritus, following the magi, ascribe to herbs unusually marvelous virtues such as to freeze water, invoke spirits, force the guilty to confess by frightening them with apparitions, and impart the gift of divination. 
+
+ [^66:4]: XXIV, 99 and 102.
+
+Early in his twenty-fifth book [^66:5] Pliny suggests that some incredible effects have been attributed to herbs by the magi and their disciples, 
+
+ [^66:5]: XXV, 5.
+
+and in a later chapter [^66:6] he describes the magi as so mad about vervain that they think that if they are anointed with it, they can gain their wishes, drive away fevers and other diseases, and make friendships. The herb should be plucked about the rising of the dog-star when there is neither sun nor moon.  
+Honey and honeycomb should be offered to appease the earth; then the plant should be dug around with iron with the left hand and raised aloft. By the time he reaches his twenty-sixth book Pliny's courage has risen, so to speak, enough to cause him at last to enter upon quite a tirade against 
+
+  [^66:6]: XXV, 59.
+
+> "magical vanities which have been carried so far that they might destroy faith in herbs entirely." [^66:7]  
+
+ [^66:7]: XXVI, 9.
+
+As examples he mentions herbs supposed to dry up rivers and swamps, open barred doors at their touch, turn hostile armies to flight, and supply all the needs of the ambassadors of the Persian kings. He wonders why such herbs have never been employed in Roman warfare or Italian drainage.   
+Pliny's only objection to magic herbs therefore seems to be the excessive powers which are claimed for some of them.   
+He adds that it would be strange that the credulity which arose from such wholesome beginnings had reached such a pitch, if human ingenuity observed moderation in anything and if the much more recent system of medicine which Asclepiades founded could not be shown to have been carried even beyond the magicians. Here again we see Pliny failing to recognize magic as a primitive social product and regarding it as a degeneration from ancient science rather than science as a comparatively modern development from it.  
+But he may well be right in thinking that many particular far-fetched recipes and rites were the late, artificial product of over-scholarly magicians. Thus he brands as false and magical the assertion of a recent grammarian, Apion, that the herb cynocephalia is divine and a safeguard against poison, but kills the man who uproots it entirely. [^67:1] 
+
+ [^67:1]: XXX, 6.
+
+ ### Animals and parts of animals.
+
+In a few cases Pliny objects to the animals or parts of animals employed by the _magi_, as in the passage already cited where he complains that they admire moles more than  other animals. [^67:2] 
+
+ [^67:2]: XXX, 7.
+
+But his assertion is inconsistent, since he has already affirmed that they hold the hyena in most admiration of all animals on the ground that it works magic upon men. [^67:3] 
+
+ [^67:3]: XXVIII, 27.
+
+Their promise of readier favor with peoples and kings to those who anoint themselves with lion's fat, especially that between the eyebrows, he criticizes by declaring that no fat can be found there. [^67:4] 
+
+ [^67:4]: XXVIII, 25.
+
+He also twits the magi for magnifying the importance of so nasty a creature as the tick. [^67:5] 
+
+ [^67:5]: XXX, 24.
+
+They are attracted to it by the fact that it has no outlet to its body and can live only seven days even if it fasts.  
+Whether there is any astrological significance in the number seven here Pliny does not say. He does inform us, however, that the cricket is employed in magic because it moves backward. [^67:6]  
+
+ [^67:6]: XXIX, 39.
+
+A very bizarre object employed by the Druids and other magicians is a sort of egg produced by the hissing or foam of snakes. [^67:7]  
+
+ [^67:7] : XXIX, 12.
+
+The blood of the basilisk may also be classed as a rarity. Apparently animals in some way unusual are preferred in magic, like a black sheep [^68:1] but the logic in the reasons given by Pliny for their selection is not clear in every instance. 
+
+ [^68:1]: XXX, 6.
+
+In some other cases not criticized by Pliny [^68:2] we have plainly enough sympathetic magic or the principle of like cures like, as when the milt of a calf or sheep is used to cure diseases of the human spleen. 
+
+  [^68:2]: XXVIII, 57; XXX, 17.
+
+### Further instances 
+
+The magicians, however, do not scorn to use familiar and easily obtainable animals like the goat and dog and cat.  
+The liver and dung of a cat, a puppy's brains, the blood and genitals of a dog, and the gall of a black male dog are among the animal substances employed. [^68:3]  
+
+ [^68:3]: Use of goat, XXVIII, 56, 63, 78-79; cat, XXVIII, 66; puppy, XXIX, 38; dog, XXX, 21. 
+
+Such substances as those just named are equally in demand from other animals. [^68:4]  
+
+ [^68:4]: XXVIII, 60, 66, 77; XXIX, 26.
+
+Minute parts of animals are frequently employed by the magicians, such as the toe of an owl, the liver of a mouse given in a fig, the tooth of a live mole, the stones from young swallows' gizzards, the eyes of river crabs. [^68:5]  
+
+ [^68:5]: XXVIII, 66; XXIX, 15; XXX, 7; XXX, 27; XXXII. 38.
+
+Sometimes the part employed is reduced to ashes, perhaps a relic of sacrificial custom. Thus for toothache the magi inject into the ear nearer the tooth the ashes of the head of a mad dog and oil of Cyprus, while they prescribe for affections of the sinews the ashes of an owl's head in honied wine with lily root. [^68:6]  
+
+ [^68:6]: XXX, 8 and 36; see also XXVIII. 60; XXXII, 19 and 24.
+
+Other living creatures which Pliny mentions as used by the magi are the salamander, earthworm, bat, scarab with reflex horns, lizard, tortoise, bed-bug, frog, and sea urchin. [^68:7]   
+
+ [^68:7]: XXIX, 23; XXX, 18, 20, 30. 49; XXXII, 14, 18, 24.
+
+The dragon's tail wrapped in a gazelle's skin and bound on with deer-sinews cures epilepsy, [^68:8] and a mixture of the dragon's tongue, eyes, gall, and intestines, boiled in oil, cooled in the night air, and rubbed on morning and evening, 
+
+ [^68:8]: XXX, 27.
+
+frees one from nocturnal apparitions. [^68:9]  
+
+ [^68:9]: XXX, 24.
+
+### Magic rites with animals and part of animals
+
+Sometimes the parts of animals are bound on outside the patient's body, sometimes the injured portion of his body  is merely touched with them. Once the whole house is to be  fumigated with the substance in question; [^69:1] once the walls are to be sprinkled with it; once it is to be buried under the and parts threshold. 
+
+ [^69:1]: XXX, 24.
+
+Some instances follow of more elaborate magic ritual connected with the use of animals or parts of animals.  
+The hyena is more easily captured by a hunter who ties seven knots in his girdle and horsewhip, and it should be captured when the moon is in the sign of Gemini and without the loss of a single hair. [^69:2]   
+
+ [^69:2]: XXVIII, 27. 
+
+Another bit of astrology dispensed by the _magi_ is that the cat, whose salted liver is taken with wine for quartan fever, should have been killed under a waning moon. [^69:3]   
+
+ [^69:3]: XXVIII, 66; and see XXIX, 12.  
+
+To cure incontinence of urine one not only drinks ashes of a boar's genitals in sweet wine, but afterwards urinates in a dog kennel and repeats the formula, "That I may not urinate like a dog in its kennel." [^69:4]   
+
+ [^69:4]: XXVIII, 60.
+
+The magicians insist that the sex of the patient be observed in administering burnt cow-dung or bull-dung in honied wine for cases of dropsy. [^69:5]   
+
+ [^69:5]: XXVIII, 68.
+
+For infantile ailments the brains of a she-goat should be passed through a gold ring and dropped in the baby's mouth before it is given its milk. [^69:6]  
+
+ [^69:6]: XXVIII, 78.
+
+After the fresh milt of a sheep has been applied to the patient with the words, "This I do for the cure of the spleen," it should be plastered into the bedroom wall and sealed with a ring, while the charm should be repeated twenty-seven times." [^69:7]   
+
+ [^69:7]: XXX, 17. 
+
+In treating sciatica [^69:8] an earthworm should be placed in a broken wooden dish mended with an iron band, the dish should be filled with water, the worm should be buried again where it was dug up, and the water should be drunk by the patient.  
+
+ [^69:8]: XXX, 18. 
+
+The eyes of river crabs are to be attached to the patient's person before sunrise and the blinded crabs put back into the water. [^69:9] 
+
+ [^69:9]: XXXII, 38.
+
+After it has been carried around the house thrice a bat may be nailed head down outside a window as an amulet. [^69:10]  
+
+ [^69:10]: XXIX, 26.  
+
+For epilepsy goat's flesh should be given which has been roasted on a funeral pyre, and the animal's gall should not be allowed to touch the ground. [^70:1]  
+ 
+ [^70:1]: XXVIII, 63.
+
+### Marvels wrought with parts of animals 
+
+Pliny occasionally speaks in a vague general way of his 
+citations from the _magi_ concerning the virtues of parts of animals as lies or nonsense or "portentous," but he does not specifically criticize their procedure any more than he did their methods of employing herbs, and he does not criticize their promised results as much as he did before.  
+Indeed, as we have already indicated, the object in a majority of cases is purely medicinal. The purpose of others is pastoral or agricultural, such as preventing goats from straying or causing swine to follow you. [^70:2]  
+
+ [^70:2]: XXVIII, 56; XXIX, 15. 
+
+The blood of the basilisk, however, is said to procure answers to petitions made to the powerful and prayers addressed to the gods, and to act as a safeguard against poison or sorcery (_veneficiorum amuleta_). [^70:3] 
+
+ [^70:3]: XXIX, 19. 
+
+Invincibility is promised the wearer of the head and tail of a dragon, hairs from a lion's forehead, a lion's marrow, the foam of a winning horse, a dog's claw bound in deerskin, and the muscles alternately of a deer and a gazelle. [^70:4]  
+
+ [^70:4]: XXIX, 20.
+
+A woman will tell secrets in her sleep if the heart of an owl is applied to her right breast, and power of divination is gained by eating the still palpitating heart of a mole. [^70:5] 
+
+ [^70:5]: XXIX, 26; XXX, 7.
+
+### The magi on stones 
+
+In the case of stones the names are again, as in the case of herbs, of little significance for us. [^70:6]   
+
+ [^70:6]: Pliny ascribes statements concerning stones to the magi in the following chapters: XXXVI, 34; XXXVII, 37, 40, 49, 51, 54, 56, 60, 70, 73. 
+
+The accompanying ritual is slight. There are one or two suspensions from the neck or elsewhere by such means as a lion's mane - the hair of the hyena will not do at all - nor the hair of the cynocephalus and swallows' feathers. [^70:7]  
+
+ [^70:7]: XXXVII, 54 and 40.
+
+There is some use of incantations with the stones, a setting of iron for one stone, burial of another beneath a tree that it may not dull the axe, and placing another on the tongue after rinsing the mouth with honey at certain days and hours of the moon in order to acquire the gift of divination. [^70:8]  
+Indeed, the results promised are all marvelous. The stones benefit public speakers, admit to the presence of royalty, counteract fascination and sorcery, avert hail, thunderbolts, storms, locusts, and scorpions; chill boiling water, produce family discord, render athletes invincible, quench anger and violence, make one invisible, evoke images of the gods and shades from the infernal regions. 
+ 
+ [^70:8]: XXXVII, 40, 60, 56, 73.
+
+### Other magical receipts
+
+We have yet to mention a group of magical recipes and other remedies which Pliny for some reason collects in one chapter [^71:1] but which hardly fall under any one head.  
+
+ [^71:1]: XXVIII, 12, "Magorum haec commenta sunt. . . ."
+
+A whetstone on which iron tools are sharpened, if placed without his knowledge under the pillow of a man who has been poisoned, will cause him to reveal all the circumstances of the crime. If you turn a man who has been struck by lightning over on his injured side, he will speak at once.  
+To cure tumors in the groin, tie seven or nine knots in the remnant of a weaver's web, naming some widow as each knot is tied.  
+The pain is assuaged by binding to the body the nail that has been trod on. To get rid of warts, on the twentieth day of the moon lie flat in a path gazing at the moon, stretch the hands above the head and rub the warts with anything that comes to hand. A corn may be extracted successfully at the moment a star shoots.   Headache may be relieved by a liniment made by pouring vinegar on door hinges or by binding a hangman's noose about the patient's temples.  
+To dislodge a fish-bone stuck in the throat, plunge the feet into cold water; to dislodge some other sort of bone, place bones on the head; to dislodge a morsel of bread, stuff bits of bread into both ears.  
+We may add from a neighboring chapter a very magical remedy for fevers, although Pliny calls it "the most modest of their promises." [^71:2]  
+Toe and finger nail parings mixed with wax are to be attached ere sunrise to another person's door in order to transfer the disease from the patient to him. Or they may be placed near an ant-hill, in which case the first ant who tries to drag one inside the hill should be captured and suspended from the patient's neck.
+
+ [^71:2]: XXVIII, 23. 
+
+### Summary of the statements of the magi 
+
+Such is the picture we derive from numerous passages in the _Natural History_ of the magic art, its materials and rites, the effects it seeks to produce, and its general attitude towards nature. Besides the natural materials employed and the marvelous results sought, we have noted the frequent  use of ligatures, suspensions, and amulets, the observe of astrological conditions, of certain times and numbers, rules for plucking herbs and tying knots, stress on the use of the right or left hand - in other words, on position or direction, some employment of incantations, some sacrifice and fumigation, some specimens of sympathetic magic, of the theory that "like cures like," and of other types of magic logic. 
+
+## V Magical Science   
+
+### From the magi to Pliny magic  
+
+We may now turn to the still more numerous passages of the _Natural History_ where the magi are not cited and compare the virtues there ascribed to the things of nature and the methods employed in medicine and agriculture with those of the magicians. We shall find many striking resemblances and shall soon come to a realization that there is more magic in the _Natural History_ which is not attributed to the magi than there is that is. Pliny did not need to warn us that medicine had been corrupted by magic; his own medicine proves it.  
+It is this fact, that virtually his entire work is crammed with marvelous properties and fantastic ceremonial, which makes it so difficult in some places to tell when he begins to draw material from the magi and when he leaves off. By a detailed analysis of this remaining material we shall now attempt to classify the substances of which Pliny makes use and the virtues which he ascribes to them, the rites and methods of procedure by which they are employed, and certain superstitious doctrines and notions which are involved. We shall thus find that almost precisely the same factors are present in his science as in the lore of the magicians.
+
+### Habitues of animals
+
+Of substances we may begin with animals [^73:1] and, before    we note the human use of their virtues with its strong suggestion of magic, may remark another unscientific and superstitious feature which was very common both in ancient and medieval times. This is the tendency to humanize animals, ascribing to them conscious motives, habits, and ruses, or even moral standards and religious veneration. We shall have occasion to note the same thing in other authors and so will give but a few specimens from the many in the Natural History. 
+
+ [^73:1]: Some works upon animals in antiquity and Greece are:   
+ Aubert und Wimmer, _Aristoteles Thierkunde_, 2 vols., Leipzig, 1868.  
+Baethgen, _De vi et significatione galli in religione et artibus Graecorum et Romanorum_, Diss. Inaug., Gottingen, 1887.  
+Bernays, Theophrasis Schrift &uuml;ber Frommigkeit.  
+Bikelas,O., _La nomenclature de la Faune grecque_, Paris, 1879.  
+Billerbeck, _De locis nonnullis Arist. Hist. Animal. difficilioribus_, Hildesheim, 1806.  
+Dryoff,A., Die Tierpsychologie des Plutarchs, Progr. W&uuml;rzburg, 1897.  
+_&Uuml;ber die stoische Tierpsychologie_, in Bl. f. bayr. Gymn., 23 (1897) 399ff.; 34 (1898) 416.   
+Erhard, _Fauna der Cykladen_, Leipzig, 1858.  
+Fowler,W.W., _A Year with the Birds_, 1895.  
+Hopf,L., _Thierorakel und Orakelthiere in alter und neuer Zeit_, Stuttgart, 1888.   
+Hopfner,T., _Der Tierkult der alten Aegypter nach den griechisch- romischen Berichten und den unchtigen Denkm&auml;lern_, in Denkschr. d. Akad. Wien, 1913, ii Abh.  
+Imhoof-Blumer, F., und Keller,O., _Tier- und Pflanzenbilder auf M&uuml;nzen und Gemmen des klassischen Altertums_. illustrated, 1889   
+Keller,O., _Thiere des class. Altertums_.   
+Kr&uuml;per, _Zeiten des Gehens und Kommens und des Br&uuml;tens der V&ouml;gel in Griechenland und lonien_, in Mommsen's Griech. Jahreszeiten, 1875.   
+K&uuml;ster,E., _Die Schlange in der griechischen Kunst und Religion_, Giessen, 1913.   
+Lebour, _Zoologist_, 1866.   
+Lewysohn, _Zoologie des Talmuds_.   
+Lindermayer, A., _Die V&ouml;gel Griechenlands_, Passau, i860.  
+Locard, _Histoire des mollusques dans I'antiquite_, Lyon, 1884.  
+Lorenz, _Die Taube im Alterthutne_, 1886.  
+Marx,A., _Griech. M&auml;rchen von dankbaren Tieren_, Stuttgart, 1889,   
+M&uuml;hle, H. v. d., _Beitrdge sur Ornithologie Griechenlands_, Leipzig, 1844.  
+Sundevall, _Thierarten des Aristoteles_, Stockholm, 1863.  
+Thompson, D'Arcy W., _A Glossary of Greek Birds_, 1895. Aristotle as a Biologist, 1913. Also the notes to his translation of the Historia animalium.  
+Westermarck, E., _The Origin and Development of Moral Ideas_, I (1906) 251-60, gives further bibliography on the subjects of animals as witnesses and the puni:. hment of animal culprits.
+
+Such qualities are attributed by Pliny especially to elephants, whom he ranks next to man in intelligence, and whom he represents as worshiping the stars, learning difficult tricks, and as having a sense of justice, feeling of mercy, and so on. [^74:1]   
+
+ [^74:1]: VIII, 1-12.
+
+Similarly the lion has noble courage and a sense of gratitude, while the lioness is wily in the devices by which she conceals her amours with the pard. [^74:2]   
+
+ [^74:2]: VIII, 17-21.
+
+A number of the devices of fishes to escape hooks and nets are repeated by Pliny from Ovid's _Haliciiticon_, extant only in fragments. [^74:3]   
+
+ [^74:3]: XXXII, 5.
+
+The crocodile opens its jaws to have its teeth picked by a friendly bird; but sometimes while this operation is being performed the ichneumon "darts down its throat like a javelin and eats away its intestines." [^74:4]   
+
+ [^74:4]: VIII, 37.
+
+Pliny also marvels at the cleverness displayed by the dragon and the elephant in their combats with one another, [^74:5]  which, however, almost invariably terminate fatally to both combatants, the elephant falling exhausted in the dragon's coils and crushing the serpent by its weight. Others say that in the hot summer the dragons thirst for the blood of the elephant which is very cold; in their combat the elephant falls drained of its blood and crushes the dragon who is intoxicated by the same.  
+
+ [^74:5]: VIII, 11 - 12.
+
+### Remedies discovered by animals  
+
+The dragon's apparent knowledge that the elephant is cold-blooded leads us to a kindred topic, the remedies used by animals and often discovered by men only by seeing animals use them. This notion continued in the middle ages, as we shall see, and of course it did not originate with Pliny. As he says himself, 
+
+> "The ancients have recorded the remedies of wild beasts and shown how they are healed even when poisoned." [^74:6]   
+
+ [^74:6]: XXVII, 2; XVIII, 1.
+
+Against aconite the scorpion eats white hellebore as an antidote, while the panther employs human excrement. [^74:7]
+
+ [^74:7]: XXVII, 2; VIII, 41
+
+Animals prepare themselves for combats with poisonous snakes by eating certain herbs; the weasel eats rue, the tortoise and deer use two other plants, while field mice who have been stung by snakes eat _condrion_. [^74:8] 
+
+ [^74:8]: XX, 51 and 61; XXII, 37 and 45. 
+
+The hawk tears open the hawkweed and sprinkles its eyes with the juice. [^74:9]  
+
+ [^74:9]: XX, 26.
+
+The serpent tastes fennel when it sheds its old skin, [^75:1]
+
+ [^75:1]: VIII, 41; XX, 95. 
+
+Sick bears cure themselves by a diet of ants. [^75:2] 
+
+ [^75:2]: XXIX, 39. 
+
+Swallows restore the sight of their young with chelidonia or swallow wort, [^75:3] 
+
+ [^75:3]: XXV, 50.
+
+and the historian Xanthus says that the dragon restores its dead offspring to life with an herb called _balis_  [^75:4]   
+
+ [^75:4]: XXV, 5.
+
+The hippopotamus was the original discoverer of bleeding, [^75:5] opening a vein in his leg by wounding himself on sharp reeds along the shore, 
+
+ [^75:5]: VIII, 40; XXVIII, 31.
+
+and afterwards checking the flow of blood by plastering the place with mud. [^75:6]  
+
+ [^75:6]: For further remedies used by animals see VIII, 41; XXIX, 14, 38; XXV, 52-53; XXVIII, 81. 
+
+Pliny, however, states in one passage that animals hit upon all these remedies by chance and even have to rediscover them by accident in each new case, "since," he continues in conformity with recent animal psychologists, "reason and practice cannot be transmitted between wild beasts."  [^75:7]
+
+ [^75:7]: XXVII, 2. ". . . quod certe casu repertum quis dubitet et quotiens fiat etiam nunc ut novom nasci quoniam feris ratio et usus inter se tradi non possit?" Perhaps Pliny would have denied the inheritance of acquired characteristics. 
+
+### Jealousy of animals   
+
+Yet in another passage Pliny deplores the spite fulness of the dog which, while men are looking, will not pluck the herb by which it cures itself of snakebite. [^75:8]  
+
+ [^75:8]: XXV, 51.
+
+Probably Pliny is using different authorities in the two passages.  
+Theophrastus, the pupil of Aristotle, had written a work on _Jealous Animals_. More excusable than the spitefulness of the dog is the attitude of the dragon, from whose brain the gem draconitis must be taken while the dragon is alive and preferably asleep. For if the dragon feels that it is mortally wounded, it takes revenge by spoiling the gem. [^75:9] 
+
+ [^75:9]: XXXVII, 57.
+
+Elephants know that men hunt them only for their tusks, and so bury these when they fall off. [^75:10]
+
+ [^75:10]: VIII, 4.
+
+### Occult virtues of animals
+
+Animals have marvelous virtues of their own other than the medicinal uses to which men have put them. For instance, the mere glance of the basilisk is fatal, and its breath burns up vegetation and breaks rocks. [^75:11]  
+
+ [^75:11]: VIII, 33. 
+
+But the medicinal effects which Pliny ascribes to animals and parts of animals are well nigh infinite. Many animal substances will have to be introduced in other connections so that we need mention now but a very few: the heads and blood of flies, honey in which bees have died, _cinere genitalis asini_ , chicks in the egg, and thrice seven centipedes diluted with Attic honey, [^76:1] - this last a prescription for asthma and to be taken through a reed because it blackens every dish by its contact.
+
+ [^76:1]: XXIX, 34; XXX, 10, 19; XXVIII, 46; XXIX, 11; XXX, 16.
+
+ Another passage advises eating a rat or shrew-mouse in order to bear a baby with black eyes. [^76:2]   
+
+ [^76:2]: XXX, 46.
+ 
+These items are enough to convince us that the animals and parts of animals employed by the magicians were not one whit more bizarre and nauseating than the others found in the _Natural History_, nor were the cures which they were expected to work any more improbable. In order to illustrate, however, the delicate distinctions which were imagined to exist not only between the virtues of different parts of the same animal, but also between slightly varied uses of the same part, we may note that scales scraped from the topmost part of a tortoise's shell and administered in drink check sexual desire, considering which, it is, as Pliny remarks, the more marvelous that a powder made of the entire shell is reported to arouse lust.  [^76:3]   
+But love turns readily to hatred in magic as well as in romance, and it is nothing very unusual, as we shall find in other authors, for the same thing on slight provocation to work in exactly opposite ways. 
+
+ [^76:3]: XXXII, 14.  
+
+### The  virtues of herbs 
+
+Pig grease, Pliny somewhere informs us, possesses espehecially strong virtue, 
+
+> "because that animal feeds on the roots of herbs." [^76:4]   
+
+ [^76:4]: XXVIII, 37.
+
+From the virtues of animals, therefore, let us turn to those of herbs. [^76:5]  Pliny met on every hand assertion of their wonderful powers. 
+
+ [^76:5]: A recent work on the general theme is Joret, _Les plantes dans  l'antiquite_, Paris, 1904; see also F.Mentz, _De plantis qiias ad rem magicam facere crediderunt veteres_, Leipzig, 1705, 28 pp.; F.Unger, _Die Pflanze als Zaubermittel_, Vienna, 1859.
+
+The empire-builders of Rome employed the sacred herbs _sagmina_ and _verbenae_ in their embassies and legations. The Gauls, too, use the verbena in lot-casting and prophetic responses. [^77:1]  
+
+ [^77:1]: XXII, 3 ; XXV, 59 ; XXVII, 28.
+
+Pliny also states more sceptically that there is another root which diviners take in drink in order to feign inspiration. [^77:2]  
+ [^77:2]: XXI, 105. "Halicacabi radicem bibunt qui vaticinari gallantesque vere ad confirmandas superstitiones aspici se volunt."
+
+The Scythians know of a plant which prevents hunger and thirst if held in the mouth, and of another which has the same effect upon their horses, so that they can go for twelve days without meat or drink, [^77:3] -an exaggerated estimate of the hardihood of the mounted Asiatic nomads and their steeds. 
+
+  [^77:3]: XXV, 43-44.
+
+Musaeus and Hesiod say that one anointed with potion will attain fame and dignities. [^77:4]  
+
+ [^77:4]: XXI, 21, 84. 
+
+Pliny perhaps did not intend to subscribe fully to such statements, although he cannot be said to call many of them into question. He did complain that some writers had asserted incredible powers of herbs, such as to restore dragons or men to life or withdraw wedges from trees, [^77:5] yet he seems on the whole in sympathy with the opinion of the majority that there is practically nothing which the force of herbs cannot accomplish.  
+
+ [^77:5]: XXV, 5
+
+Herophilus, illustrious in medicine, had said that certain herbs were beneficial if merely trod upon, and Pliny himself says the same of more than one plant. He tells us further that binding the wild fig tree about their necks makes the fiercest bulls stand immobile;  [^77:6] 
+
+ [^77:6]: XXII, 64.
+
+that another plant subjects fractious beasts of burden to the yoke; [^77:7] 
+
+ [^77:7]: XXV, 35
+
+while cows who eat buprestis burst asunder. [^77:8]  
+
+ [^77:8]: XXII, 36.
+
+Another herb _contacto genitali_ kills any female animal. [^77:9] 
+
+  [^77:9]: XXIV, 94.
+
+Betony is considered an amulet for houses, [^77:10] 
+
+ [^77:10]: XXV, 46.
+
+and fishermen in Pliny's neighborhood mix a plant with chalk and scatter it on the waves. [^77:11]  
+
+ [^77:11]: XXV, 54.
+
+> "The fish dart towards it with marvelous desire and straightway float lifeless on the surface." 
+
+Dogs will not bark at persons carrying _peristereos_. [77:12] 
+
+ [77:12]: XXV. 78.
+
+The "impious plant" prevents any human being who tastes it from having quinsy, while swine are sure to have that disease if they do not eat it. Some place it in birds' nests to prevent the voracious nestlings from strangling. Bitter almonds provide another amusing combination of effects. Eating five of them permits one to drink without experiencing intoxication, but if foxes eat them they will die unless they find water near by to drink. [^78:1] 
+
+ [^78:1]: XXIII, 75.
+
+There are some herbs which have a medicinal effect, if one merely looks at them. [^78:2] 
+
+ [^78:2]: XXIV, 56 - 57.
+
+In two cases the masculine or feminine variety of a herb is used to secure the birth of a child of the desired sex. [^78:3] 
+
+ [^78:3]: XXV, 18; XXVII, 100.
+
+### Plucking herbs 
+
+That the plucking of herbs and digging up of roots was a process very apt to be attended by magical procedure we find abundant evidence in the _Natural History_. Often plants should be plucked before sunrise. [^78:4] 
+
+ [^78:4]: XX. 14; XXIV, 82; XXV, 92.
+
+Twice Pliny tells us that the peony should be uprooted by night lest the woodpecker of Mars try to pick the digger's eyes out. [^78:5] 
+
+ [^78:5]: XXV. 10; XXVII, 60.
+
+The state of the moon is another point to be observed, [^78:6] 
+
+ [^78:6]: XXIV, 6, 93.
+
+and once an herb is to be gathered before thunder is heard. [^78:7] 
+
+ [^78:7]: XXV, 6.
+
+A common instruction is to pick the plant with the left hand, [^78:8] 
+
+ [^78:8]: XX, 49: XXI, 83: XXIII, 54; XXIV, 63; XXV, 59; XXVI, 12.
+
+and once with the thumb and fourth finger of the left hand. [^78:9] 
+
+ [^78:9]: XXIII, 59.
+
+Once the right hand should be stretched covertly after the fashion of a pickpocket through the left sleeve in order to pluck the plant. [^78:10] 
+
+ [^78:10]: XXIV, 62.
+
+Sometimes one faces east in plucking herbs; sometimes, west; again one is careful not to face the wind. [^78:11] 
+
+ [^78:11]: XXV 21, 94.
+
+Sometimes the gatherer must not glance behind him. Sometimes he must fast before he takes the plant from the ground; [^78:12]
+
+ [^78:12]: XXIV, 63 and 118.
+
+again he must observe a state of chastity. [^78:13] 
+
+ [^78:13]: XXI 19
+
+Sometimes he should be barefoot and clothed in white; again he should remove every stitch of clothing and even his rings. [^78:14] 
+
+ [^78:14]: XXIV, 62; XXIII, 59
+
+Sometimes the use of iron implements is forbidden; again gold or some other material is prescribed;  [^78:15]  
+
+ [^78:15]: XXIII, 81; XXIV, 6, 62, 116.
+
+once the herb is to be dug with a nail. [^78:16] 
+
+ [^78:16]: XXVI. 12.
+
+Sometimes circles are traced about the plant with the point of a sword. [^79:1] 
+
+ [^79:1]: XXI, 19; XXV, 21, 94.
+ 
+Often the plant must not touch the ground again after it is picked, [^79:2] presumably from a fear that its virtue would run of like an electric current. 
+
+ [^79:2]: XXIII, 71, 81; XXIV, 6; XXVII, 62.
+
+Pliny alludes at least three times [^79:3] to the practice of herbalists of retaining portions of the herbs they sell, and then, if they are not paid in full, replanting the herb in the same spot with the idea that thereby the disease will return to plague the delinquent patient. 
+
+ [^79:3]: XXI, 83; XXV, 109; XXVI, 12.
+
+Frequently one is directed to state why one plucks the herb or for whom it is intended. [^79:4] In one case the digger says, 
+
+ [^79:4]: XXII, 16; XXIII, 54; XXIV, 82; XXVII, 113.
+
+> "This is the herb Argemon which Minerva discovered was a remedy for swine who taste it." [^79:5] 
+
+ [^79:5]: XXIV, 116.
+
+In another case one should salute the plant and extract its juice before saying a word; thus its virtue will be much greater. [^79:6] 
+
+ [^79:6]: XXV, 92.
+
+In other cases, as an offering to appease the earth, the soil about the plant is soaked with hydromel three months before plucking it, or the hole left by pulling it up is filled with different kinds of grain. [^79:7]  
+
+ [^79:7]: XXI, 19; XXV, 11.
+
+Sometimes one sacrifices beforehand with bread and wine or prays to the gods for permission to gather the herb. [^79:8] 
+
+ [^79:8]: XXIV, 62; XXV, 21.
+
+The customs of the Druids in gathering herbs are mentioned more than once. [^79:9] 
+
+ [^79:9]: XXIV, 62-63.
+
+In gathering the sacred mistletoe on the sixth day of the moon they hold sacrifices and a banquet beneath the tree. [^79:10] 
+
+ [^79:10]: XVI, 95.
+
+Two white bulls are the victims; a priest clad in white cuts the mistletoe with a golden sickle and receives it in a white cloak. [^79:11]  
+
+ [^79:11]: See XXIV, 6, for other methods of plucking the mistletoe.
+
+### Agricultural magic
+
+To Pliny's discussion of herbs we may append some specimens of the employment of magic procedure in agriculture and of the superstitions of the peasantry in which his pages abound. To guard against diseases of grain the seeds before planting should be steeped in wine, the juice of a certain herb, the gall of a cow, or human urine, or should be touched with the shoulders of a mole [^80:1] the animal 
+whose use by the magi we heard Pliny ridicule. 
+
+ [^80:1]: XVIII, 45.
+
+One should sow at the moon's conjunction. Before the field is hoed, a frog should be carried around it and then buried in the center in an earthen vessel. But it should be disinterred before harvest lest the millet be bitter. Birds may be kept away from the grain by planting in the four corners of the field an herb whose name is unfortunately unknown to Pliny. [^80:2] 
+
+ [^80:2]: See also XXV, 6.
+
+Mice are kept out by the ashes of a weasel, mildew by laurel branches, caterpillars by placing the skull of a female beast of burden upon a stick in the garden. [^80:3] 
+
+ [^80:3]: XIX, 58.
+
+To ward off fogs and storms from orchards and vineyards a frog may be buried as directed above, or live crabs may be burnt in the trees, or a painted grape may be consecrated. [^80:4] 
+
+ [^80:4]: XVIII, 7o.
+
+Suspending a frog in the granary preserves the corn stored there. [^80:5]  
+
+ [^80:5]: XVIII, 73.
+
+To keep wolves away catch one, break its legs, attach it to the ploughshare, and thus scatter its blood about the boundaries of the field; then bury the carcass at the starting-point. [^80:6] 
+
+ [^80:6]: XXVIII, 81.
+
+Or consecrate at the altar of the Lar the ploughshare with which the first furrow was traced. Foxes will not touch poultry who have eaten the dried liver of a fox or who wear a bit of its skin about their necks. Fern will not spring up again if it is mowed with the edge of a reed or uprooted by a ploughshare upon which a reed has been placed. [^80:7] 
+
+ [^80:7]: XVIII, 8.
+
+Of the use of incantations in agriculture we shall treat later.  
+Virtues Pliny appears to have much less faith in the possession of marvelous virtues by gems than by herbs and parts of animals. He not only characterizes the powers attributed to gems by the magi and Democritus and Pythagoras as "terrible lies" and "unspeakable nonsense"; [^80:8] 
+
+[^80:8]: XXXVII, 14, 73.
+
+but refrains from mentioning many such himself or inserts a cautious "if we believe it" or "if they tell the truth." [^80:9]  
+Of the gem supposed to be produced from the urine of the lynx he says, 
+ 
+  [^80:9]: XXXVII, 55-56.
+ 
+ > "I think that this is quite false and no gem of that name has been seen in our time. What is stated concerning its medicinal virtue is also false." [^81:1] 
+ 
+  [^81:1]: XXXVII, 13.
+ 
+ To other stones, however, he ascribes various medicinal virtues, either when taken pulverized in drink or when worn as amulets. [^81:2] 
+
+ [^81:2]: For instance, XXXVII, 12 amber, 37 jasper, 39 aetites, 55 "baroptenus." 
+
+A few other occult properties are stated without reservation, as that amiantus resists all sorceries, [^81:3] 
+
+ [^81:3]: XXXVI, 31.
+
+that adamant expels idle fears from the mind, that _sideritis_ produces discord and litigation, and that _eumeces_, placed beneath one's pillow at night, causes oracular visions. [^81:4] 
+
+ [^81:4]: XXXVII, I5, 58, 67.
+
+Magnets are said to differ in sex, and the belief of Theophrastus and Mucianus is repeated that certain stones bear offspring. [^81:5] 
+
+ [^81:5]: XXXVI, 25, 39.
+
+### Other minerals and metals 
+
+Of the metals iron sometimes figures in Pliny's magical procedure, as when he either prescribes or taboos the use of it in cutting herbs or killing animals. In Arcadia the yew-tree is a fatal poison to persons sleeping beneath it, but driving a copper nail into the tree makes it harmless. [^81:6] 
+
+ [^81:6]: XVI, 20.
+
+Pliny says that gold is medicinal in many ways and in particular is applied to wounded persons and to infants as a safeguard against witchcraft. [^81:7] 
+
+ [^81:7]: XXXIII, 25.
+
+Earth itself is often used to work marvels, but usually some particular portion, such as that between cart ruts or that thrown up by ants, beetles, and moles, or in the right footprint where one first heard a cuckoo sing. [^81:8] 
+
+ [^81:8]: XXX, 12, 25. 
+
+However, the rule that an object should not touch the ground is enforced in many other connections [^81:9] than the plucking of herbs, 
+
+ [^81:9]: XX, 3; XXVIII, 6, 9; etc. 
+
+and Pliny twice states that the earth will not permit a serpent who has stung a human being to re-enter its hole. [^81:10] 
+
+ [^81:10]: II, 63; XXIX, 23.
+
+In his discussion of metals Pliny does not allude to transmutation or alchemy, unless it be in his accounts of various fraudulent practices of workers in metal and how Caligula extracted gold from orpiment. But the following directions for preparing antimony show how closely akin to magic the procedure in ancient metallurgy might be. The antimony should be coated with cow-flap and burnt in furnaces, then quenched in woman's milk and pounded in mortars with an admixture of rain-water. [^82:1] 
+
+ [^82:1]: XXXIII, 34.
+
+### Virtues of human parts
+
+Various parts and products of the human body are credited with remarkable virtues as the mention just made of woman's milk suggests. Other passages recommend more especially the milk of a woman just delivered of a male child, but most of all that of the mother of twins. [^82:2] 
+
+ [^82:2]: XX, 51; XXVIII, 21.
+
+> _Sed nihil facile reperiatur mulierimi profluvio magis monstrificum_, as Pliny proceeds to illustrate by numerous examples. [^82:3] 
+
+ [^82:3]: VII, 13; XXVIII, 23.
+
+Great virtues are also attributed to the urine, particularly of a chaste boy. [^82:4] 
+
+ [^82:4]: XX, 33; XXII, 30; XXVIII, 18-19.
+
+A few other instances of remedies drawn from the human body are ear-wax or a powdered tooth against stings of scorpions and bites of snakes, [^82:5] 
+
+ [^82:5]: XXVIII, 8.
+
+a man's hair for the bite of a dog, the first hairs from a boy's head for gout. [^82:6] 
+
+ [^82:6]: XXVIII, 9.
+
+Diseases of women are prevented by wearing constantly in a bracelet the first tooth a boy loses, provided it has not touched the ground. Simply tying two fingers or toes together is recommended for tumors in the groin, catarrh, and sore eyes. [^82:7]   
+Or the eyes may be touched thrice with water in which the feet have been washed.  
+Scrofula and throat diseases may be cured by the touch of the hand of one who has died an early death, although some authorities do not insist upon the circumstance of early death but direct that the corpse be of the same sex as the patient and that the diseased spot be touched with the back of the left dead hand. 
+
+ [^82:7]: XXVIII, 9-11.
+
+### Virtues of human saliva 
+
+Of all fluids and excretions of the human body the saliva is perhaps used most often in ancient and medieval medicine, as the custom of spitting once or thrice in administering other remedies or performing ceremonies goes to prove. The spittle of a fasting person is the more efficacious. In a chapter devoted particularly to the properties of human saliva Pliny lists many diseases and woes which it alleviates. [^83:1] 
+ In this connection he makes the following absurd assertion which he nevertheless declares is easily tested by experiment. 
+ 
+  [^83:1]: XXVIII, 7.
+ 
+ >"If a person repents of a blow given from a distance or hand-to-hand, let him spit into the palm of the hand with which he struck, and the person who has been struck will feel no resentment. This is often proved by beasts of burden who are induced to mend their pace by this method after the use of the whip has failed." 
+ 
+ Pliny adds, however, that some persons try to increase the force of their blows by thus spitting on the hands beforehand. He also mentions as counter-charms against sorcery the practices of spitting into one's urine or right shoe, or when crossing a dangerous spot. 
+
+### The human operator
+
+The importance of the human operator as a factor in the performance of marvels, be they medical or magical, attested by the frequent injunctions of chastity, virginity, nudity, or a state of fasting upon persons concerned in Pliny's procedure. Sometimes they are not to glance behind them, sometimes they are to speak to no one during the operation. Pliny also mentions men who have a special capacity for wonder-working, such as Pyrrhus, the touch of whose toe had healing power, [^83:2] 
+
+ [^83:2]: VII, 2.
+
+those whose eyes exert strong fascination, whole tribes of serpent-charmers and venomcurers, and others whose mere presence addles the eggs beneath a setting hen. [^83:3] The power of words spoken by men will be considered separately under the head of incantations. 
+
+ [^83:3]: XXVIII, 6.
+
+### Absence of medical compounds
+
+While Pliny attributes the most extreme medicinal virtues to simples, he excludes from his _Natural History_ the strange and elaborate compounds which were nevertheless pounds, so popular in the pharmacy of his age. Of one simple, laser, he says that it would be an immense task to attempt to list all the uses that it is supposed to have in compounds. [^83:4] 
+
+ [^83:4]: XXII, 49.
+
+His position is that the simple remedies alone are the direct work of nature, while the mixtures, tablets, pills, plasters, washes are artificial inventions of the apothecaries. Once when he describes a compound called "Hermesias" which aids in the generation of good and beautiful children, it seems to be borrowed by Democritus from the magi [^84:1] 
+
+ [^84:1]: XXIV, 102.
+
+Furthermore, Pliny thinks that health can be sufficiently preserved or restored by nature's simple remedies. Compounds are the invention of human conjecture, avarice, and impudence. Such conjecture is often false, not sufficiently taking into account the natural sympathies and antipathies of the numerous ingredients. Often compounds are inexplicable. Pliny also deplores resort to imported drugs from India, Arabia, and the Red Sea, when there are homely remedies at hand for the poorest man. [^84:2] 
+
+ [^84:2]: In this paragraph I have combined views expressed by Pliny in three different passages: XXII, 49 and 56; XXIV, 1. 
+
+### Sympathetic magic 
+
+We have just heard Pliny refer to the sympathies and antipathies of natural simples, and he often explains the marvelous effects of natural objects upon one another by this relation of love and hatred, friendship or repugnance, discord or concord which exists between them, which the Greeks call sympathy or antipathy, and which Heracleitus was perhaps the first philosopher to insist upon. [^84:3] 
+
+ [^84:3]: IX, 88; XXIV, 1; XXVIII, 23; XXXII, 12; XXXVII, 15; etc. 
+
+Some modern students of magic have tried to account for all magic on this theory, and Pliny states that medicine and medicines originated from it. [^84:4]
+
+  [^84:4]: XXIV, 1; XXIX, 17.
+
+### Antipathies between animals 
+
+This relationship exists between animals,—deer and snakes, for example. So great a force is it that stags track snakes to their holes and extract them thence despite all resistance by the power of their breath. This antipathy continues after death, for the sovereign remedy for snakebite is the rennet of a fawn killed in its mother's womb, while serpents flee from a man who wears the tooth of a deer. But antipathy may change to sympathy, for Pliny adds that in some cases certain parts of deer treated in certain ways attract serpents. [^84:5] 
+
+ [^84:5]: VIII. 50; XXVIII. 42.
+
+This force of antipathy is indeed capable of taking the strangest turn. Bed-bugs, foul and disgusting as they are, heal the bite of snakes, especially asps, and sows can eat the poisonous salamander. [^85:1] 
+
+ [^85:1]: XXIX, 17 and 23.
+
+The antipathy between goats and snakes would seem almost as potent as that between deer and snakes, [^85:2] since we are told that snake-bitten persons recover more quickly, if they frequent the stalls where goats are kept or wear as an amulet the paunch of a she-goat. 
+
+ [^85:2]: XXVIII, 43.
+
+### Love and hatred between inanimate objects 
+
+> There is also "the hatred and friendship of deaf and insensible things." [^85:3] 
+
+ [^85:3]: XX, 1. "Odia amicitiaque rerum surdarum ac sensu carentium . . . quod Graeci sympathiam appellavere." XXIV, 1. "Surdis etiam rerum sua cuique sunt venena ac minimis quoque . . . Concordia valent." 
+
+Instances are the magnet's attraction for iron and the fact that adamant can be broken only by the blood of a he-goat, two stock examples of occult influence and natural marvels which continued classic in the medieval period. [^85:4] 
+
+ [^85:4]: XXVIII, 41; XXXVII, 15. Yet a note in Bostock and Riley's translation, IV, 207, asserts, "Pliny is the only author who makes mention of this singularly absurd notion." 
+
+Pliny indeed regards this last as the clearest illustration possible of the potency of sympathy and antipathy, since a substance which defies iron and fire, nature's two most violent agents, yields to the blood of a foul animal. [^85:5] 
+
+ [^85:5]: Nunc quod totis voluminibus his docere conati summus de discordia rerum concordiaque quam antipathiam Graeci vocavere ac sympathiam non aliter clarius intelligi potest." 
+
+### Sympathy between animate and inanimate objects
+
+There is furthermore sympathy and antipathy between animate and inanimate objects. So marvelous is the antipathy of the tamarisk tree for the spleen alone of internal organs, that pigs who drink from troughs of this wood are found when slaughtered to be without spleen, and hence splenetic patients are fed from vessels of tamarisk. [^85:6] 
+
+ [^85:6]: XXIV, 41.
+
+The spleenless pig, it may be interpolated, is another commonplace of ancient and medieval science. Smearing the hives with cow dung kills other insects but stimulates the bees who have an affinity for it (_cognatmn hoc iis_), [^85:7] probably, 
+
+ [^85:7]: XXI, 47.
+
+although Pliny does not say so, on the theory that they are spontaneously generated from it. That the wild cabbage is hostile to dogs is evidenced by the statement of Epicharmus that it cures the bite of a mad dog but kills a dog if he eats it when given to him with meat. [^86:1] 
+
+ [^86:1]: XX, 36.
+
+Snakes hate the ash-tree so, that if they are hemmed in by its foliage on one side and fire on the other, they flee by preference into the flames. [^86:2] 
+
+ [^86:2]: XVI, 24.
+
+Betony, too, is so antipathetic to snakes that they lash themselves to death when a circle of it is drawn about them. [^86:3] 
+
+ [^86:3]: XXV, 55. 
+
+Scorpions cannot survive in the air of Sicily. [^86:4] 
+
+ [^86:4]: XXXVII, 54. 
+
+Perhaps antipathy is also the explanation of Pliny's absurd statement that loads of apples and pears, even if there are only a few of them, are very heavy for beasts of burden. [^86:5] 
+
+ [^86:5]: XXIII, 62; XXIV, 1.
+
+Here, however, the condition may be remedied and perhaps a relationship of sympathy established by showing the beasts how few fruit there really are or by giving them some to eat. That sympathy may even attach to places or religious circumstances Pliny infers from the belief that the priestess of the earth at Aegira, when about to descend into the cave and predict, drinks without injury bull's blood which is supposed to be a fatal poison. [^86:6] 
+
+ [^86:6]: XXVIII, 41.
+
+### Like cures like
+
+That like cures like, or more precisely and paradoxically that the cause of the disease will cure its own result, is another notion which Pliny's medicine shares with magic. This is seen in the use of parts of the mad dog to cure its bite, [^86:7] 
+
+ [^86:7]: XXIX, 32. 
+
+or in rubbing thighs chafed by horse-back riding with the foam from a horse's mouth. [^86:8] 
+
+ [^86:8]: XXVIII, 61.
+
+The bite of the shrewmouse, too, is best healed by imposition of the very animal which bit you, but another shrew-mouse will do and they are kept ready in oil and mud for this purpose. [^86:9] 
+
+[^86:9]: XXIX, 27.
+
+The sting of the phalangium may be cured by merely looking at another insect of that species, whether it be dead or alive. From cases in which the cure for the disease is identical with its cause it is but a short step to remedies similar to or in some way associated with the ailment. It seems obvious to Pliny that stone in the bladder can be broken by the herb on which grow what look exactly like pearls. 
+
+> "In the case of no other herb is it so evident for what medicine it is intended; its species is such that it can be recognized at once by sight without book knowledge." [^87:1] 
+
+ [^87:1]:  XXVII, 74.
+
+Similarly ophites, a marble with serpentine streaks, is used as an amulet against snake-bite. [^87:2] 
+
+ [^87:2]: XXXVI, 11. 
+
+Mithridates discovered that the blood of Pontic ducks should be mixed in antidotes because they live on poison. [^87:3] 
+
+ [^87:3]: XXV, 3.
+
+Heliotrope seed looks like a scorpion's tail; if scorpions are touched with a sprig of heliotrope they die, and they will not enter ground which has been circumscribed by it. [^87:4] 
+
+ [^87:4]: XXII. 29. 
+
+To accelerate a woman's delivery her lover should take off his belt and gird her with it, then untie it, saying that he has bound her and will unloose her, and then he should go away. [^87:5] 
+
+ [^87:5]: XXVIII, 9.
+
+An epileptic may be cured by driving an iron nail into the spot where his head rested when he fell in the fit. [^87:6] 
+
+ [^87:6]: XXVIII, 17.
+
+### The principle of association
+
+Other instances of association are when the remedy employed is some part of an animal who is free from the disease question or marked by an opposite state of health. Goats and gazelles never have ophthalmia, hence various portions of their bodies are prescribed for eye diseases. [^87:7] 
+
+ [^87:7]: XXVIII, 47.
+
+Eagles can gaze at the sun, therefore their gall is efficacious in eyesalves. [^87:8] 
+
+ [^87:8]: XXIX 38
+
+The bird called ossifrage has a single intestine which digests anything; the end of this intestine serves as an amulet against colic, and indigestion may be cured by merely holding the crop of the bird in one hand. [^87:9] But do not hold it too long or your flesh will waste away. 
+
+ [^87:9]: XXX, 20.
+
+The virus of mares is an ingredient in a candle which makes heads of horses seem to appear when it burns; [^87:10]  
+
+ [^87:10]: XXVIII, 49.
+
+while ink of the sepia is used in a candle which causes Ethiopians to be seen when it is lighted. [^87:11] These magic candles are borrowed by Pliny from the works of Anaxilaus, and we shall find them a feature of medieval collections of experiments. 
+
+ [^87:11]: XXXII, 52.
+
+Earth from a cart-wheel rut is thought a remedy against the bite of the shrew-mouse because that creature is too torpid to cross such a rut; [^88:1] 
+
+ [^88:1]: XXIX, 27.
+
+and Pliny believes that none of the virtues attributed to moles by the magicians is more probable than that they are an antidote to the bite of the shrew-mouse, which shuns even ruts, whereas moles burrow freely through the soil. [^88:2] 
+
+ [^88:2]: XXX. 7. 
+
+Pliny finds incredible the assertion made by some that a ship will move more slowly if it has the right foot of a tortoise aboard, [^88:3] but the logic of the magic seems evident enough.
+
+ [^88:3]: XXXII, 14.
+ 
+### Magic transfer of disease
+
+In Pliny's medicine there are a number of examples of  what may be called magic transfer, in which the aim of the procedure is not to cure the disease outright but to rid the patient of it by transferring it from him to some other animal or object. Intestinal disease may be transferred to puppies who have not yet opened their eyes by pressing them to the body and giving them milk from the patient's mouth. They will die of the disease, when its cause and exact nature may be determined by dissecting them. But finally they must be buried. [^88:4]  
+
+ [^88:4]: XXX, 20 and 14.
+
+Griping pains in the bowels will also pass to a duck that is held against the abdomen. One may be rid of a cough by spitting in a frog's mouth or cure catarrh by kissing a mule, [^88:5] although in these cases we are left uninformed whether the disease passes to the animal. 
+
+ [^88:5]: XXXII, 29; XXX, 11.
+
+But if a person who has been stung by a scorpion whispers the news in the ear of an ass, the ill will be transferred to the ass. [^88:6] 
+
+[^88:6]: XXVIII, 42.
+
+A boil may be removed by rubbing nine grains of barley around it, each grain thrice with the left hand, and then throwing them all into the fire. [^88:7] 
+
+ [^88:7]: XXII, 65.
+
+Warts are banished by touching each with a grain of the chickpea and then tying the grains up in a linen cloth and throwing them behind one. [^88:8] 
+
+ [^88:8]: XXII, 72
+
+If a root of asphodel is applied to sores and then hung up in smoke, the sores will dry up along with the root. [^89:1] 
+
+ [^89:1]:  XXII, 32.
+
+To cure scrofulous sores some bind on as many earthworms as there are sores and let them dry up together. [^89:2] 
+
+ [^89:2]: XXX, 12.
+
+A tooth will cease aching if the herb erigeron is dug up with iron and the patient thrice alternately touches the tooth with the root and spits, and if he then replaces the herb in the same spot and it lives. [^89:3] If this last is a case of magic transfer, perhaps we may trace the same notion in some of the numerous instances in which Pliny directs that an animal shall be released alive after some part of it has been removed or some other medicinal use made of it. 
+
+ [^89:3]: XXV, 106.
+
+### Amulets
+
+A common characteristic of magic force and occult vir-  tue is that it will often act at a distance or without any physical contact or direct application. This is manifested in the practice of carrying or wearing amulets, or, what is the same thing, of ligatures and suspensions, in which objects are hung from the neck or bound to some part of the body in order to ward off danger from without or cure internal disease. Instances of such practices in the _Natural History_ are well nigh innumerable.  
+Roots are suspended from the neck by a thread; [^89:4] 
+
+ [^89:4]: XX, 81.
+
+the tongue of a fox is worn in a bracelet; [^89:5] 
+
+ [^89:5]: XXVIII, 47.
+
+for quinsy the throat is wound thrice with a thong of dog-skin and catarrh is relieved by winding the same about the fingers. [^89:6] 
+
+ [^89:6]: XXX, 12, 15.
+
+A tooth stops aching when worms are taken from a certain prickly plant, put with some bread in a pill-box, and bound to the arm on the same side of the body as the aching tooth. [^89:7] 
+
+ [^89:7]: XXVII, 62.
+
+Two bed-bugs bound to the left arm in wool stolen from shepherds are a charm against nocturnal fevers; against diurnal fevers, if wrapped in russet cloth instead. [^89:8]  
+
+ [^89:8]: XXIX, 17.
+
+The heart of a vulture is an amulet against snakes, wild beasts, robbers, and royal wrath. [^89:9]  
+
+ [^89:9]: XXIX. 24.
+
+The traveler who carries the herb artemisia feels no fatigue. [^89:10] 
+
+ [^89:10]: XXVI. 89.
+
+Injurious drugs cannot cross one's threshold and do injury in one's household, if a sea-star is smeared with the blood of a fox and attached to the lintel or door-post with a copper nail. [^90:1] 
+
+ [^90:1]: XXXII, 16; also XX, 39.
+
+Not only is a wreath of herbs worn for headache, [^90:2] 
+
+  [^90:2]: XXII, 30. 
+
+but a sprig of poplar held in the hand prevents chafing between the thighs. [^90:3] 
+
+ [^90:3]: XXIV, 32, 38. 
+
+Often objects are placed under one's pillow, especially for insomnia, [^90:4] 
+
+ [^90:4]: XX, 72, 82. 
+ 
+but any psychological effect is precluded in the case where this is to be done without the patient's knowledge. [^90:5] 
+
+ [^90:5]: XXVI, 69. 
+
+All sorts of specifications are given as to the color and kind of string, cloth, skin, box, nail, ring, bracelet, and the like in which should be placed, or with which should be bound on, the various gems, herbs, and parts of animals which serve as amulets. But when we are told that a remedy for headache which always helps many consists of a little bone from a snail found between two cart ruts, passed through gold, silver, and ivory, and attached to the body with dog-skin; or that one may bind on the head with a linen cloth the head of a snail decapitated with a reed when feeding in the morning especially at full moon; [^90:6] we feel that we have passed beyond mere amulets, ligatures, and suspensions to more elaborate minutiae of magic procedure. 
+
+ [^90:6]: XXIX, 36.
+
+### Position or direction 
+
+Position or direction is often an important matter in Pliny's, as in magic, ceremonial. It perhaps comes out most frequently in his specification of right or left. An aching tooth should be scarified with the left eye-tooth of a dog; a spider which is placed with oil in the ear should be caught with the left hand; [^90:7] 
+
+ [^90:7]: XXX, 8.
+
+epilepsy may be cured if a virgin touches the sufferer with her right thumb; [^90:8] 
+
+ [^90:8]: XXVIII, 10.
+
+for ophthalmia of the right eye suspend the right eye of a frog from the patient's neck, and the left eye for the left eye; [^90:9] 
+
+ [^90:9]: XXXII, 24.
+
+for lumbago tear off an eagle's feet away from the joint, and use the right foot for the right side and the left for pain in the left side. [^90:10]  
+
+ [^90:10]: XXX, 18.
+
+But we have met other examples already, and also cases of the use of the upper or lower part of this or that according to the corresponding location of an aching tooth in the upper or lower jaw. [^91:1] 
+
+ [^91:1]: See also XXX, 8.
+
+Tracing circles with and about objects, facing towards this or that point of the compass, the prohibition against glancing behind one, and the stress laid upon finding things or killing animals between the ruts of cart wheels, are other examples of taking into consideration position and direction which we have already met with incidentally to the treatment of other topics. The prescription of a plant which has grown on the head of a statue and of another which has taken root in a sieve thrown into a hedge [^91:2] 
+
+ [^91:2]: XXIV, 106 and 109.
+
+also seem to take mere position largely into account, more so than the accompanying recommendation of an herb growing on the banks of a stream and of another growing upon a dunghill. [^91:3]
+
+  [^91:3]: XXIV, 107 and 110.
+
+### The time element
+
+The element of time is also important. Operations should be performed before sunrise, early in the mornmg, at night, 
+and so on. The moon is especially regarded in such directions.  [^91:4] 
+
+ [^91:4]: Some examples are: XVIII, 75, 79; XXII, 72; XXIII, 71; XXVIII, 47; XXIX, 36; XXXII, 14, 25, 38, 46. 
+
+When we are informed that sufferers from quartan fever should be rubbed all over with the fat of a tortoise, we are also told that the tortoise will be fattest on the fifteenth day of the moon and that the patient should be anointed on the sixteenth. [^91:5] But this waxing and waning of the tortoise with the moon is primarily a matter of astrology and planetary influence, under which heading we shall also later speak of Pliny's observance of the rising of the dogstar. 
+
+[^91:5]: XXXII. 14.
+
+### Observance of number
+
+Observance of number is another feature in Pliny's ceremonial, of which we have already met instances. He also alludes to the writings of Pythagoras on the subject and ascribes to Democritus a work on the number four. Pliny's recipes frequently recommend that the operation be thrice repeated. In the case of curing scrofula by the ashes of vipers he prescribes three fingers thereof taken in drink for thrice seven days. [^92:1] 
+
+ [^92:1]: XXX, 12.
+
+In another application of a Gallic herb with old axle-grease which has not touched iron, not only must the patient spit thrice to the right, but the remedy is more efficacious if three men representing three different nations anoint the right side with it. [^92:2] 
+
+ [^92:2]: XXIV, 112. 
+
+The virtue of the number one is not, however, entirely slighted. Importance is attached to the death of a stag from a single wound. [^92:3] 
+
+ [^92:3]: VIII, 50. 
+
+Sometimes three and one are joined in the same operation, as when child-birth is aided by hurling through the hoiise a stone or weapon by which three animals, a man, a boar, and a bear, have been killed with single blows. One of the discoveries of Pythagoras which seldom fails is that an odd number of vowels in a child's given name portends lameness, blindness, and like incapacitate on the right side of its body, and an even number, injuries on the left side. [^92:4]  
+
+ [^92:4]: XXVIII, 6.
+
+In a crown of smilax for headache there should be an odd number of leaves, [^92:5] 
+
+ [^92:5]: XXIV, 17.
+
+and in a diet of snails prescribed for stomach trouble an odd number are to be eaten. [^92:6] 
+
+ [^92:6]: XXX, 15.
+
+For a head-wash ten green lizards are boiled in ten sextarii of oil, [^92:7] 
+
+ [^92:7]: XXIX, 34.
+
+and for an application to prevent eyelashes from growing again when they have been pulled out fifteen frogs are impaled on fifteen bulrushes. [^92:8] 
+
+ [^92:8]: XXXII, 24.
+
+The person who has tied on a certain amulet is thereafter excluded from the patient's sight for five days. [^92:9] And so on. 
+
+ [^92:9]: XXXII, 38.
+ 
+### Relation between operator and patient 
+
+This last item suggests a further intangible factor in Pliny's procedure, the doing of things to or for the patient without his knowledge. But this and any other incorporeal relationships existing between operator and patient should perhaps be classed under the head of sympathy and antipathy. 
+
+### Incantations 
+ 
+ Closely akin to the power of numbers is that of words. Pliny once says of an incantation employed to avert hailstorms that he would not dare in seriousness to insert its words, although Cato in his work on agriculture prescribed a similar formula of meaningless words for the cure of fractured limbs. [^93:1] 
+
+ [^93:1]: XVII, 47.
+
+But Pliny does not object to the repetition of incantations or prayers if the words spoken have some meaning. He informs us that ocimum is sown with curses and maledictions and that when cummin seed is rammed down into the soil, the sowers pray it not to come up. [^93:2] 
+
+ [^93:2]: XIX, 36.
+
+In another case the sower is to be naked and to pray for himself and his neighbors. [^93:3]   
+In a third case in which a poultice is to be applied to an inflammatory tumor, Pliny says that persons of experience regard it as very important that the poultice be put on by a naked virgin and that both she and the patient be fasting. Touching the sufferer with the back of her hand she is to say, 
+
+ [^93:3]: XVIII, 35.
+
+> "Apollo forbids a disease to increase which a naked virgin restrains." Then, withdrawing her hand, she is to repeat the same words thrice and to join with the patient in spitting on the ground each time. [^93:4] 
+
+ [^93:4]: XXVI. 60.
+
+Indeed, in another passage Pliny states that it is the universal custom in medicine to spit three times with incantations. [^93:5]   
+Perhaps the power of the words is thought to be increased or renewed by clearing the throat. Words were also occasionally spoken in plucking herbs. Ring-worm or tetter is treated by spitting upon and rubbing together two stones covered with a dry white moss, and by repeating a Greek incantation which may be translated, 
+
+ [^93:5]: XXVIII, 7.
+
+> "Flee, Cantharides, a wild wolf seeks your blood." [^93:6] 
+
+ [^93:6]: XXVII, 75.
+
+Abscesses and inflammations are treated with the herb reseda and a Latin translation which seems irrelevant, if not quite senseless, and which may be translated, 
+
+> "Reseda, make disease recede. Don't you know, don't you know what chick has dug up these roots? May they have neither head nor feet." [^93:7] 
+
+ [^93:7]: XXVII, 106.
+
+In the book following this passage Pliny raises the general question of the power of words to heal diseases. [^93:8]   
+He gives many instances of belief in incantations from contemporary popular superstition, from Roman religion, and from the annals of history. He does not doubt that Romans in the past have believed in the power of words, and thinks that if we accept set forms of prayer and religious formulae, we must also admit the force of incantations. But he adds that the wisest individuals believe in neither. 
+
+ [^93:8]: XXVIII. 3-4.
+
+### Attitude to love charms and birth control 
+
+Pliny's recipes and operations are mainly connected with either medicine or agriculture, but he also introduces as we have seen magical procedure employed in child-birth, safeguards against poisons and reptiles, and counter-charms against sorcery. He more than once avers that love-charms (amatoria) lie outside his province, [^94:1] 
+
+ [^94:1]: XXVII, 35. "Catanancen Thessalam herbam qualis sit describi a nobis supervacuum est, cum sit usus eius ad amatoria tantum." XXVII, 99. "Phyteuma quale sit describere supervacuum habeo cum sit usus eius tantum ad amatoria." 
+
+in one passage alleging as a reason that the illustrious general Lucullus was killed by one, [^94:2] 
+
+ [^94:2]: XXV, 7. "Ego nee abortiva dico ac ne amatoria quidem, memor Lucullum imperatorem clarissimum amatorio perisse.
+
+but he includes a great many of them nevertheless. [^94:3] 
+
+ [^94:3]: A few examples are: XX, 15, 84, 92; XXIV, II, 42; XXVI, 64; XXVII, 42, 99; XXVIII, 77, 80; XXX, 49; XXXII, 50. 
+
+Some herbs are so employed because of a resemblance in shape to the sexual organs, [^94:4] another instance of association by similarity. 
+
+ [^94:4]: XXII, 9. 
+
+Pliny declared against abortive drugs as well as love-charms, [^94:5] but cited from the Commentaries of Caecilius one recipe for birth-control for the benefit of over-fecund women, consisting of a ligature of two little worms found in the body of a certain species of spider and bound on in deer-skin before sunrise. 
+
+ [^94:5]: XXV, 7. 
+
+After a year the virtue of this charm expires. [^94:6] 
+
+  [^94:6]: XXIX, 27.
+  
+### Pliny and astrology 
+
+Pliny devotes but a small fraction of his work to the stars and heavens as against terrestrial phenomena, and therefore has less occasion to speak of astrology than of magic. However, had he been a great believer in astrology he doubtless would have devoted more space to the stars and their influence on terrestrial phenomena. He recognizes none the less, as we have seen, that magic and astrology are intimately related and that 
+
+> "there is no one who is not eager to learn his own future and who does not think that this is shown most truly by the heavens." [^95:1] 
+
+ [^95:1]: XXXN, 1. On the general attitude to astrology of the preceding Augustan Age and its poets see H.W.Garrod, _Manili Astronomicon Liber II_, Oxford, 1011, pp. Ixv-Ixxiii, but I think he overestimates the probable effect of the edict of 16 A.D. upon the poem of Manilius.
+
+Parenthetically it may be remarked that the general literature of the time only confirms this assertion of the widespread prevalence of astrology; allusions of poets imply a technical knowledge of the art on their readers' part; the very emperors who occasionally banished astrologers from Rome themselves consulted other adepts. In another passage Pliny speaks of men who 
+
+> "assign events each to its star according to the rules of nativities and believe that God decreed the future once for all and has never interfered with the course of events since." [^95:2] 
+
+ [^95:2]: II, 5. “Astroque suo eventus adsignat nascendi legibus semelque in omnes futuros umquam deo decretum in reliquom vero otium datur."
+
+This way of thinking has caught learned and vulgar alike in its current and has led to such further methods of divination as those by lightning, oracles, haruspices, and even such petty auguries as from sneezes and shifting of the feet. Furthermore in Pliny's list of men prominent in the various arts and sciences we find Berosus of whom a statue was erected by the Athenians in honor of his skill in astrological prognostication. [^95:3] 
+
+ [^95:3]: VII, 37.
+
+In another place where he speaks for a moment of "the science of the stars" Pliny disputes the theories of Berosus, Nechepso, and Petosiris that length of human life is ordered by the stars, and also makes the trite objection to the doctrine of nativities tliat masters and slaves, kings and beggars are born at the same moment. [^95:4] 
+
+ [^95:4]: VII, 50.
+
+He also is rather inclined to ridicule the enormous figures of 720,000 or 490,000 years set by Epigenes and Berosus and Critodemus for the duration of astronomical observations recorded by the Babylonians. [^95:5] 
+
+ [^95:5]: VII, 57.
+
+From such passages we get the impression that astrology is widely accepted as a science but that the art of nativities at least is not regarded by Pliny with favor. But it would not be safe to say that he denies the control of the stars over human destiny. Indeed, in one chapter he declares that the astronomer Hipparchus can never be praised enough because more than any other man he proved the relationship of man with the stars and that our souls are part of the sky. [^96:1] 
+
+ [^96:1]: II, 24.
+
+When Pliny disputes the vulgar notion that each man has a star varying in brightness according to his fortune, rising when he is born, and fading or falling when he dies, he is not attacking even the doctrine of nativities; he is denying that the stars are controlled by man's fate rather than that man's life is ordered by the stars. [^96:2] 
+
+ [^96:2]: II, 6, "Non tanta caelo societas nobiscum est ut nostro fato mortalis sit ibi quoque siderum fulgor." 
+
+### Celestial portents
+
+If Pliny thus leaves us uncertain as to the relation of man to the stars, we also receive conflicting impressions from his discussion of various celestial phenomena regarded as portentous. In one passage he speaks of the debt of gratitude owed by mankind to those great astronomical geniuses who have freed men from their former superstitious fear of eclipses. [^96:3] 
+
+ [^96:3]: II, 9. 
+
+But he explains thunderbolts as celestial fire vomited forth from the planet Venus and "bearing omens of the future." [^96:4] 
+
+ [^96:4]: II, 18.
+
+He also gives instances from Roman history of comets which signaled disaster, and he expounds the theory of their signifying the future. [^96:5] 
+
+ [^96:5]: II, 23.
+
+What they portend may be determined from the direction in which they move and the heavenly body whose power they receive, and more particularly from the shapes they assume and their position in relation to the signs of the zodiac. Indeed, Pliny even gives examples of ominous eclipses of the sun, although it is true that they were also of unusual length. [^96:6] 
+
+ [^96:6]: II, 30.
+
+He also tells us that many of the common people still believed that women could produce eclipses "by sorceries and herbs. [^96:7] 
+
+ [^96:7]: XXV, 5.
+
+### The stars and the world of nature,
+
+Aside from the question of the control of human destiny by the constellations at birth, Pliny's general theories of the universe and of the influence of the stars upon terrestrial nature are roughly similar to those of astrology.  
+For him the universe itself is God, 
+
+> ''holy, eternal, vast, all in all, nay, in truth itself all;" [^97:1]
+
+ [^97:1]: II, 1. 
+
+ and the sun is the mind and soul of the whole world and the chief governor of nature. [^97:2] 
+
+ [^97:2]: II, 4.
+
+The planets affect one another. A cold star renders another approaching it pale; a hot star causes its neighbor to redden; a windy planet gives those near it a lowering appearance. [^97:3] 
+
+ [^97:3]: II, 16.
+
+At certain points in their orbits the planets are deflected from their regular course by the rays of the sun,  an unwitting concession to heliocentric theory. [^97:4] 
+
+ [^97:4]: II, 13.
+
+Pliny ascribes the usual astrological qualities to the planets. [^97:5] Saturn is cold and rigid; Mars, a flaming fire; Jupiter, located between them, is temperate and salubrious. 
+
+ [^97:5]: II, 6; and see II, 39.
+
+Besides their effects upon one another, the planets especially influence the earth. [^97:6] 
+
+ [^97:6]: II, 6. "Potentia autem ad terram magnopere eorum pertinens."
+
+Venus, for instance, rules the process of generation in all terrestrial beings. [^97:7] 
+
+ [^97:7]: Il, 6. 
+
+Following the Georgics of Vergil somewhat, Pliny asserts that the stars give indubitable signs of the weather and expounds the utility of the constellations to farmers. [^97:8] 
+
+ [^97:8]: XVIII, 5, 57, 69.
+
+He tells how Democritus by his knowledge of astronomy was able to corner the olive crop and put to shame business men who had been decrying philosophy; [^97:9] 
+
+ [^97:9]: XVIII, 68. Other authorities  tell the story of Thales; see Cicero, De divinatione, II, 201; Aristotle, Poiit. I, 7; and Diogenes Laertius.
+
+and how on another occasion he gave his brother timely warning of an impending storm. [^97:10] 
+
+ [^97:10]: XVIII, 78. 
+
+But Pliny does not accept all the theories of the astrologers as to control of the stars over terrestrial nature. He repeats, but without definitely accepting it, the ascription by the Babylonians of earthquakes to three of the planets in particular, [^97:11] 
+
+ [^97:11]: II, 81.
+
+and the notion that the gem _sandastros_ or _garamantica_, employed by Chaldeans in their ceremonies, is intimately connected with the stars. [^98:1] 
+
+ [^98:1]: XXXVII, 28.
+
+He is openly incredulous about the gem glossopetra, shaped like a human tongue and supposed to fall from the sky during an eclipse of the moon and to be invaluable in selenomancy. [^98:2] 
+
+ [^98:2]: XXXVII, 59. 
+
+### Astrological medicine. 
+
+Pliny tells how the physician Crinas of Marseilles made a fortune by regulating diet and observing hours according to the motion of the stars. [^98:3] 
+
+ [^98:3]: XXIX, 5.
+
+But he does not show much faith in astrological medicine himself, rejecting entirely the elaborate classification of diseases and remedies which the astrologers had by his time already worked out for the revolutions of the sun and moon in the twelve signs of the zodiac [^98:4] 
+
+ [^98:4]: XXX, 29.
+
+In his own recipes, however, astrological considerations are sometimes observed, as we have already seen, especially the rising of the dog-star and the phases of the moon. Pliny, indeed, states that the dog-star exerts an extensive influence upon the earth. [^98:5] 
+
+ [^98:5]: II, 40.
+
+As for the moon, the blood in the human body augments and decreases with its waxing and waning as shell-fish and other things in nature do. [^98:6] 
+
+  [^98:6]: II, 102.
+
+Indeed, painstaking men of research had discovered that even the entrails of the field-mouse corresponded in number to the days of the moon, that the ant stopped working during the inter lunar days, and that diseases of the eyes of certain beasts of burden also increased and decreased with the moon. [^98:7] But on the whole Pliny's medicine and science do not seem nearly so immersed in and saturated with astrology as with other forms of magic. This gap was for the middle ages amply filled by the authority of Ptolemy, of whose belief in astrology we shall treat in the next chapter. 
+
+ [^98:7]: II, 41.
+
+### Conclusion: magic unity of Pliny superstitions 
+
+We have tried to analyze the contents of the Natural History, bringing out certain main divisions and underlying principles of magic in Pliny's agriculture, medicine, and natural science. This is, however, an artificial and difficult task, since it is not easy to sever materials from ceremonial or the virtues of objects from the relations of sympathy or antipathy between them. Often the same passage might serve to illustrate several points. Take for example the following sentence: 
+
+> "Thrasyllus is authority that nothing is so hostile to serpents as crabs; swine who are stung cure themselves by this food, and when the sun is in Cancer, serpents are in pain." [^99:1] 
+
+Here we have at once antipathy, the remedies used by animals, the reasoning, characteristic of magic, from association and similarity, and the belief in astrology. And this confusion, to illustrate which a hundred other examples might be collected from the _Natural History_, demonstrates how indissolubly interwoven are all the varied threads that we have been tracing. They all go naturally together, they belong to the same long period of thought, they represent the same stage in mental development, they all are parts of magic. 
+
+  [^99:1]: XXXII, 19.
+
